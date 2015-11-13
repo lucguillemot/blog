@@ -1,0 +1,21 @@
+---
+layout: default
+title: Home
+---
+
+<div class="home">
+  <h1 class="page-heading" style="font-size:35px">Welcome!</h1>
+  <p>This is Luc Guillemot's blog. I write about my research at <a href="http://geography.berkeley.edu/">UC Berkeley Geography</a>. I write about urbanity and political geography in the San Francisco Bay Area. Find out more about me on my <a href="http://lucguillemot.net/">website</a> and more about my research project <a href="/about/">here</a>.</p>  
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+
+        <h2>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
