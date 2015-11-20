@@ -1,0 +1,49 @@
+body {
+	font-family:'cmu_typewriter_textregular';
+	font-size: 22px;
+	background-color: rgba(0, 30, 64, .1);
+	color:rgba(255,255,255,1);
+}
+
+#map {
+  width: 660px;
+  height: 450px;
+  cursor: crosshair;
+}
+
+.bg {
+  fill-opacity: .5;
+}
+
+.CL1  {fill: #18154C;}
+.CL2  {fill: #EC501C;}
+.CL3  {fill: #7F1B4F;}
+.CL4  {fill: #25318C;}
+.CL5  {fill: #1A86C3;}
+.CL6  {fill: #E71584;}
+.CL7  {fill: #4F3089;}
+.CL8  {fill: #FEF30C;}
+.CL9  {fill: #E6211C;}
+.CL10 {fill: #17ABA1;}
+
+path:hover {
+    fill: #fff;
+    fill-opacity: .6;
+    stroke:#fff;
+    stroke-width: 3px;
+}
+
+.div-legend {
+	padding: 10px;
+	height:500px;
+	width: 25%;
+	text-align: left;
+	position: fixed;
+    top: 30px;
+    left: 70%;
+    background-color: rgba(0, 0,0, .7);
+}
+
+.name {
+	font-family: 'cmu_typewriter_textbold';
+}

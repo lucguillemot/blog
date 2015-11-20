@@ -32,7 +32,9 @@ Urbanity “is a concept that cannot be restricted to what happens in cities. It
 
 Two competing models have been devised to explain ur- ban pattern and homogenization of votes: the “big sort” or “friends-and-neighbors influence”. Either people move to places where people are already like them, or they are influenced by their neighbors once they are settled.
 
-![kjdsn](img/whoisfirst.png)
+![image][]
+
+[image]: http://lucguillemot.github.io/movinghoods/img/whoisfirst.png width=100px
 
 **The big sort:** The big sort model states that people move to live with their own kind (Bishop, 2009). Individuals have different preferences and don’t share the same expectations in term of local public goods, therefore they will move to the place where local public goods services meet their expectations (Tiebout, 1956). Individuals who deem their local government does not align with their preferences favor moving to another community that fits best their political views over trying to influence local policies. This is what Tiebout (1956) calls “voting with one’s feet”: instead of casting a ballot, people move. For him, this is a spatial solution to the “free rider problem”, people benefiting from public goods without sharing the costs (Olson and Olson, 2009). Individuals might want to have a greatest impact on politics and choose therefore a community where their opinion will be more predictably taken into account, where their chosen policies will be actually delivered.
 
