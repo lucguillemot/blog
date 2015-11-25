@@ -94,12 +94,11 @@
  * Site footer
  */
 .site-footer {
-    //border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
 }
 
-.site-footer > a {
-    border-bottom:none;
+.site-footer a {
+    border-bottom: 0px solid;
 }
 
 .footer-heading {
@@ -111,6 +110,10 @@
 .social-media-list {
     list-style: none;
     margin-left: 0;
+}
+
+.contact-list a {
+    border-bottom: 0px solid;
 }
 
 .footer-col-wrapper {
