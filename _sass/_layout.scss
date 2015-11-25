@@ -4,7 +4,7 @@
 .site-header {
     color: $text-color;
     //border-top: 5px solid;
-    margin-top:100px;
+    margin-top:70px;
     //border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
@@ -34,7 +34,7 @@
     }
 
     .page-link {
-        color: $text-color;
+        color: $brand-color;
         line-height: $base-line-height;
 
         // Gaps between nav items, but not on the first one
@@ -171,7 +171,7 @@
  * Page content
  */
 .page-content {
-    padding: $spacing-unit 0;
+    padding: $spacing-unit/2 0;
 }
 
 .page-heading {
