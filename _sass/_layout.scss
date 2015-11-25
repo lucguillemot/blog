@@ -98,6 +98,10 @@
     padding: $spacing-unit 0;
 }
 
+.site-footer > a {
+    border-bottom:none;
+}
+
 .footer-heading {
     font-size: 18px;
     margin-bottom: $spacing-unit / 2;
