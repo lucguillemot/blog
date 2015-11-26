@@ -4,13 +4,13 @@ title: About
 permalink: /about/
 ---
 
-I am interested in the relation between residential choices and political beliefs. I am looking at the political significance of urban (or non-urban) settings as both the cause (the reason for moving in) and the result (as a consequence of local politics) of the idea of society that leads to a residential choice. As residential choice is not always a free choice, I also tackle the issue of gentrification, particularly contentious in the Bay Area.
+I am interested in the relation between residential choices and political beliefs. I am looking at the political significance of urban (or non-urban) settings as both the cause (the reason for moving in) and the result (as a consequence of local politics) of the idea of society that leads to a residential choice. As residential choice is not always a free choice, I also tackle the issue of gentrification, particularly contentious in the Bay Area. Please find below more about the issues at stake.
 
 This research project is funded by the [Swiss National Science Foundation](http://www.snf.ch/en/Pages/default.aspx).
 
 # The Urban Pattern of Votes #
 
-The level of urbanity seems to be a consistent explanatory dimension to spatial patterns of electoral geography. Most democratic countries demonstrate a **dichotomy in voting behavior between city centers on the one side and less urban areas on the other side**. This dichotomy is for instance patent in [2012 Obama election](http://lucguillemot.net/maps/us2012) where city centers tended to lean more democratic than their outskirts. Most federal ballots in Switzerland [follow the same pattern](http://www.espacestemps.net/articles/minarets-malaise-dans-alteridentite/). The French 2012 presidential election also exhibits [such an urban/suburban pattern](http://lucguillemot.net/maps/presidentielle). This pattern was especially salient regarding the far-right party Front National whose best results occurred in the suburbs of cities. More than social and demographic characteristics, the distance to the center seems therefore to be a valuable predictor of election outcomes.
+The level of urbanity seems to be a consistent explanatory dimension to spatial patterns of electoral geography. Most democratic countries demonstrate a **dichotomy in voting behavior between city centers on the one side and less urban areas on the other side**. This dichotomy is for instance patent in [2012 Obama election](http://lucguillemot.net/maps/us2012) where city centers tended to lean more democratic than their outskirts. Most federal ballots in Switzerland [follow the same pattern](http://www.espacestemps.net/articles/minarets-malaise-dans-alteridentite/). The French 2012 presidential election also exhibits [such an urban/suburban pattern](http://lucguillemot.net/maps/presidentielle). This pattern was especially salient regarding the far-right party Front National whose best results occurred in the suburbs of cities. Along with social and demographic characteristics, the distance to central places seems therefore to be a valuable predictor of election outcomes.
 
 # Homogenization of Neighborhoods #
 
