@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style type="text/css">
+  body { background-color: #000; }
+</style>
+<body>
+<script src="//d3js.org/d3.v3.min.js"></script>
+<script src="//d3js.org/queue.v1.min.js"></script>
+<script src="//d3js.org/topojson.v1.min.js"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script>
+$(function(){
+  var width = 1200,
+      height = 600;
+
+  var svg = d3.select("body").append("svg").attr("width", width).attr("height", height);
+  
+  var projection = d3.geo.mercator()
+        .center([3.098, 46.536])
+        .scale(2000)
+        .translate([width/2, height/2]);
+
+  var path = d3.geo.path().projection(projection);
+
+  queue()
+      .defer(d3.json, "FRmuni.json")
+      .defer(d3.csv, "DATARG2015.csv")
+      .await(ready);
+
+  function ready(error, map, data) {
+
+    var WinnerById = {};
+
+    data.forEach(function(d) {
+        WinnerById[d.INSEE]= d.winner;
+    });
+
+    var Top = d3.scale.threshold() // Threshold scale
+              .domain([500,1000, 3000, 5000, 10000, 20000, 50000, 100000, 300000, 400000, 2240622])
+              .range([0,0.1,0.2,0.3,0.4,0.5,0.6,0.7,0.8,0.9,1]);
+    
+    svg.append("g")
+        .attr("class", "muni")
+        .selectAll("path")
+        .data(topojson.feature(map, map.objects.communes).features)
+        .enter().append("path")
+        .attr("d", path)
+        .style("fill-opacity", function(d){
+          return Top(d.properties.POPULATION);
+        })
+        .style("fill", function(d) {          
+          switch(WinnerById[d.properties.INSEE_COM]) {
+            case "LEXG": // Listes d'extrême-gauche
+            case "LCOM":
+            case "LFG":
+              return "#e41a1c"; 
+              break;
+            case "LVEG":// Listes écologistes
+            case "LVEC":
+            case "LECO":
+              return "#4daf4a";
+              break;
+            case "LSOC": // Listes de gauche
+            case "LUG":
+            case "LRDG":
+            case "LDVG":
+              return "#f0027f";
+              break;
+            case "LREG": // Listes régionalistes
+              return "#ffff33";
+              break;
+            case "LMDM": // Listes Modem
+              return "#ff7f00";
+              break;
+            case "LLR": // Listes de droite
+            case "LUD":
+            case "LDLF":
+            case "LDVD":
+              return "#377eb8";
+              break;
+            case "LFN":
+              return "#a65628";
+              break;
+          }
+        })
+        .on("mouseover", function(d){
+          console.log(d.properties.NOM_COM);
+        });
+  };
+});
+
+</script>
+</body>
+</html>
