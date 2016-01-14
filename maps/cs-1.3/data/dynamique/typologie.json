@@ -1,0 +1,1058 @@
+[
+{"id_lieu":"47","nom":"Renens","km":1,"tps_moy_tp":1,"tps_moy_tp_6_00":1,"tps_moy_tp_7_20":1,"tps_moy_v":1,"tps_moy_v_6_00":1,"tps_moy_v_7_20":1
+	,"ectyp_tp":1,"ectyp_tp_6_00":1,"ectyp_tp_7_20":1,"ectyp_v":1,"ectyp_v_6_00":1,"ectyp_v_7_20":2
+	,"amplitude_tp":1,"amplitude_tp_6_00":1,"amplitude_tp_7_20":1,"amplitude_v":1,"amplitude_v_6_00":1,"amplitude_v_7_20":1,"moy_ectypmob_tp_1h":2,"moy_ectypmob_tp_1h_6_00":1,"moy_ectypmob_tp_1h_7_20":1
+	,"moy_ectypmob_tp_30m":1,"moy_ectypmob_tp_30m_6_00":1,"moy_ectypmob_tp_30m_7_20":1,"moy_ectypmob_tp_15m":1,"moy_ectypmob_tp_15m_6_00":1,"moy_ectypmob_tp_15m_7_20":1,"moy_ectypmob_v_1h":1,"moy_ectypmob_v_1h_6_00":1,"moy_ectypmob_v_1h_7_20":2
+	,"moy_ectypmob_v_30m":1,"moy_ectypmob_v_30m_6_00":1,"moy_ectypmob_v_30m_7_20":2,"moy_ectypmob_v_15m":1,"moy_ectypmob_v_15m_6_00":1,"moy_ectypmob_v_15m_7_20":2
+	,"delta_tpv":1,"delta_tpv_6_00":1,"delta_tpv_7_20":1},
+{"id_lieu":"86","nom":"Lausanne, Malley","km":1,"tps_moy_tp":1,"tps_moy_tp_6_00":1,"tps_moy_tp_7_20":1,"tps_moy_v":1,"tps_moy_v_6_00":1,"tps_moy_v_7_20":1
+	,"ectyp_tp":2,"ectyp_tp_6_00":1,"ectyp_tp_7_20":1,"ectyp_v":1,"ectyp_v_6_00":1,"ectyp_v_7_20":3
+	,"amplitude_tp":3,"amplitude_tp_6_00":1,"amplitude_tp_7_20":1,"amplitude_v":1,"amplitude_v_6_00":2,"amplitude_v_7_20":3,"moy_ectypmob_tp_1h":1,"moy_ectypmob_tp_1h_6_00":1,"moy_ectypmob_tp_1h_7_20":1
+	,"moy_ectypmob_tp_30m":1,"moy_ectypmob_tp_30m_6_00":1,"moy_ectypmob_tp_30m_7_20":1,"moy_ectypmob_tp_15m":1,"moy_ectypmob_tp_15m_6_00":1,"moy_ectypmob_tp_15m_7_20":1,"moy_ectypmob_v_1h":2,"moy_ectypmob_v_1h_6_00":2,"moy_ectypmob_v_1h_7_20":3
+	,"moy_ectypmob_v_30m":2,"moy_ectypmob_v_30m_6_00":3,"moy_ectypmob_v_30m_7_20":4,"moy_ectypmob_v_15m":2,"moy_ectypmob_v_15m_6_00":3,"moy_ectypmob_v_15m_7_20":4
+	,"delta_tpv":1,"delta_tpv_6_00":1,"delta_tpv_7_20":1},
+{"id_lieu":"88","nom":"St-Sulpice, centre","km":1,"tps_moy_tp":1,"tps_moy_tp_6_00":1,"tps_moy_tp_7_20":1,"tps_moy_v":1,"tps_moy_v_6_00":1,"tps_moy_v_7_20":1
+	,"ectyp_tp":3,"ectyp_tp_6_00":1,"ectyp_tp_7_20":2,"ectyp_v":1,"ectyp_v_6_00":1,"ectyp_v_7_20":1
+	,"amplitude_tp":3,"amplitude_tp_6_00":1,"amplitude_tp_7_20":1,"amplitude_v":1,"amplitude_v_6_00":1,"amplitude_v_7_20":1,"moy_ectypmob_tp_1h":1,"moy_ectypmob_tp_1h_6_00":1,"moy_ectypmob_tp_1h_7_20":2
+	,"moy_ectypmob_tp_30m":1,"moy_ectypmob_tp_30m_6_00":1,"moy_ectypmob_tp_30m_7_20":2,"moy_ectypmob_tp_15m":1,"moy_ectypmob_tp_15m_6_00":1,"moy_ectypmob_tp_15m_7_20":2,"moy_ectypmob_v_1h":1,"moy_ectypmob_v_1h_6_00":1,"moy_ectypmob_v_1h_7_20":1
+	,"moy_ectypmob_v_30m":1,"moy_ectypmob_v_30m_6_00":1,"moy_ectypmob_v_30m_7_20":1,"moy_ectypmob_v_15m":1,"moy_ectypmob_v_15m_6_00":1,"moy_ectypmob_v_15m_7_20":1
+	,"delta_tpv":1,"delta_tpv_6_00":1,"delta_tpv_7_20":1},
+{"id_lieu":"135","nom":"Renens, Avenue de la Poste 29","km":1,"tps_moy_tp":1,"tps_moy_tp_6_00":1,"tps_moy_tp_7_20":1,"tps_moy_v":1,"tps_moy_v_6_00":1,"tps_moy_v_7_20":1
+	,"ectyp_tp":1,"ectyp_tp_6_00":1,"ectyp_tp_7_20":1,"ectyp_v":5,"ectyp_v_6_00":3,"ectyp_v_7_20":5
+	,"amplitude_tp":1,"amplitude_tp_6_00":1,"amplitude_tp_7_20":1,"amplitude_v":9,"amplitude_v_6_00":2,"amplitude_v_7_20":2,"moy_ectypmob_tp_1h":2,"moy_ectypmob_tp_1h_6_00":1,"moy_ectypmob_tp_1h_7_20":1
+	,"moy_ectypmob_tp_30m":1,"moy_ectypmob_tp_30m_6_00":1,"moy_ectypmob_tp_30m_7_20":1,"moy_ectypmob_tp_15m":1,"moy_ectypmob_tp_15m_6_00":1,"moy_ectypmob_tp_15m_7_20":1,"moy_ectypmob_v_1h":1,"moy_ectypmob_v_1h_6_00":1,"moy_ectypmob_v_1h_7_20":1
+	,"moy_ectypmob_v_30m":3,"moy_ectypmob_v_30m_6_00":2,"moy_ectypmob_v_30m_7_20":2,"moy_ectypmob_v_15m":7,"moy_ectypmob_v_15m_6_00":2,"moy_ectypmob_v_15m_7_20":3
+	,"delta_tpv":1,"delta_tpv_6_00":1,"delta_tpv_7_20":1},
+{"id_lieu":"45","nom":"Lausanne","km":1,"tps_moy_tp":1,"tps_moy_tp_6_00":1,"tps_moy_tp_7_20":1,"tps_moy_v":1,"tps_moy_v_6_00":1,"tps_moy_v_7_20":1
+	,"ectyp_tp":1,"ectyp_tp_6_00":1,"ectyp_tp_7_20":1,"ectyp_v":5,"ectyp_v_6_00":6,"ectyp_v_7_20":8
+	,"amplitude_tp":2,"amplitude_tp_6_00":1,"amplitude_tp_7_20":1,"amplitude_v":4,"amplitude_v_6_00":4,"amplitude_v_7_20":7,"moy_ectypmob_tp_1h":1,"moy_ectypmob_tp_1h_6_00":1,"moy_ectypmob_tp_1h_7_20":1
+	,"moy_ectypmob_tp_30m":1,"moy_ectypmob_tp_30m_6_00":1,"moy_ectypmob_tp_30m_7_20":1,"moy_ectypmob_tp_15m":1,"moy_ectypmob_tp_15m_6_00":1,"moy_ectypmob_tp_15m_7_20":1,"moy_ectypmob_v_1h":5,"moy_ectypmob_v_1h_6_00":6,"moy_ectypmob_v_1h_7_20":5
+	,"moy_ectypmob_v_30m":4,"moy_ectypmob_v_30m_6_00":5,"moy_ectypmob_v_30m_7_20":4,"moy_ectypmob_v_15m":3,"moy_ectypmob_v_15m_6_00":5,"moy_ectypmob_v_15m_7_20":4
+	,"delta_tpv":1,"delta_tpv_6_00":1,"delta_tpv_7_20":1},
+{"id_lieu":"174","nom":"Lausanne, Avenue de Morges 90","km":1,"tps_moy_tp":1,"tps_moy_tp_6_00":1,"tps_moy_tp_7_20":1,"tps_moy_v":1,"tps_moy_v_6_00":1,"tps_moy_v_7_20":1
+	,"ectyp_tp":2,"ectyp_tp_6_00":1,"ectyp_tp_7_20":1,"ectyp_v":1,"ectyp_v_6_00":1,"ectyp_v_7_20":2
+	,"amplitude_tp":3,"amplitude_tp_6_00":1,"amplitude_tp_7_20":1,"amplitude_v":1,"amplitude_v_6_00":1,"amplitude_v_7_20":2,"moy_ectypmob_tp_1h":1,"moy_ectypmob_tp_1h_6_00":1,"moy_ectypmob_tp_1h_7_20":1
+	,"moy_ectypmob_tp_30m":1,"moy_ectypmob_tp_30m_6_00":1,"moy_ectypmob_tp_30m_7_20":1,"moy_ectypmob_tp_15m":1,"moy_ectypmob_tp_15m_6_00":1,"moy_ectypmob_tp_15m_7_20":1,"moy_ectypmob_v_1h":1,"moy_ectypmob_v_1h_6_00":2,"moy_ectypmob_v_1h_7_20":2
+	,"moy_ectypmob_v_30m":1,"moy_ectypmob_v_30m_6_00":1,"moy_ectypmob_v_30m_7_20":1,"moy_ectypmob_v_15m":1,"moy_ectypmob_v_15m_6_00":1,"moy_ectypmob_v_15m_7_20":1
+	,"delta_tpv":1,"delta_tpv_6_00":1,"delta_tpv_7_20":1},
+{"id_lieu":"176","nom":"Saint-Sulpice, Rue des Jordils 41","km":1,"tps_moy_tp":1,"tps_moy_tp_6_00":1,"tps_moy_tp_7_20":1,"tps_moy_v":1,"tps_moy_v_6_00":1,"tps_moy_v_7_20":1
+	,"ectyp_tp":3,"ectyp_tp_6_00":1,"ectyp_tp_7_20":2,"ectyp_v":1,"ectyp_v_6_00":1,"ectyp_v_7_20":1
+	,"amplitude_tp":3,"amplitude_tp_6_00":1,"amplitude_tp_7_20":1,"amplitude_v":1,"amplitude_v_6_00":1,"amplitude_v_7_20":1,"moy_ectypmob_tp_1h":1,"moy_ectypmob_tp_1h_6_00":1,"moy_ectypmob_tp_1h_7_20":2
+	,"moy_ectypmob_tp_30m":1,"moy_ectypmob_tp_30m_6_00":1,"moy_ectypmob_tp_30m_7_20":2,"moy_ectypmob_tp_15m":1,"moy_ectypmob_tp_15m_6_00":1,"moy_ectypmob_tp_15m_7_20":2,"moy_ectypmob_v_1h":1,"moy_ectypmob_v_1h_6_00":1,"moy_ectypmob_v_1h_7_20":1
+	,"moy_ectypmob_v_30m":1,"moy_ectypmob_v_30m_6_00":1,"moy_ectypmob_v_30m_7_20":1,"moy_ectypmob_v_15m":1,"moy_ectypmob_v_15m_6_00":1,"moy_ectypmob_v_15m_7_20":1
+	,"delta_tpv":1,"delta_tpv_6_00":1,"delta_tpv_7_20":1},
+{"id_lieu":"87","nom":"Lausanne, Délices","km":1,"tps_moy_tp":1,"tps_moy_tp_6_00":1,"tps_moy_tp_7_20":1,"tps_moy_v":1,"tps_moy_v_6_00":1,"tps_moy_v_7_20":1
+	,"ectyp_tp":3,"ectyp_tp_6_00":1,"ectyp_tp_7_20":1,"ectyp_v":4,"ectyp_v_6_00":5,"ectyp_v_7_20":7
+	,"amplitude_tp":3,"amplitude_tp_6_00":1,"amplitude_tp_7_20":1,"amplitude_v":3,"amplitude_v_6_00":4,"amplitude_v_7_20":8,"moy_ectypmob_tp_1h":1,"moy_ectypmob_tp_1h_6_00":1,"moy_ectypmob_tp_1h_7_20":1
+	,"moy_ectypmob_tp_30m":1,"moy_ectypmob_tp_30m_6_00":1,"moy_ectypmob_tp_30m_7_20":1,"moy_ectypmob_tp_15m":1,"moy_ectypmob_tp_15m_6_00":1,"moy_ectypmob_tp_15m_7_20":1,"moy_ectypmob_v_1h":3,"moy_ectypmob_v_1h_6_00":3,"moy_ectypmob_v_1h_7_20":3
+	,"moy_ectypmob_v_30m":2,"moy_ectypmob_v_30m_6_00":3,"moy_ectypmob_v_30m_7_20":3,"moy_ectypmob_v_15m":2,"moy_ectypmob_v_15m_6_00":3,"moy_ectypmob_v_15m_7_20":3
+	,"delta_tpv":1,"delta_tpv_6_00":1,"delta_tpv_7_20":1},
+{"id_lieu":"133","nom":"Lausanne, Avenue Marc-Dufour 1","km":1,"tps_moy_tp":1,"tps_moy_tp_6_00":1,"tps_moy_tp_7_20":1,"tps_moy_v":1,"tps_moy_v_6_00":1,"tps_moy_v_7_20":1
+	,"ectyp_tp":1,"ectyp_tp_6_00":1,"ectyp_tp_7_20":1,"ectyp_v":4,"ectyp_v_6_00":5,"ectyp_v_7_20":7
+	,"amplitude_tp":2,"amplitude_tp_6_00":1,"amplitude_tp_7_20":1,"amplitude_v":9,"amplitude_v_6_00":10,"amplitude_v_7_20":10,"moy_ectypmob_tp_1h":1,"moy_ectypmob_tp_1h_6_00":1,"moy_ectypmob_tp_1h_7_20":1
+	,"moy_ectypmob_tp_30m":1,"moy_ectypmob_tp_30m_6_00":1,"moy_ectypmob_tp_30m_7_20":1,"moy_ectypmob_tp_15m":1,"moy_ectypmob_tp_15m_6_00":1,"moy_ectypmob_tp_15m_7_20":1,"moy_ectypmob_v_1h":8,"moy_ectypmob_v_1h_6_00":9,"moy_ectypmob_v_1h_7_20":9
+	,"moy_ectypmob_v_30m":9,"moy_ectypmob_v_30m_6_00":9,"moy_ectypmob_v_30m_7_20":9,"moy_ectypmob_v_15m":9,"moy_ectypmob_v_15m_6_00":9,"moy_ectypmob_v_15m_7_20":9
+	,"delta_tpv":1,"delta_tpv_6_00":1,"delta_tpv_7_20":2},
+{"id_lieu":"8","nom":"Lausanne, place de la navigation","km":1,"tps_moy_tp":1,"tps_moy_tp_6_00":1,"tps_moy_tp_7_20":1,"tps_moy_v":1,"tps_moy_v_6_00":1,"tps_moy_v_7_20":1
+	,"ectyp_tp":2,"ectyp_tp_6_00":1,"ectyp_tp_7_20":1,"ectyp_v":4,"ectyp_v_6_00":5,"ectyp_v_7_20":7
+	,"amplitude_tp":3,"amplitude_tp_6_00":1,"amplitude_tp_7_20":1,"amplitude_v":5,"amplitude_v_6_00":6,"amplitude_v_7_20":7,"moy_ectypmob_tp_1h":1,"moy_ectypmob_tp_1h_6_00":1,"moy_ectypmob_tp_1h_7_20":1
+	,"moy_ectypmob_tp_30m":1,"moy_ectypmob_tp_30m_6_00":1,"moy_ectypmob_tp_30m_7_20":1,"moy_ectypmob_tp_15m":1,"moy_ectypmob_tp_15m_6_00":1,"moy_ectypmob_tp_15m_7_20":1,"moy_ectypmob_v_1h":5,"moy_ectypmob_v_1h_6_00":6,"moy_ectypmob_v_1h_7_20":6
+	,"moy_ectypmob_v_30m":4,"moy_ectypmob_v_30m_6_00":5,"moy_ectypmob_v_30m_7_20":5,"moy_ectypmob_v_15m":4,"moy_ectypmob_v_15m_6_00":5,"moy_ectypmob_v_15m_7_20":6
+	,"delta_tpv":1,"delta_tpv_6_00":1,"delta_tpv_7_20":1},
+{"id_lieu":"7","nom":"Lausanne, Montétan","km":1,"tps_moy_tp":1,"tps_moy_tp_6_00":1,"tps_moy_tp_7_20":1,"tps_moy_v":1,"tps_moy_v_6_00":1,"tps_moy_v_7_20":1
+	,"ectyp_tp":3,"ectyp_tp_6_00":3,"ectyp_tp_7_20":1,"ectyp_v":6,"ectyp_v_6_00":6,"ectyp_v_7_20":8
+	,"amplitude_tp":4,"amplitude_tp_6_00":4,"amplitude_tp_7_20":1,"amplitude_v":5,"amplitude_v_6_00":6,"amplitude_v_7_20":7,"moy_ectypmob_tp_1h":1,"moy_ectypmob_tp_1h_6_00":1,"moy_ectypmob_tp_1h_7_20":1
+	,"moy_ectypmob_tp_30m":2,"moy_ectypmob_tp_30m_6_00":1,"moy_ectypmob_tp_30m_7_20":1,"moy_ectypmob_tp_15m":2,"moy_ectypmob_tp_15m_6_00":2,"moy_ectypmob_tp_15m_7_20":1,"moy_ectypmob_v_1h":2,"moy_ectypmob_v_1h_6_00":3,"moy_ectypmob_v_1h_7_20":2
+	,"moy_ectypmob_v_30m":3,"moy_ectypmob_v_30m_6_00":3,"moy_ectypmob_v_30m_7_20":2,"moy_ectypmob_v_15m":2,"moy_ectypmob_v_15m_6_00":3,"moy_ectypmob_v_15m_7_20":2
+	,"delta_tpv":1,"delta_tpv_6_00":1,"delta_tpv_7_20":1},
+{"id_lieu":"54","nom":"Cossonay","km":2,"tps_moy_tp":1,"tps_moy_tp_6_00":1,"tps_moy_tp_7_20":1,"tps_moy_v":2,"tps_moy_v_6_00":2,"tps_moy_v_7_20":2
+	,"ectyp_tp":3,"ectyp_tp_6_00":2,"ectyp_tp_7_20":3,"ectyp_v":4,"ectyp_v_6_00":5,"ectyp_v_7_20":7
+	,"amplitude_tp":3,"amplitude_tp_6_00":2,"amplitude_tp_7_20":4,"amplitude_v":1,"amplitude_v_6_00":2,"amplitude_v_7_20":5,"moy_ectypmob_tp_1h":3,"moy_ectypmob_tp_1h_6_00":2,"moy_ectypmob_tp_1h_7_20":4
+	,"moy_ectypmob_tp_30m":4,"moy_ectypmob_tp_30m_6_00":2,"moy_ectypmob_tp_30m_7_20":4,"moy_ectypmob_tp_15m":4,"moy_ectypmob_tp_15m_6_00":2,"moy_ectypmob_tp_15m_7_20":4,"moy_ectypmob_v_1h":4,"moy_ectypmob_v_1h_6_00":5,"moy_ectypmob_v_1h_7_20":5
+	,"moy_ectypmob_v_30m":3,"moy_ectypmob_v_30m_6_00":5,"moy_ectypmob_v_30m_7_20":5,"moy_ectypmob_v_15m":4,"moy_ectypmob_v_15m_6_00":5,"moy_ectypmob_v_15m_7_20":5
+	,"delta_tpv":1,"delta_tpv_6_00":1,"delta_tpv_7_20":1},
+{"id_lieu":"42","nom":"Epalinges, Croisettes","km":2,"tps_moy_tp":1,"tps_moy_tp_6_00":1,"tps_moy_tp_7_20":1,"tps_moy_v":2,"tps_moy_v_6_00":2,"tps_moy_v_7_20":2
+	,"ectyp_tp":3,"ectyp_tp_6_00":1,"ectyp_tp_7_20":1,"ectyp_v":4,"ectyp_v_6_00":3,"ectyp_v_7_20":5
+	,"amplitude_tp":3,"amplitude_tp_6_00":1,"amplitude_tp_7_20":1,"amplitude_v":5,"amplitude_v_6_00":5,"amplitude_v_7_20":7,"moy_ectypmob_tp_1h":1,"moy_ectypmob_tp_1h_6_00":1,"moy_ectypmob_tp_1h_7_20":1
+	,"moy_ectypmob_tp_30m":1,"moy_ectypmob_tp_30m_6_00":1,"moy_ectypmob_tp_30m_7_20":1,"moy_ectypmob_tp_15m":1,"moy_ectypmob_tp_15m_6_00":1,"moy_ectypmob_tp_15m_7_20":1,"moy_ectypmob_v_1h":3,"moy_ectypmob_v_1h_6_00":4,"moy_ectypmob_v_1h_7_20":5
+	,"moy_ectypmob_v_30m":5,"moy_ectypmob_v_30m_6_00":6,"moy_ectypmob_v_30m_7_20":6,"moy_ectypmob_v_15m":5,"moy_ectypmob_v_15m_6_00":6,"moy_ectypmob_v_15m_7_20":6
+	,"delta_tpv":1,"delta_tpv_6_00":1,"delta_tpv_7_20":1},
+{"id_lieu":"175","nom":"Lausanne, Avenue de Montchoisi 39","km":1,"tps_moy_tp":1,"tps_moy_tp_6_00":1,"tps_moy_tp_7_20":1,"tps_moy_v":2,"tps_moy_v_6_00":2,"tps_moy_v_7_20":2
+	,"ectyp_tp":3,"ectyp_tp_6_00":1,"ectyp_tp_7_20":1,"ectyp_v":6,"ectyp_v_6_00":6,"ectyp_v_7_20":8
+	,"amplitude_tp":2,"amplitude_tp_6_00":1,"amplitude_tp_7_20":1,"amplitude_v":5,"amplitude_v_6_00":7,"amplitude_v_7_20":8,"moy_ectypmob_tp_1h":1,"moy_ectypmob_tp_1h_6_00":1,"moy_ectypmob_tp_1h_7_20":1
+	,"moy_ectypmob_tp_30m":1,"moy_ectypmob_tp_30m_6_00":1,"moy_ectypmob_tp_30m_7_20":1,"moy_ectypmob_tp_15m":1,"moy_ectypmob_tp_15m_6_00":1,"moy_ectypmob_tp_15m_7_20":1,"moy_ectypmob_v_1h":6,"moy_ectypmob_v_1h_6_00":7,"moy_ectypmob_v_1h_7_20":6
+	,"moy_ectypmob_v_30m":6,"moy_ectypmob_v_30m_6_00":7,"moy_ectypmob_v_30m_7_20":6,"moy_ectypmob_v_15m":6,"moy_ectypmob_v_15m_6_00":7,"moy_ectypmob_v_15m_7_20":7
+	,"delta_tpv":2,"delta_tpv_6_00":1,"delta_tpv_7_20":2},
+{"id_lieu":"96","nom":"Lausanne, Chemin de Bellerive 8","km":1,"tps_moy_tp":1,"tps_moy_tp_6_00":1,"tps_moy_tp_7_20":1,"tps_moy_v":1,"tps_moy_v_6_00":1,"tps_moy_v_7_20":1
+	,"ectyp_tp":2,"ectyp_tp_6_00":1,"ectyp_tp_7_20":1,"ectyp_v":7,"ectyp_v_6_00":6,"ectyp_v_7_20":8
+	,"amplitude_tp":3,"amplitude_tp_6_00":1,"amplitude_tp_7_20":1,"amplitude_v":7,"amplitude_v_6_00":5,"amplitude_v_7_20":7,"moy_ectypmob_tp_1h":1,"moy_ectypmob_tp_1h_6_00":1,"moy_ectypmob_tp_1h_7_20":1
+	,"moy_ectypmob_tp_30m":1,"moy_ectypmob_tp_30m_6_00":1,"moy_ectypmob_tp_30m_7_20":1,"moy_ectypmob_tp_15m":1,"moy_ectypmob_tp_15m_6_00":1,"moy_ectypmob_tp_15m_7_20":1,"moy_ectypmob_v_1h":7,"moy_ectypmob_v_1h_6_00":6,"moy_ectypmob_v_1h_7_20":6
+	,"moy_ectypmob_v_30m":7,"moy_ectypmob_v_30m_6_00":6,"moy_ectypmob_v_30m_7_20":6,"moy_ectypmob_v_15m":6,"moy_ectypmob_v_15m_6_00":6,"moy_ectypmob_v_15m_7_20":6
+	,"delta_tpv":2,"delta_tpv_6_00":2,"delta_tpv_7_20":2},
+{"id_lieu":"75","nom":"Cery-Fleur-de-Lys","km":1,"tps_moy_tp":1,"tps_moy_tp_6_00":1,"tps_moy_tp_7_20":2,"tps_moy_v":1,"tps_moy_v_6_00":1,"tps_moy_v_7_20":1
+	,"ectyp_tp":3,"ectyp_tp_6_00":3,"ectyp_tp_7_20":4,"ectyp_v":2,"ectyp_v_6_00":4,"ectyp_v_7_20":3
+	,"amplitude_tp":4,"amplitude_tp_6_00":4,"amplitude_tp_7_20":3,"amplitude_v":4,"amplitude_v_6_00":6,"amplitude_v_7_20":2,"moy_ectypmob_tp_1h":3,"moy_ectypmob_tp_1h_6_00":3,"moy_ectypmob_tp_1h_7_20":5
+	,"moy_ectypmob_tp_30m":4,"moy_ectypmob_tp_30m_6_00":5,"moy_ectypmob_tp_30m_7_20":5,"moy_ectypmob_tp_15m":6,"moy_ectypmob_tp_15m_6_00":6,"moy_ectypmob_tp_15m_7_20":6,"moy_ectypmob_v_1h":4,"moy_ectypmob_v_1h_6_00":5,"moy_ectypmob_v_1h_7_20":5
+	,"moy_ectypmob_v_30m":5,"moy_ectypmob_v_30m_6_00":5,"moy_ectypmob_v_30m_7_20":6,"moy_ectypmob_v_15m":4,"moy_ectypmob_v_15m_6_00":5,"moy_ectypmob_v_15m_7_20":6
+	,"delta_tpv":2,"delta_tpv_6_00":2,"delta_tpv_7_20":3},
+{"id_lieu":"95","nom":"Lausanne, Avenue de France 93 ","km":1,"tps_moy_tp":1,"tps_moy_tp_6_00":2,"tps_moy_tp_7_20":2,"tps_moy_v":1,"tps_moy_v_6_00":1,"tps_moy_v_7_20":1
+	,"ectyp_tp":3,"ectyp_tp_6_00":3,"ectyp_tp_7_20":1,"ectyp_v":6,"ectyp_v_6_00":5,"ectyp_v_7_20":7
+	,"amplitude_tp":3,"amplitude_tp_6_00":4,"amplitude_tp_7_20":1,"amplitude_v":3,"amplitude_v_6_00":4,"amplitude_v_7_20":7,"moy_ectypmob_tp_1h":1,"moy_ectypmob_tp_1h_6_00":1,"moy_ectypmob_tp_1h_7_20":1
+	,"moy_ectypmob_tp_30m":2,"moy_ectypmob_tp_30m_6_00":1,"moy_ectypmob_tp_30m_7_20":1,"moy_ectypmob_tp_15m":2,"moy_ectypmob_tp_15m_6_00":2,"moy_ectypmob_tp_15m_7_20":1,"moy_ectypmob_v_1h":4,"moy_ectypmob_v_1h_6_00":5,"moy_ectypmob_v_1h_7_20":4
+	,"moy_ectypmob_v_30m":4,"moy_ectypmob_v_30m_6_00":5,"moy_ectypmob_v_30m_7_20":5,"moy_ectypmob_v_15m":4,"moy_ectypmob_v_15m_6_00":5,"moy_ectypmob_v_15m_7_20":6
+	,"delta_tpv":2,"delta_tpv_6_00":2,"delta_tpv_7_20":2},
+{"id_lieu":"12","nom":"Nyon","km":5,"tps_moy_tp":1,"tps_moy_tp_6_00":2,"tps_moy_tp_7_20":2,"tps_moy_v":4,"tps_moy_v_6_00":4,"tps_moy_v_7_20":4
+	,"ectyp_tp":1,"ectyp_tp_6_00":1,"ectyp_tp_7_20":2,"ectyp_v":5,"ectyp_v_6_00":4,"ectyp_v_7_20":7
+	,"amplitude_tp":2,"amplitude_tp_6_00":1,"amplitude_tp_7_20":2,"amplitude_v":4,"amplitude_v_6_00":5,"amplitude_v_7_20":6,"moy_ectypmob_tp_1h":1,"moy_ectypmob_tp_1h_6_00":1,"moy_ectypmob_tp_1h_7_20":2
+	,"moy_ectypmob_tp_30m":1,"moy_ectypmob_tp_30m_6_00":1,"moy_ectypmob_tp_30m_7_20":2,"moy_ectypmob_tp_15m":1,"moy_ectypmob_tp_15m_6_00":1,"moy_ectypmob_tp_15m_7_20":2,"moy_ectypmob_v_1h":2,"moy_ectypmob_v_1h_6_00":2,"moy_ectypmob_v_1h_7_20":3
+	,"moy_ectypmob_v_30m":1,"moy_ectypmob_v_30m_6_00":2,"moy_ectypmob_v_30m_7_20":2,"moy_ectypmob_v_15m":2,"moy_ectypmob_v_15m_6_00":2,"moy_ectypmob_v_15m_7_20":2
+	,"delta_tpv":1,"delta_tpv_6_00":1,"delta_tpv_7_20":1},
+{"id_lieu":"11","nom":"Gland","km":4,"tps_moy_tp":2,"tps_moy_tp_6_00":2,"tps_moy_tp_7_20":2,"tps_moy_v":4,"tps_moy_v_6_00":4,"tps_moy_v_7_20":4
+	,"ectyp_tp":1,"ectyp_tp_6_00":2,"ectyp_tp_7_20":5,"ectyp_v":3,"ectyp_v_6_00":2,"ectyp_v_7_20":4
+	,"amplitude_tp":2,"amplitude_tp_6_00":2,"amplitude_tp_7_20":3,"amplitude_v":1,"amplitude_v_6_00":3,"amplitude_v_7_20":4,"moy_ectypmob_tp_1h":2,"moy_ectypmob_tp_1h_6_00":2,"moy_ectypmob_tp_1h_7_20":5
+	,"moy_ectypmob_tp_30m":2,"moy_ectypmob_tp_30m_6_00":3,"moy_ectypmob_tp_30m_7_20":5,"moy_ectypmob_tp_15m":3,"moy_ectypmob_tp_15m_6_00":3,"moy_ectypmob_tp_15m_7_20":5,"moy_ectypmob_v_1h":1,"moy_ectypmob_v_1h_6_00":1,"moy_ectypmob_v_1h_7_20":1
+	,"moy_ectypmob_v_30m":1,"moy_ectypmob_v_30m_6_00":1,"moy_ectypmob_v_30m_7_20":1,"moy_ectypmob_v_15m":1,"moy_ectypmob_v_15m_6_00":1,"moy_ectypmob_v_15m_7_20":1
+	,"delta_tpv":1,"delta_tpv_6_00":1,"delta_tpv_7_20":2},
+{"id_lieu":"48","nom":"Romanel-sur-Lausanne","km":2,"tps_moy_tp":2,"tps_moy_tp_6_00":2,"tps_moy_tp_7_20":2,"tps_moy_v":2,"tps_moy_v_6_00":2,"tps_moy_v_7_20":2
+	,"ectyp_tp":3,"ectyp_tp_6_00":3,"ectyp_tp_7_20":4,"ectyp_v":2,"ectyp_v_6_00":3,"ectyp_v_7_20":3
+	,"amplitude_tp":4,"amplitude_tp_6_00":4,"amplitude_tp_7_20":3,"amplitude_v":2,"amplitude_v_6_00":1,"amplitude_v_7_20":1,"moy_ectypmob_tp_1h":3,"moy_ectypmob_tp_1h_6_00":3,"moy_ectypmob_tp_1h_7_20":4
+	,"moy_ectypmob_tp_30m":4,"moy_ectypmob_tp_30m_6_00":4,"moy_ectypmob_tp_30m_7_20":4,"moy_ectypmob_tp_15m":5,"moy_ectypmob_tp_15m_6_00":5,"moy_ectypmob_tp_15m_7_20":4,"moy_ectypmob_v_1h":3,"moy_ectypmob_v_1h_6_00":2,"moy_ectypmob_v_1h_7_20":2
+	,"moy_ectypmob_v_30m":3,"moy_ectypmob_v_30m_6_00":2,"moy_ectypmob_v_30m_7_20":2,"moy_ectypmob_v_15m":3,"moy_ectypmob_v_15m_6_00":2,"moy_ectypmob_v_15m_7_20":2
+	,"delta_tpv":2,"delta_tpv_6_00":2,"delta_tpv_7_20":2},
+{"id_lieu":"142","nom":"Penthalaz, Chemin de la Piscine 3","km":2,"tps_moy_tp":2,"tps_moy_tp_6_00":1,"tps_moy_tp_7_20":2,"tps_moy_v":2,"tps_moy_v_6_00":2,"tps_moy_v_7_20":2
+	,"ectyp_tp":3,"ectyp_tp_6_00":2,"ectyp_tp_7_20":3,"ectyp_v":8,"ectyp_v_6_00":7,"ectyp_v_7_20":9
+	,"amplitude_tp":4,"amplitude_tp_6_00":2,"amplitude_tp_7_20":4,"amplitude_v":6,"amplitude_v_6_00":6,"amplitude_v_7_20":5,"moy_ectypmob_tp_1h":3,"moy_ectypmob_tp_1h_6_00":2,"moy_ectypmob_tp_1h_7_20":4
+	,"moy_ectypmob_tp_30m":4,"moy_ectypmob_tp_30m_6_00":2,"moy_ectypmob_tp_30m_7_20":4,"moy_ectypmob_tp_15m":4,"moy_ectypmob_tp_15m_6_00":2,"moy_ectypmob_tp_15m_7_20":4,"moy_ectypmob_v_1h":6,"moy_ectypmob_v_1h_6_00":6,"moy_ectypmob_v_1h_7_20":6
+	,"moy_ectypmob_v_30m":6,"moy_ectypmob_v_30m_6_00":6,"moy_ectypmob_v_30m_7_20":6,"moy_ectypmob_v_15m":5,"moy_ectypmob_v_15m_6_00":5,"moy_ectypmob_v_15m_7_20":6
+	,"delta_tpv":2,"delta_tpv_6_00":2,"delta_tpv_7_20":2},
+{"id_lieu":"64","nom":"Vevey","km":4,"tps_moy_tp":2,"tps_moy_tp_6_00":2,"tps_moy_tp_7_20":2,"tps_moy_v":4,"tps_moy_v_6_00":4,"tps_moy_v_7_20":4
+	,"ectyp_tp":2,"ectyp_tp_6_00":2,"ectyp_tp_7_20":3,"ectyp_v":3,"ectyp_v_6_00":4,"ectyp_v_7_20":2
+	,"amplitude_tp":2,"amplitude_tp_6_00":2,"amplitude_tp_7_20":2,"amplitude_v":3,"amplitude_v_6_00":6,"amplitude_v_7_20":5,"moy_ectypmob_tp_1h":2,"moy_ectypmob_tp_1h_6_00":2,"moy_ectypmob_tp_1h_7_20":3
+	,"moy_ectypmob_tp_30m":2,"moy_ectypmob_tp_30m_6_00":2,"moy_ectypmob_tp_30m_7_20":3,"moy_ectypmob_tp_15m":2,"moy_ectypmob_tp_15m_6_00":2,"moy_ectypmob_tp_15m_7_20":2,"moy_ectypmob_v_1h":4,"moy_ectypmob_v_1h_6_00":5,"moy_ectypmob_v_1h_7_20":5
+	,"moy_ectypmob_v_30m":5,"moy_ectypmob_v_30m_6_00":6,"moy_ectypmob_v_30m_7_20":5,"moy_ectypmob_v_15m":5,"moy_ectypmob_v_15m_6_00":7,"moy_ectypmob_v_15m_7_20":6
+	,"delta_tpv":1,"delta_tpv_6_00":1,"delta_tpv_7_20":1},
+{"id_lieu":"130","nom":"Epalinges, Chemin des Planches 46","km":3,"tps_moy_tp":2,"tps_moy_tp_6_00":1,"tps_moy_tp_7_20":2,"tps_moy_v":2,"tps_moy_v_6_00":2,"tps_moy_v_7_20":2
+	,"ectyp_tp":3,"ectyp_tp_6_00":1,"ectyp_tp_7_20":1,"ectyp_v":1,"ectyp_v_6_00":2,"ectyp_v_7_20":1
+	,"amplitude_tp":3,"amplitude_tp_6_00":1,"amplitude_tp_7_20":1,"amplitude_v":1,"amplitude_v_6_00":2,"amplitude_v_7_20":1,"moy_ectypmob_tp_1h":1,"moy_ectypmob_tp_1h_6_00":1,"moy_ectypmob_tp_1h_7_20":1
+	,"moy_ectypmob_tp_30m":1,"moy_ectypmob_tp_30m_6_00":1,"moy_ectypmob_tp_30m_7_20":1,"moy_ectypmob_tp_15m":1,"moy_ectypmob_tp_15m_6_00":1,"moy_ectypmob_tp_15m_7_20":1,"moy_ectypmob_v_1h":1,"moy_ectypmob_v_1h_6_00":1,"moy_ectypmob_v_1h_7_20":1
+	,"moy_ectypmob_v_30m":1,"moy_ectypmob_v_30m_6_00":2,"moy_ectypmob_v_30m_7_20":1,"moy_ectypmob_v_15m":1,"moy_ectypmob_v_15m_6_00":2,"moy_ectypmob_v_15m_7_20":1
+	,"delta_tpv":2,"delta_tpv_6_00":2,"delta_tpv_7_20":2},
+{"id_lieu":"78","nom":"Morges, La Tour","km":2,"tps_moy_tp":2,"tps_moy_tp_6_00":2,"tps_moy_tp_7_20":1,"tps_moy_v":1,"tps_moy_v_6_00":1,"tps_moy_v_7_20":1
+	,"ectyp_tp":7,"ectyp_tp_6_00":7,"ectyp_tp_7_20":2,"ectyp_v":4,"ectyp_v_6_00":3,"ectyp_v_7_20":5
+	,"amplitude_tp":7,"amplitude_tp_6_00":7,"amplitude_tp_7_20":2,"amplitude_v":2,"amplitude_v_6_00":1,"amplitude_v_7_20":3,"moy_ectypmob_tp_1h":5,"moy_ectypmob_tp_1h_6_00":5,"moy_ectypmob_tp_1h_7_20":2
+	,"moy_ectypmob_tp_30m":3,"moy_ectypmob_tp_30m_6_00":3,"moy_ectypmob_tp_30m_7_20":2,"moy_ectypmob_tp_15m":3,"moy_ectypmob_tp_15m_6_00":3,"moy_ectypmob_tp_15m_7_20":2,"moy_ectypmob_v_1h":1,"moy_ectypmob_v_1h_6_00":2,"moy_ectypmob_v_1h_7_20":1
+	,"moy_ectypmob_v_30m":2,"moy_ectypmob_v_30m_6_00":2,"moy_ectypmob_v_30m_7_20":1,"moy_ectypmob_v_15m":2,"moy_ectypmob_v_15m_6_00":2,"moy_ectypmob_v_15m_7_20":1
+	,"delta_tpv":3,"delta_tpv_6_00":2,"delta_tpv_7_20":1},
+{"id_lieu":"52","nom":"Rolle","km":3,"tps_moy_tp":2,"tps_moy_tp_6_00":2,"tps_moy_tp_7_20":3,"tps_moy_v":2,"tps_moy_v_6_00":2,"tps_moy_v_7_20":2
+	,"ectyp_tp":2,"ectyp_tp_6_00":3,"ectyp_tp_7_20":6,"ectyp_v":5,"ectyp_v_6_00":4,"ectyp_v_7_20":6
+	,"amplitude_tp":4,"amplitude_tp_6_00":5,"amplitude_tp_7_20":5,"amplitude_v":5,"amplitude_v_6_00":6,"amplitude_v_7_20":7,"moy_ectypmob_tp_1h":4,"moy_ectypmob_tp_1h_6_00":5,"moy_ectypmob_tp_1h_7_20":6
+	,"moy_ectypmob_tp_30m":5,"moy_ectypmob_tp_30m_6_00":5,"moy_ectypmob_tp_30m_7_20":6,"moy_ectypmob_tp_15m":5,"moy_ectypmob_tp_15m_6_00":5,"moy_ectypmob_tp_15m_7_20":6,"moy_ectypmob_v_1h":1,"moy_ectypmob_v_1h_6_00":2,"moy_ectypmob_v_1h_7_20":2
+	,"moy_ectypmob_v_30m":1,"moy_ectypmob_v_30m_6_00":2,"moy_ectypmob_v_30m_7_20":2,"moy_ectypmob_v_15m":1,"moy_ectypmob_v_15m_6_00":1,"moy_ectypmob_v_15m_7_20":2
+	,"delta_tpv":2,"delta_tpv_6_00":3,"delta_tpv_7_20":3},
+{"id_lieu":"49","nom":"St-Prex","km":3,"tps_moy_tp":2,"tps_moy_tp_6_00":2,"tps_moy_tp_7_20":2,"tps_moy_v":2,"tps_moy_v_6_00":3,"tps_moy_v_7_20":3
+	,"ectyp_tp":5,"ectyp_tp_6_00":6,"ectyp_tp_7_20":6,"ectyp_v":8,"ectyp_v_6_00":8,"ectyp_v_7_20":9
+	,"amplitude_tp":5,"amplitude_tp_6_00":5,"amplitude_tp_7_20":5,"amplitude_v":6,"amplitude_v_6_00":7,"amplitude_v_7_20":8,"moy_ectypmob_tp_1h":6,"moy_ectypmob_tp_1h_6_00":6,"moy_ectypmob_tp_1h_7_20":6
+	,"moy_ectypmob_tp_30m":7,"moy_ectypmob_tp_30m_6_00":6,"moy_ectypmob_tp_30m_7_20":6,"moy_ectypmob_tp_15m":7,"moy_ectypmob_tp_15m_6_00":5,"moy_ectypmob_tp_15m_7_20":5,"moy_ectypmob_v_1h":3,"moy_ectypmob_v_1h_6_00":5,"moy_ectypmob_v_1h_7_20":4
+	,"moy_ectypmob_v_30m":3,"moy_ectypmob_v_30m_6_00":4,"moy_ectypmob_v_30m_7_20":3,"moy_ectypmob_v_15m":3,"moy_ectypmob_v_15m_6_00":4,"moy_ectypmob_v_15m_7_20":3
+	,"delta_tpv":2,"delta_tpv_6_00":3,"delta_tpv_7_20":2},
+{"id_lieu":"163","nom":"Prilly, Chemin de la Possession 1","km":1,"tps_moy_tp":2,"tps_moy_tp_6_00":2,"tps_moy_tp_7_20":2,"tps_moy_v":1,"tps_moy_v_6_00":1,"tps_moy_v_7_20":1
+	,"ectyp_tp":3,"ectyp_tp_6_00":3,"ectyp_tp_7_20":4,"ectyp_v":1,"ectyp_v_6_00":2,"ectyp_v_7_20":2
+	,"amplitude_tp":4,"amplitude_tp_6_00":4,"amplitude_tp_7_20":3,"amplitude_v":3,"amplitude_v_6_00":4,"amplitude_v_7_20":2,"moy_ectypmob_tp_1h":3,"moy_ectypmob_tp_1h_6_00":3,"moy_ectypmob_tp_1h_7_20":5
+	,"moy_ectypmob_tp_30m":4,"moy_ectypmob_tp_30m_6_00":5,"moy_ectypmob_tp_30m_7_20":5,"moy_ectypmob_tp_15m":6,"moy_ectypmob_tp_15m_6_00":6,"moy_ectypmob_tp_15m_7_20":6,"moy_ectypmob_v_1h":2,"moy_ectypmob_v_1h_6_00":2,"moy_ectypmob_v_1h_7_20":2
+	,"moy_ectypmob_v_30m":1,"moy_ectypmob_v_30m_6_00":2,"moy_ectypmob_v_30m_7_20":2,"moy_ectypmob_v_15m":1,"moy_ectypmob_v_15m_6_00":2,"moy_ectypmob_v_15m_7_20":2
+	,"delta_tpv":3,"delta_tpv_6_00":3,"delta_tpv_7_20":4},
+{"id_lieu":"44","nom":"Pully","km":2,"tps_moy_tp":2,"tps_moy_tp_6_00":2,"tps_moy_tp_7_20":2,"tps_moy_v":2,"tps_moy_v_6_00":2,"tps_moy_v_7_20":2
+	,"ectyp_tp":5,"ectyp_tp_6_00":3,"ectyp_tp_7_20":3,"ectyp_v":7,"ectyp_v_6_00":8,"ectyp_v_7_20":8
+	,"amplitude_tp":5,"amplitude_tp_6_00":5,"amplitude_tp_7_20":4,"amplitude_v":6,"amplitude_v_6_00":8,"amplitude_v_7_20":8,"moy_ectypmob_tp_1h":3,"moy_ectypmob_tp_1h_6_00":3,"moy_ectypmob_tp_1h_7_20":3
+	,"moy_ectypmob_tp_30m":3,"moy_ectypmob_tp_30m_6_00":3,"moy_ectypmob_tp_30m_7_20":3,"moy_ectypmob_tp_15m":4,"moy_ectypmob_tp_15m_6_00":4,"moy_ectypmob_tp_15m_7_20":3,"moy_ectypmob_v_1h":7,"moy_ectypmob_v_1h_6_00":8,"moy_ectypmob_v_1h_7_20":7
+	,"moy_ectypmob_v_30m":6,"moy_ectypmob_v_30m_6_00":7,"moy_ectypmob_v_30m_7_20":7,"moy_ectypmob_v_15m":6,"moy_ectypmob_v_15m_6_00":7,"moy_ectypmob_v_15m_7_20":6
+	,"delta_tpv":3,"delta_tpv_6_00":2,"delta_tpv_7_20":2},
+{"id_lieu":"100","nom":"Nyon, Quai Louis Bonnard","km":5,"tps_moy_tp":2,"tps_moy_tp_6_00":2,"tps_moy_tp_7_20":3,"tps_moy_v":4,"tps_moy_v_6_00":4,"tps_moy_v_7_20":4
+	,"ectyp_tp":1,"ectyp_tp_6_00":1,"ectyp_tp_7_20":2,"ectyp_v":6,"ectyp_v_6_00":5,"ectyp_v_7_20":7
+	,"amplitude_tp":2,"amplitude_tp_6_00":1,"amplitude_tp_7_20":2,"amplitude_v":3,"amplitude_v_6_00":4,"amplitude_v_7_20":8,"moy_ectypmob_tp_1h":1,"moy_ectypmob_tp_1h_6_00":1,"moy_ectypmob_tp_1h_7_20":2
+	,"moy_ectypmob_tp_30m":1,"moy_ectypmob_tp_30m_6_00":1,"moy_ectypmob_tp_30m_7_20":2,"moy_ectypmob_tp_15m":1,"moy_ectypmob_tp_15m_6_00":1,"moy_ectypmob_tp_15m_7_20":2,"moy_ectypmob_v_1h":3,"moy_ectypmob_v_1h_6_00":5,"moy_ectypmob_v_1h_7_20":5
+	,"moy_ectypmob_v_30m":3,"moy_ectypmob_v_30m_6_00":4,"moy_ectypmob_v_30m_7_20":5,"moy_ectypmob_v_15m":3,"moy_ectypmob_v_15m_6_00":4,"moy_ectypmob_v_15m_7_20":4
+	,"delta_tpv":1,"delta_tpv_6_00":2,"delta_tpv_7_20":2},
+{"id_lieu":"76","nom":"Lausanne, Pont-de-Chailly","km":2,"tps_moy_tp":2,"tps_moy_tp_6_00":2,"tps_moy_tp_7_20":1,"tps_moy_v":2,"tps_moy_v_6_00":2,"tps_moy_v_7_20":2
+	,"ectyp_tp":7,"ectyp_tp_6_00":4,"ectyp_tp_7_20":1,"ectyp_v":8,"ectyp_v_6_00":8,"ectyp_v_7_20":8
+	,"amplitude_tp":5,"amplitude_tp_6_00":4,"amplitude_tp_7_20":1,"amplitude_v":7,"amplitude_v_6_00":7,"amplitude_v_7_20":9,"moy_ectypmob_tp_1h":2,"moy_ectypmob_tp_1h_6_00":2,"moy_ectypmob_tp_1h_7_20":1
+	,"moy_ectypmob_tp_30m":2,"moy_ectypmob_tp_30m_6_00":2,"moy_ectypmob_tp_30m_7_20":1,"moy_ectypmob_tp_15m":2,"moy_ectypmob_tp_15m_6_00":2,"moy_ectypmob_tp_15m_7_20":1,"moy_ectypmob_v_1h":7,"moy_ectypmob_v_1h_6_00":8,"moy_ectypmob_v_1h_7_20":7
+	,"moy_ectypmob_v_30m":6,"moy_ectypmob_v_30m_6_00":7,"moy_ectypmob_v_30m_7_20":7,"moy_ectypmob_v_15m":6,"moy_ectypmob_v_15m_6_00":7,"moy_ectypmob_v_15m_7_20":7
+	,"delta_tpv":3,"delta_tpv_6_00":2,"delta_tpv_7_20":1},
+{"id_lieu":"99","nom":"Gland, Chemin des Magnenets 19","km":4,"tps_moy_tp":2,"tps_moy_tp_6_00":2,"tps_moy_tp_7_20":3,"tps_moy_v":4,"tps_moy_v_6_00":4,"tps_moy_v_7_20":4
+	,"ectyp_tp":1,"ectyp_tp_6_00":2,"ectyp_tp_7_20":5,"ectyp_v":3,"ectyp_v_6_00":2,"ectyp_v_7_20":5
+	,"amplitude_tp":2,"amplitude_tp_6_00":1,"amplitude_tp_7_20":3,"amplitude_v":2,"amplitude_v_6_00":2,"amplitude_v_7_20":3,"moy_ectypmob_tp_1h":2,"moy_ectypmob_tp_1h_6_00":2,"moy_ectypmob_tp_1h_7_20":5
+	,"moy_ectypmob_tp_30m":2,"moy_ectypmob_tp_30m_6_00":3,"moy_ectypmob_tp_30m_7_20":5,"moy_ectypmob_tp_15m":3,"moy_ectypmob_tp_15m_6_00":3,"moy_ectypmob_tp_15m_7_20":5,"moy_ectypmob_v_1h":1,"moy_ectypmob_v_1h_6_00":1,"moy_ectypmob_v_1h_7_20":1
+	,"moy_ectypmob_v_30m":1,"moy_ectypmob_v_30m_6_00":1,"moy_ectypmob_v_30m_7_20":1,"moy_ectypmob_v_15m":1,"moy_ectypmob_v_15m_6_00":1,"moy_ectypmob_v_15m_7_20":1
+	,"delta_tpv":2,"delta_tpv_6_00":2,"delta_tpv_7_20":3},
+{"id_lieu":"36","nom":"Yverdon-les-Bains","km":4,"tps_moy_tp":2,"tps_moy_tp_6_00":2,"tps_moy_tp_7_20":2,"tps_moy_v":4,"tps_moy_v_6_00":4,"tps_moy_v_7_20":4
+	,"ectyp_tp":3,"ectyp_tp_6_00":2,"ectyp_tp_7_20":4,"ectyp_v":5,"ectyp_v_6_00":6,"ectyp_v_7_20":5
+	,"amplitude_tp":4,"amplitude_tp_6_00":2,"amplitude_tp_7_20":6,"amplitude_v":6,"amplitude_v_6_00":8,"amplitude_v_7_20":7,"moy_ectypmob_tp_1h":2,"moy_ectypmob_tp_1h_6_00":2,"moy_ectypmob_tp_1h_7_20":3
+	,"moy_ectypmob_tp_30m":2,"moy_ectypmob_tp_30m_6_00":2,"moy_ectypmob_tp_30m_7_20":3,"moy_ectypmob_tp_15m":2,"moy_ectypmob_tp_15m_6_00":2,"moy_ectypmob_tp_15m_7_20":4,"moy_ectypmob_v_1h":5,"moy_ectypmob_v_1h_6_00":6,"moy_ectypmob_v_1h_7_20":6
+	,"moy_ectypmob_v_30m":5,"moy_ectypmob_v_30m_6_00":6,"moy_ectypmob_v_30m_7_20":6,"moy_ectypmob_v_15m":5,"moy_ectypmob_v_15m_6_00":6,"moy_ectypmob_v_15m_7_20":5
+	,"delta_tpv":2,"delta_tpv_6_00":1,"delta_tpv_7_20":2},
+{"id_lieu":"136","nom":"Romanel-sur-Lausanne, Chemin des Esserpys 7","km":2,"tps_moy_tp":2,"tps_moy_tp_6_00":3,"tps_moy_tp_7_20":3,"tps_moy_v":2,"tps_moy_v_6_00":2,"tps_moy_v_7_20":2
+	,"ectyp_tp":3,"ectyp_tp_6_00":3,"ectyp_tp_7_20":4,"ectyp_v":3,"ectyp_v_6_00":5,"ectyp_v_7_20":4
+	,"amplitude_tp":4,"amplitude_tp_6_00":4,"amplitude_tp_7_20":3,"amplitude_v":3,"amplitude_v_6_00":5,"amplitude_v_7_20":3,"moy_ectypmob_tp_1h":3,"moy_ectypmob_tp_1h_6_00":3,"moy_ectypmob_tp_1h_7_20":4
+	,"moy_ectypmob_tp_30m":4,"moy_ectypmob_tp_30m_6_00":4,"moy_ectypmob_tp_30m_7_20":4,"moy_ectypmob_tp_15m":5,"moy_ectypmob_tp_15m_6_00":5,"moy_ectypmob_tp_15m_7_20":4,"moy_ectypmob_v_1h":6,"moy_ectypmob_v_1h_6_00":5,"moy_ectypmob_v_1h_7_20":5
+	,"moy_ectypmob_v_30m":5,"moy_ectypmob_v_30m_6_00":4,"moy_ectypmob_v_30m_7_20":5,"moy_ectypmob_v_15m":5,"moy_ectypmob_v_15m_6_00":4,"moy_ectypmob_v_15m_7_20":4
+	,"delta_tpv":3,"delta_tpv_6_00":3,"delta_tpv_7_20":4},
+{"id_lieu":"152","nom":"Vevey, Quai Ernest-Ansermet 2","km":4,"tps_moy_tp":2,"tps_moy_tp_6_00":2,"tps_moy_tp_7_20":3,"tps_moy_v":4,"tps_moy_v_6_00":4,"tps_moy_v_7_20":4
+	,"ectyp_tp":2,"ectyp_tp_6_00":2,"ectyp_tp_7_20":3,"ectyp_v":2,"ectyp_v_6_00":3,"ectyp_v_7_20":1
+	,"amplitude_tp":3,"amplitude_tp_6_00":2,"amplitude_tp_7_20":2,"amplitude_v":1,"amplitude_v_6_00":1,"amplitude_v_7_20":1,"moy_ectypmob_tp_1h":2,"moy_ectypmob_tp_1h_6_00":2,"moy_ectypmob_tp_1h_7_20":3
+	,"moy_ectypmob_tp_30m":2,"moy_ectypmob_tp_30m_6_00":2,"moy_ectypmob_tp_30m_7_20":3,"moy_ectypmob_tp_15m":2,"moy_ectypmob_tp_15m_6_00":2,"moy_ectypmob_tp_15m_7_20":2,"moy_ectypmob_v_1h":2,"moy_ectypmob_v_1h_6_00":2,"moy_ectypmob_v_1h_7_20":1
+	,"moy_ectypmob_v_30m":2,"moy_ectypmob_v_30m_6_00":2,"moy_ectypmob_v_30m_7_20":1,"moy_ectypmob_v_15m":2,"moy_ectypmob_v_15m_6_00":2,"moy_ectypmob_v_15m_7_20":1
+	,"delta_tpv":2,"delta_tpv_6_00":2,"delta_tpv_7_20":2},
+{"id_lieu":"43","nom":"Cully","km":2,"tps_moy_tp":2,"tps_moy_tp_6_00":2,"tps_moy_tp_7_20":2,"tps_moy_v":4,"tps_moy_v_6_00":4,"tps_moy_v_7_20":4
+	,"ectyp_tp":5,"ectyp_tp_6_00":4,"ectyp_tp_7_20":5,"ectyp_v":7,"ectyp_v_6_00":8,"ectyp_v_7_20":8
+	,"amplitude_tp":7,"amplitude_tp_6_00":7,"amplitude_tp_7_20":4,"amplitude_v":6,"amplitude_v_6_00":8,"amplitude_v_7_20":8,"moy_ectypmob_tp_1h":4,"moy_ectypmob_tp_1h_6_00":4,"moy_ectypmob_tp_1h_7_20":6
+	,"moy_ectypmob_tp_30m":5,"moy_ectypmob_tp_30m_6_00":5,"moy_ectypmob_tp_30m_7_20":6,"moy_ectypmob_tp_15m":6,"moy_ectypmob_tp_15m_6_00":6,"moy_ectypmob_tp_15m_7_20":6,"moy_ectypmob_v_1h":8,"moy_ectypmob_v_1h_6_00":9,"moy_ectypmob_v_1h_7_20":9
+	,"moy_ectypmob_v_30m":8,"moy_ectypmob_v_30m_6_00":8,"moy_ectypmob_v_30m_7_20":9,"moy_ectypmob_v_15m":8,"moy_ectypmob_v_15m_6_00":8,"moy_ectypmob_v_15m_7_20":8
+	,"delta_tpv":2,"delta_tpv_6_00":2,"delta_tpv_7_20":1},
+{"id_lieu":"6","nom":"Pully, Val-Vert","km":2,"tps_moy_tp":2,"tps_moy_tp_6_00":2,"tps_moy_tp_7_20":1,"tps_moy_v":3,"tps_moy_v_6_00":3,"tps_moy_v_7_20":3
+	,"ectyp_tp":7,"ectyp_tp_6_00":4,"ectyp_tp_7_20":1,"ectyp_v":9,"ectyp_v_6_00":9,"ectyp_v_7_20":8
+	,"amplitude_tp":4,"amplitude_tp_6_00":4,"amplitude_tp_7_20":2,"amplitude_v":8,"amplitude_v_6_00":8,"amplitude_v_7_20":8,"moy_ectypmob_tp_1h":2,"moy_ectypmob_tp_1h_6_00":2,"moy_ectypmob_tp_1h_7_20":1
+	,"moy_ectypmob_tp_30m":2,"moy_ectypmob_tp_30m_6_00":2,"moy_ectypmob_tp_30m_7_20":1,"moy_ectypmob_tp_15m":2,"moy_ectypmob_tp_15m_6_00":2,"moy_ectypmob_tp_15m_7_20":1,"moy_ectypmob_v_1h":9,"moy_ectypmob_v_1h_6_00":9,"moy_ectypmob_v_1h_7_20":9
+	,"moy_ectypmob_v_30m":9,"moy_ectypmob_v_30m_6_00":9,"moy_ectypmob_v_30m_7_20":9,"moy_ectypmob_v_15m":8,"moy_ectypmob_v_15m_6_00":9,"moy_ectypmob_v_15m_7_20":8
+	,"delta_tpv":3,"delta_tpv_6_00":2,"delta_tpv_7_20":1},
+{"id_lieu":"166","nom":"Morges, Résidences de la Côte 40","km":1,"tps_moy_tp":3,"tps_moy_tp_6_00":3,"tps_moy_tp_7_20":2,"tps_moy_v":1,"tps_moy_v_6_00":1,"tps_moy_v_7_20":1
+	,"ectyp_tp":7,"ectyp_tp_6_00":7,"ectyp_tp_7_20":2,"ectyp_v":1,"ectyp_v_6_00":1,"ectyp_v_7_20":2
+	,"amplitude_tp":7,"amplitude_tp_6_00":7,"amplitude_tp_7_20":2,"amplitude_v":1,"amplitude_v_6_00":1,"amplitude_v_7_20":2,"moy_ectypmob_tp_1h":5,"moy_ectypmob_tp_1h_6_00":5,"moy_ectypmob_tp_1h_7_20":2
+	,"moy_ectypmob_tp_30m":3,"moy_ectypmob_tp_30m_6_00":3,"moy_ectypmob_tp_30m_7_20":2,"moy_ectypmob_tp_15m":3,"moy_ectypmob_tp_15m_6_00":3,"moy_ectypmob_tp_15m_7_20":2,"moy_ectypmob_v_1h":3,"moy_ectypmob_v_1h_6_00":4,"moy_ectypmob_v_1h_7_20":4
+	,"moy_ectypmob_v_30m":4,"moy_ectypmob_v_30m_6_00":5,"moy_ectypmob_v_30m_7_20":5,"moy_ectypmob_v_15m":4,"moy_ectypmob_v_15m_6_00":5,"moy_ectypmob_v_15m_7_20":5
+	,"delta_tpv":4,"delta_tpv_6_00":4,"delta_tpv_7_20":3},
+{"id_lieu":"72","nom":"Genève","km":7,"tps_moy_tp":3,"tps_moy_tp_6_00":3,"tps_moy_tp_7_20":4,"tps_moy_v":7,"tps_moy_v_6_00":7,"tps_moy_v_7_20":7
+	,"ectyp_tp":1,"ectyp_tp_6_00":1,"ectyp_tp_7_20":2,"ectyp_v":10,"ectyp_v_6_00":10,"ectyp_v_7_20":10
+	,"amplitude_tp":1,"amplitude_tp_6_00":1,"amplitude_tp_7_20":2,"amplitude_v":10,"amplitude_v_6_00":10,"amplitude_v_7_20":10,"moy_ectypmob_tp_1h":1,"moy_ectypmob_tp_1h_6_00":2,"moy_ectypmob_tp_1h_7_20":2
+	,"moy_ectypmob_tp_30m":1,"moy_ectypmob_tp_30m_6_00":2,"moy_ectypmob_tp_30m_7_20":2,"moy_ectypmob_tp_15m":1,"moy_ectypmob_tp_15m_6_00":1,"moy_ectypmob_tp_15m_7_20":2,"moy_ectypmob_v_1h":10,"moy_ectypmob_v_1h_6_00":10,"moy_ectypmob_v_1h_7_20":10
+	,"moy_ectypmob_v_30m":10,"moy_ectypmob_v_30m_6_00":10,"moy_ectypmob_v_30m_7_20":10,"moy_ectypmob_v_15m":10,"moy_ectypmob_v_15m_6_00":10,"moy_ectypmob_v_15m_7_20":10
+	,"delta_tpv":1,"delta_tpv_6_00":2,"delta_tpv_7_20":2},
+{"id_lieu":"140","nom":"Mont-sur-Rolle, Chemin des Joncs 25","km":3,"tps_moy_tp":3,"tps_moy_tp_6_00":3,"tps_moy_tp_7_20":3,"tps_moy_v":3,"tps_moy_v_6_00":3,"tps_moy_v_7_20":3
+	,"ectyp_tp":2,"ectyp_tp_6_00":3,"ectyp_tp_7_20":6,"ectyp_v":2,"ectyp_v_6_00":1,"ectyp_v_7_20":2
+	,"amplitude_tp":4,"amplitude_tp_6_00":5,"amplitude_tp_7_20":5,"amplitude_v":5,"amplitude_v_6_00":6,"amplitude_v_7_20":6,"moy_ectypmob_tp_1h":4,"moy_ectypmob_tp_1h_6_00":5,"moy_ectypmob_tp_1h_7_20":6
+	,"moy_ectypmob_tp_30m":5,"moy_ectypmob_tp_30m_6_00":5,"moy_ectypmob_tp_30m_7_20":6,"moy_ectypmob_tp_15m":5,"moy_ectypmob_tp_15m_6_00":5,"moy_ectypmob_tp_15m_7_20":6,"moy_ectypmob_v_1h":3,"moy_ectypmob_v_1h_6_00":1,"moy_ectypmob_v_1h_7_20":1
+	,"moy_ectypmob_v_30m":5,"moy_ectypmob_v_30m_6_00":1,"moy_ectypmob_v_30m_7_20":2,"moy_ectypmob_v_15m":6,"moy_ectypmob_v_15m_6_00":2,"moy_ectypmob_v_15m_7_20":3
+	,"delta_tpv":4,"delta_tpv_6_00":4,"delta_tpv_7_20":5},
+{"id_lieu":"137","nom":"Saint-Prex, Chemin de Vegney","km":3,"tps_moy_tp":3,"tps_moy_tp_6_00":3,"tps_moy_tp_7_20":3,"tps_moy_v":2,"tps_moy_v_6_00":2,"tps_moy_v_7_20":2
+	,"ectyp_tp":5,"ectyp_tp_6_00":6,"ectyp_tp_7_20":6,"ectyp_v":7,"ectyp_v_6_00":6,"ectyp_v_7_20":8
+	,"amplitude_tp":5,"amplitude_tp_6_00":5,"amplitude_tp_7_20":5,"amplitude_v":6,"amplitude_v_6_00":4,"amplitude_v_7_20":6,"moy_ectypmob_tp_1h":6,"moy_ectypmob_tp_1h_6_00":6,"moy_ectypmob_tp_1h_7_20":6
+	,"moy_ectypmob_tp_30m":7,"moy_ectypmob_tp_30m_6_00":6,"moy_ectypmob_tp_30m_7_20":6,"moy_ectypmob_tp_15m":7,"moy_ectypmob_tp_15m_6_00":5,"moy_ectypmob_tp_15m_7_20":5,"moy_ectypmob_v_1h":5,"moy_ectypmob_v_1h_6_00":5,"moy_ectypmob_v_1h_7_20":5
+	,"moy_ectypmob_v_30m":4,"moy_ectypmob_v_30m_6_00":4,"moy_ectypmob_v_30m_7_20":4,"moy_ectypmob_v_15m":3,"moy_ectypmob_v_15m_6_00":4,"moy_ectypmob_v_15m_7_20":4
+	,"delta_tpv":4,"delta_tpv_6_00":4,"delta_tpv_7_20":3},
+{"id_lieu":"132","nom":"Pully, Chemin des Osches 75","km":2,"tps_moy_tp":3,"tps_moy_tp_6_00":3,"tps_moy_tp_7_20":2,"tps_moy_v":2,"tps_moy_v_6_00":2,"tps_moy_v_7_20":2
+	,"ectyp_tp":5,"ectyp_tp_6_00":3,"ectyp_tp_7_20":3,"ectyp_v":7,"ectyp_v_6_00":7,"ectyp_v_7_20":7
+	,"amplitude_tp":5,"amplitude_tp_6_00":5,"amplitude_tp_7_20":4,"amplitude_v":5,"amplitude_v_6_00":6,"amplitude_v_7_20":6,"moy_ectypmob_tp_1h":3,"moy_ectypmob_tp_1h_6_00":3,"moy_ectypmob_tp_1h_7_20":3
+	,"moy_ectypmob_tp_30m":3,"moy_ectypmob_tp_30m_6_00":3,"moy_ectypmob_tp_30m_7_20":3,"moy_ectypmob_tp_15m":4,"moy_ectypmob_tp_15m_6_00":4,"moy_ectypmob_tp_15m_7_20":3,"moy_ectypmob_v_1h":7,"moy_ectypmob_v_1h_6_00":7,"moy_ectypmob_v_1h_7_20":6
+	,"moy_ectypmob_v_30m":6,"moy_ectypmob_v_30m_6_00":6,"moy_ectypmob_v_30m_7_20":6,"moy_ectypmob_v_15m":6,"moy_ectypmob_v_15m_6_00":6,"moy_ectypmob_v_15m_7_20":5
+	,"delta_tpv":4,"delta_tpv_6_00":3,"delta_tpv_7_20":3},
+{"id_lieu":"164","nom":"Lausanne, Chemin de Haute-Brise 1","km":2,"tps_moy_tp":3,"tps_moy_tp_6_00":2,"tps_moy_tp_7_20":2,"tps_moy_v":2,"tps_moy_v_6_00":3,"tps_moy_v_7_20":3
+	,"ectyp_tp":7,"ectyp_tp_6_00":4,"ectyp_tp_7_20":1,"ectyp_v":8,"ectyp_v_6_00":7,"ectyp_v_7_20":6
+	,"amplitude_tp":5,"amplitude_tp_6_00":4,"amplitude_tp_7_20":1,"amplitude_v":6,"amplitude_v_6_00":7,"amplitude_v_7_20":6,"moy_ectypmob_tp_1h":2,"moy_ectypmob_tp_1h_6_00":2,"moy_ectypmob_tp_1h_7_20":1
+	,"moy_ectypmob_tp_30m":2,"moy_ectypmob_tp_30m_6_00":2,"moy_ectypmob_tp_30m_7_20":1,"moy_ectypmob_tp_15m":2,"moy_ectypmob_tp_15m_6_00":2,"moy_ectypmob_tp_15m_7_20":1,"moy_ectypmob_v_1h":8,"moy_ectypmob_v_1h_6_00":8,"moy_ectypmob_v_1h_7_20":7
+	,"moy_ectypmob_v_30m":7,"moy_ectypmob_v_30m_6_00":8,"moy_ectypmob_v_30m_7_20":7,"moy_ectypmob_v_15m":7,"moy_ectypmob_v_15m_6_00":8,"moy_ectypmob_v_15m_7_20":7
+	,"delta_tpv":4,"delta_tpv_6_00":3,"delta_tpv_7_20":2},
+{"id_lieu":"26","nom":"Aigle","km":6,"tps_moy_tp":3,"tps_moy_tp_6_00":3,"tps_moy_tp_7_20":4,"tps_moy_v":6,"tps_moy_v_6_00":6,"tps_moy_v_7_20":6
+	,"ectyp_tp":1,"ectyp_tp_6_00":2,"ectyp_tp_7_20":4,"ectyp_v":5,"ectyp_v_6_00":3,"ectyp_v_7_20":2
+	,"amplitude_tp":2,"amplitude_tp_6_00":2,"amplitude_tp_7_20":4,"amplitude_v":8,"amplitude_v_6_00":4,"amplitude_v_7_20":1,"moy_ectypmob_tp_1h":2,"moy_ectypmob_tp_1h_6_00":3,"moy_ectypmob_tp_1h_7_20":4
+	,"moy_ectypmob_tp_30m":3,"moy_ectypmob_tp_30m_6_00":3,"moy_ectypmob_tp_30m_7_20":5,"moy_ectypmob_tp_15m":3,"moy_ectypmob_tp_15m_6_00":3,"moy_ectypmob_tp_15m_7_20":4,"moy_ectypmob_v_1h":9,"moy_ectypmob_v_1h_6_00":2,"moy_ectypmob_v_1h_7_20":2
+	,"moy_ectypmob_v_30m":9,"moy_ectypmob_v_30m_6_00":2,"moy_ectypmob_v_30m_7_20":2,"moy_ectypmob_v_15m":9,"moy_ectypmob_v_15m_6_00":2,"moy_ectypmob_v_15m_7_20":2
+	,"delta_tpv":2,"delta_tpv_6_00":2,"delta_tpv_7_20":2},
+{"id_lieu":"124","nom":"Yverdon-les-Bains, Rue des Jordils 4","km":4,"tps_moy_tp":3,"tps_moy_tp_6_00":3,"tps_moy_tp_7_20":3,"tps_moy_v":4,"tps_moy_v_6_00":4,"tps_moy_v_7_20":4
+	,"ectyp_tp":3,"ectyp_tp_6_00":2,"ectyp_tp_7_20":4,"ectyp_v":4,"ectyp_v_6_00":5,"ectyp_v_7_20":5
+	,"amplitude_tp":4,"amplitude_tp_6_00":2,"amplitude_tp_7_20":6,"amplitude_v":4,"amplitude_v_6_00":4,"amplitude_v_7_20":4,"moy_ectypmob_tp_1h":2,"moy_ectypmob_tp_1h_6_00":2,"moy_ectypmob_tp_1h_7_20":3
+	,"moy_ectypmob_tp_30m":2,"moy_ectypmob_tp_30m_6_00":2,"moy_ectypmob_tp_30m_7_20":3,"moy_ectypmob_tp_15m":2,"moy_ectypmob_tp_15m_6_00":2,"moy_ectypmob_tp_15m_7_20":4,"moy_ectypmob_v_1h":4,"moy_ectypmob_v_1h_6_00":4,"moy_ectypmob_v_1h_7_20":5
+	,"moy_ectypmob_v_30m":4,"moy_ectypmob_v_30m_6_00":4,"moy_ectypmob_v_30m_7_20":5,"moy_ectypmob_v_15m":4,"moy_ectypmob_v_15m_6_00":4,"moy_ectypmob_v_15m_7_20":5
+	,"delta_tpv":3,"delta_tpv_6_00":3,"delta_tpv_7_20":3},
+{"id_lieu":"46","nom":"Le Mont-sur-Lausanne, Grand-Mont","km":2,"tps_moy_tp":3,"tps_moy_tp_6_00":3,"tps_moy_tp_7_20":2,"tps_moy_v":2,"tps_moy_v_6_00":2,"tps_moy_v_7_20":2
+	,"ectyp_tp":6,"ectyp_tp_6_00":5,"ectyp_tp_7_20":2,"ectyp_v":1,"ectyp_v_6_00":1,"ectyp_v_7_20":1
+	,"amplitude_tp":5,"amplitude_tp_6_00":6,"amplitude_tp_7_20":3,"amplitude_v":2,"amplitude_v_6_00":1,"amplitude_v_7_20":5,"moy_ectypmob_tp_1h":4,"moy_ectypmob_tp_1h_6_00":3,"moy_ectypmob_tp_1h_7_20":2
+	,"moy_ectypmob_tp_30m":4,"moy_ectypmob_tp_30m_6_00":4,"moy_ectypmob_tp_30m_7_20":2,"moy_ectypmob_tp_15m":4,"moy_ectypmob_tp_15m_6_00":4,"moy_ectypmob_tp_15m_7_20":3,"moy_ectypmob_v_1h":1,"moy_ectypmob_v_1h_6_00":1,"moy_ectypmob_v_1h_7_20":1
+	,"moy_ectypmob_v_30m":1,"moy_ectypmob_v_30m_6_00":1,"moy_ectypmob_v_30m_7_20":1,"moy_ectypmob_v_15m":1,"moy_ectypmob_v_15m_6_00":1,"moy_ectypmob_v_15m_7_20":1
+	,"delta_tpv":4,"delta_tpv_6_00":3,"delta_tpv_7_20":3},
+{"id_lieu":"131","nom":"Cully, Chemin des Colombaires 48","km":2,"tps_moy_tp":3,"tps_moy_tp_6_00":3,"tps_moy_tp_7_20":3,"tps_moy_v":4,"tps_moy_v_6_00":4,"tps_moy_v_7_20":4
+	,"ectyp_tp":5,"ectyp_tp_6_00":4,"ectyp_tp_7_20":5,"ectyp_v":8,"ectyp_v_6_00":8,"ectyp_v_7_20":8
+	,"amplitude_tp":7,"amplitude_tp_6_00":7,"amplitude_tp_7_20":4,"amplitude_v":6,"amplitude_v_6_00":7,"amplitude_v_7_20":8,"moy_ectypmob_tp_1h":4,"moy_ectypmob_tp_1h_6_00":4,"moy_ectypmob_tp_1h_7_20":6
+	,"moy_ectypmob_tp_30m":5,"moy_ectypmob_tp_30m_6_00":5,"moy_ectypmob_tp_30m_7_20":6,"moy_ectypmob_tp_15m":6,"moy_ectypmob_tp_15m_6_00":6,"moy_ectypmob_tp_15m_7_20":6,"moy_ectypmob_v_1h":8,"moy_ectypmob_v_1h_6_00":9,"moy_ectypmob_v_1h_7_20":9
+	,"moy_ectypmob_v_30m":8,"moy_ectypmob_v_30m_6_00":8,"moy_ectypmob_v_30m_7_20":8,"moy_ectypmob_v_15m":7,"moy_ectypmob_v_15m_6_00":9,"moy_ectypmob_v_15m_7_20":8
+	,"delta_tpv":3,"delta_tpv_6_00":2,"delta_tpv_7_20":2},
+{"id_lieu":"94","nom":"Pully, Chemin de la Bruyère 33","km":2,"tps_moy_tp":3,"tps_moy_tp_6_00":3,"tps_moy_tp_7_20":2,"tps_moy_v":3,"tps_moy_v_6_00":3,"tps_moy_v_7_20":3
+	,"ectyp_tp":7,"ectyp_tp_6_00":4,"ectyp_tp_7_20":1,"ectyp_v":9,"ectyp_v_6_00":9,"ectyp_v_7_20":9
+	,"amplitude_tp":4,"amplitude_tp_6_00":4,"amplitude_tp_7_20":2,"amplitude_v":8,"amplitude_v_6_00":9,"amplitude_v_7_20":9,"moy_ectypmob_tp_1h":2,"moy_ectypmob_tp_1h_6_00":2,"moy_ectypmob_tp_1h_7_20":1
+	,"moy_ectypmob_tp_30m":2,"moy_ectypmob_tp_30m_6_00":2,"moy_ectypmob_tp_30m_7_20":1,"moy_ectypmob_tp_15m":2,"moy_ectypmob_tp_15m_6_00":2,"moy_ectypmob_tp_15m_7_20":1,"moy_ectypmob_v_1h":8,"moy_ectypmob_v_1h_6_00":9,"moy_ectypmob_v_1h_7_20":8
+	,"moy_ectypmob_v_30m":8,"moy_ectypmob_v_30m_6_00":9,"moy_ectypmob_v_30m_7_20":8,"moy_ectypmob_v_15m":8,"moy_ectypmob_v_15m_6_00":8,"moy_ectypmob_v_15m_7_20":8
+	,"delta_tpv":4,"delta_tpv_6_00":3,"delta_tpv_7_20":3},
+{"id_lieu":"30","nom":"La-Tour-de-Peilz","km":4,"tps_moy_tp":3,"tps_moy_tp_6_00":3,"tps_moy_tp_7_20":3,"tps_moy_v":5,"tps_moy_v_6_00":5,"tps_moy_v_7_20":5
+	,"ectyp_tp":4,"ectyp_tp_6_00":3,"ectyp_tp_7_20":6,"ectyp_v":2,"ectyp_v_6_00":3,"ectyp_v_7_20":2
+	,"amplitude_tp":3,"amplitude_tp_6_00":4,"amplitude_tp_7_20":5,"amplitude_v":7,"amplitude_v_6_00":3,"amplitude_v_7_20":1,"moy_ectypmob_tp_1h":5,"moy_ectypmob_tp_1h_6_00":4,"moy_ectypmob_tp_1h_7_20":6
+	,"moy_ectypmob_tp_30m":5,"moy_ectypmob_tp_30m_6_00":5,"moy_ectypmob_tp_30m_7_20":5,"moy_ectypmob_tp_15m":5,"moy_ectypmob_tp_15m_6_00":5,"moy_ectypmob_tp_15m_7_20":5,"moy_ectypmob_v_1h":4,"moy_ectypmob_v_1h_6_00":2,"moy_ectypmob_v_1h_7_20":2
+	,"moy_ectypmob_v_30m":4,"moy_ectypmob_v_30m_6_00":2,"moy_ectypmob_v_30m_7_20":2,"moy_ectypmob_v_15m":4,"moy_ectypmob_v_15m_6_00":2,"moy_ectypmob_v_15m_7_20":2
+	,"delta_tpv":3,"delta_tpv_6_00":2,"delta_tpv_7_20":2},
+{"id_lieu":"85","nom":"Burier","km":5,"tps_moy_tp":3,"tps_moy_tp_6_00":3,"tps_moy_tp_7_20":3,"tps_moy_v":5,"tps_moy_v_6_00":5,"tps_moy_v_7_20":5
+	,"ectyp_tp":4,"ectyp_tp_6_00":3,"ectyp_tp_7_20":6,"ectyp_v":5,"ectyp_v_6_00":7,"ectyp_v_7_20":4
+	,"amplitude_tp":3,"amplitude_tp_6_00":4,"amplitude_tp_7_20":5,"amplitude_v":10,"amplitude_v_6_00":10,"amplitude_v_7_20":3,"moy_ectypmob_tp_1h":5,"moy_ectypmob_tp_1h_6_00":4,"moy_ectypmob_tp_1h_7_20":6
+	,"moy_ectypmob_tp_30m":5,"moy_ectypmob_tp_30m_6_00":5,"moy_ectypmob_tp_30m_7_20":6,"moy_ectypmob_tp_15m":5,"moy_ectypmob_tp_15m_6_00":5,"moy_ectypmob_tp_15m_7_20":5,"moy_ectypmob_v_1h":8,"moy_ectypmob_v_1h_6_00":9,"moy_ectypmob_v_1h_7_20":2
+	,"moy_ectypmob_v_30m":8,"moy_ectypmob_v_30m_6_00":9,"moy_ectypmob_v_30m_7_20":2,"moy_ectypmob_v_15m":9,"moy_ectypmob_v_15m_6_00":9,"moy_ectypmob_v_15m_7_20":2
+	,"delta_tpv":3,"delta_tpv_6_00":3,"delta_tpv_7_20":3},
+{"id_lieu":"160","nom":"Genève, Rue des Buis 5","km":7,"tps_moy_tp":3,"tps_moy_tp_6_00":4,"tps_moy_tp_7_20":4,"tps_moy_v":7,"tps_moy_v_6_00":7,"tps_moy_v_7_20":7
+	,"ectyp_tp":1,"ectyp_tp_6_00":1,"ectyp_tp_7_20":2,"ectyp_v":9,"ectyp_v_6_00":9,"ectyp_v_7_20":9
+	,"amplitude_tp":1,"amplitude_tp_6_00":2,"amplitude_tp_7_20":2,"amplitude_v":10,"amplitude_v_6_00":7,"amplitude_v_7_20":8,"moy_ectypmob_tp_1h":1,"moy_ectypmob_tp_1h_6_00":2,"moy_ectypmob_tp_1h_7_20":2
+	,"moy_ectypmob_tp_30m":1,"moy_ectypmob_tp_30m_6_00":2,"moy_ectypmob_tp_30m_7_20":2,"moy_ectypmob_tp_15m":1,"moy_ectypmob_tp_15m_6_00":1,"moy_ectypmob_tp_15m_7_20":2,"moy_ectypmob_v_1h":10,"moy_ectypmob_v_1h_6_00":6,"moy_ectypmob_v_1h_7_20":6
+	,"moy_ectypmob_v_30m":10,"moy_ectypmob_v_30m_6_00":6,"moy_ectypmob_v_30m_7_20":5,"moy_ectypmob_v_15m":10,"moy_ectypmob_v_15m_6_00":6,"moy_ectypmob_v_15m_7_20":5
+	,"delta_tpv":2,"delta_tpv_6_00":3,"delta_tpv_7_20":3},
+{"id_lieu":"114","nom":"Aigle, Chemin des Alouettes 4","km":6,"tps_moy_tp":3,"tps_moy_tp_6_00":4,"tps_moy_tp_7_20":5,"tps_moy_v":6,"tps_moy_v_6_00":6,"tps_moy_v_7_20":6
+	,"ectyp_tp":1,"ectyp_tp_6_00":2,"ectyp_tp_7_20":4,"ectyp_v":2,"ectyp_v_6_00":2,"ectyp_v_7_20":2
+	,"amplitude_tp":2,"amplitude_tp_6_00":2,"amplitude_tp_7_20":4,"amplitude_v":2,"amplitude_v_6_00":3,"amplitude_v_7_20":3,"moy_ectypmob_tp_1h":2,"moy_ectypmob_tp_1h_6_00":3,"moy_ectypmob_tp_1h_7_20":4
+	,"moy_ectypmob_tp_30m":3,"moy_ectypmob_tp_30m_6_00":3,"moy_ectypmob_tp_30m_7_20":5,"moy_ectypmob_tp_15m":3,"moy_ectypmob_tp_15m_6_00":3,"moy_ectypmob_tp_15m_7_20":4,"moy_ectypmob_v_1h":4,"moy_ectypmob_v_1h_6_00":5,"moy_ectypmob_v_1h_7_20":7
+	,"moy_ectypmob_v_30m":5,"moy_ectypmob_v_30m_6_00":7,"moy_ectypmob_v_30m_7_20":7,"moy_ectypmob_v_15m":5,"moy_ectypmob_v_15m_6_00":7,"moy_ectypmob_v_15m_7_20":7
+	,"delta_tpv":3,"delta_tpv_6_00":3,"delta_tpv_7_20":4},
+{"id_lieu":"134","nom":"Le Mont-sur-Lausanne, Chemin de Pernessy 2","km":2,"tps_moy_tp":3,"tps_moy_tp_6_00":3,"tps_moy_tp_7_20":3,"tps_moy_v":2,"tps_moy_v_6_00":2,"tps_moy_v_7_20":2
+	,"ectyp_tp":6,"ectyp_tp_6_00":5,"ectyp_tp_7_20":2,"ectyp_v":2,"ectyp_v_6_00":2,"ectyp_v_7_20":5
+	,"amplitude_tp":5,"amplitude_tp_6_00":6,"amplitude_tp_7_20":3,"amplitude_v":9,"amplitude_v_6_00":10,"amplitude_v_7_20":10,"moy_ectypmob_tp_1h":4,"moy_ectypmob_tp_1h_6_00":3,"moy_ectypmob_tp_1h_7_20":2
+	,"moy_ectypmob_tp_30m":4,"moy_ectypmob_tp_30m_6_00":4,"moy_ectypmob_tp_30m_7_20":2,"moy_ectypmob_tp_15m":4,"moy_ectypmob_tp_15m_6_00":4,"moy_ectypmob_tp_15m_7_20":3,"moy_ectypmob_v_1h":7,"moy_ectypmob_v_1h_6_00":8,"moy_ectypmob_v_1h_7_20":9
+	,"moy_ectypmob_v_30m":8,"moy_ectypmob_v_30m_6_00":9,"moy_ectypmob_v_30m_7_20":9,"moy_ectypmob_v_15m":9,"moy_ectypmob_v_15m_6_00":9,"moy_ectypmob_v_15m_7_20":9
+	,"delta_tpv":5,"delta_tpv_6_00":4,"delta_tpv_7_20":5},
+{"id_lieu":"27","nom":"Villeneuve","km":6,"tps_moy_tp":3,"tps_moy_tp_6_00":3,"tps_moy_tp_7_20":4,"tps_moy_v":6,"tps_moy_v_6_00":6,"tps_moy_v_7_20":6
+	,"ectyp_tp":4,"ectyp_tp_6_00":2,"ectyp_tp_7_20":3,"ectyp_v":5,"ectyp_v_6_00":7,"ectyp_v_7_20":8
+	,"amplitude_tp":2,"amplitude_tp_6_00":3,"amplitude_tp_7_20":3,"amplitude_v":7,"amplitude_v_6_00":8,"amplitude_v_7_20":6,"moy_ectypmob_tp_1h":2,"moy_ectypmob_tp_1h_6_00":2,"moy_ectypmob_tp_1h_7_20":4
+	,"moy_ectypmob_tp_30m":3,"moy_ectypmob_tp_30m_6_00":2,"moy_ectypmob_tp_30m_7_20":3,"moy_ectypmob_tp_15m":3,"moy_ectypmob_tp_15m_6_00":3,"moy_ectypmob_tp_15m_7_20":3,"moy_ectypmob_v_1h":5,"moy_ectypmob_v_1h_6_00":7,"moy_ectypmob_v_1h_7_20":8
+	,"moy_ectypmob_v_30m":7,"moy_ectypmob_v_30m_6_00":7,"moy_ectypmob_v_30m_7_20":8,"moy_ectypmob_v_15m":7,"moy_ectypmob_v_15m_6_00":8,"moy_ectypmob_v_15m_7_20":9
+	,"delta_tpv":3,"delta_tpv_6_00":3,"delta_tpv_7_20":3},
+{"id_lieu":"14","nom":"Genève, rond-point Jonction","km":8,"tps_moy_tp":3,"tps_moy_tp_6_00":4,"tps_moy_tp_7_20":5,"tps_moy_v":7,"tps_moy_v_6_00":8,"tps_moy_v_7_20":7
+	,"ectyp_tp":1,"ectyp_tp_6_00":3,"ectyp_tp_7_20":3,"ectyp_v":9,"ectyp_v_6_00":9,"ectyp_v_7_20":9
+	,"amplitude_tp":6,"amplitude_tp_6_00":6,"amplitude_tp_7_20":2,"amplitude_v":9,"amplitude_v_6_00":8,"amplitude_v_7_20":9,"moy_ectypmob_tp_1h":2,"moy_ectypmob_tp_1h_6_00":2,"moy_ectypmob_tp_1h_7_20":2
+	,"moy_ectypmob_tp_30m":2,"moy_ectypmob_tp_30m_6_00":2,"moy_ectypmob_tp_30m_7_20":2,"moy_ectypmob_tp_15m":2,"moy_ectypmob_tp_15m_6_00":3,"moy_ectypmob_tp_15m_7_20":2,"moy_ectypmob_v_1h":8,"moy_ectypmob_v_1h_6_00":8,"moy_ectypmob_v_1h_7_20":8
+	,"moy_ectypmob_v_30m":8,"moy_ectypmob_v_30m_6_00":8,"moy_ectypmob_v_30m_7_20":8,"moy_ectypmob_v_15m":8,"moy_ectypmob_v_15m_6_00":8,"moy_ectypmob_v_15m_7_20":8
+	,"delta_tpv":2,"delta_tpv_6_00":3,"delta_tpv_7_20":3},
+{"id_lieu":"50","nom":"Bussy-Chardonney","km":3,"tps_moy_tp":4,"tps_moy_tp_6_00":3,"tps_moy_tp_7_20":3,"tps_moy_v":3,"tps_moy_v_6_00":2,"tps_moy_v_7_20":2
+	,"ectyp_tp":7,"ectyp_tp_6_00":7,"ectyp_tp_7_20":7,"ectyp_v":2,"ectyp_v_6_00":2,"ectyp_v_7_20":3
+	,"amplitude_tp":8,"amplitude_tp_6_00":8,"amplitude_tp_7_20":7,"amplitude_v":1,"amplitude_v_6_00":1,"amplitude_v_7_20":5,"moy_ectypmob_tp_1h":8,"moy_ectypmob_tp_1h_6_00":8,"moy_ectypmob_tp_1h_7_20":7
+	,"moy_ectypmob_tp_30m":8,"moy_ectypmob_tp_30m_6_00":8,"moy_ectypmob_tp_30m_7_20":7,"moy_ectypmob_tp_15m":8,"moy_ectypmob_tp_15m_6_00":8,"moy_ectypmob_tp_15m_7_20":7,"moy_ectypmob_v_1h":1,"moy_ectypmob_v_1h_6_00":1,"moy_ectypmob_v_1h_7_20":1
+	,"moy_ectypmob_v_30m":1,"moy_ectypmob_v_30m_6_00":1,"moy_ectypmob_v_30m_7_20":1,"moy_ectypmob_v_15m":1,"moy_ectypmob_v_15m_6_00":1,"moy_ectypmob_v_15m_7_20":1
+	,"delta_tpv":5,"delta_tpv_6_00":5,"delta_tpv_7_20":4},
+{"id_lieu":"77","nom":"Belmont-sur-Lausanne","km":3,"tps_moy_tp":4,"tps_moy_tp_6_00":3,"tps_moy_tp_7_20":3,"tps_moy_v":2,"tps_moy_v_6_00":2,"tps_moy_v_7_20":2
+	,"ectyp_tp":7,"ectyp_tp_6_00":6,"ectyp_tp_7_20":5,"ectyp_v":2,"ectyp_v_6_00":2,"ectyp_v_7_20":2
+	,"amplitude_tp":6,"amplitude_tp_6_00":5,"amplitude_tp_7_20":6,"amplitude_v":1,"amplitude_v_6_00":2,"amplitude_v_7_20":1,"moy_ectypmob_tp_1h":5,"moy_ectypmob_tp_1h_6_00":5,"moy_ectypmob_tp_1h_7_20":4
+	,"moy_ectypmob_tp_30m":5,"moy_ectypmob_tp_30m_6_00":5,"moy_ectypmob_tp_30m_7_20":4,"moy_ectypmob_tp_15m":4,"moy_ectypmob_tp_15m_6_00":4,"moy_ectypmob_tp_15m_7_20":4,"moy_ectypmob_v_1h":5,"moy_ectypmob_v_1h_6_00":5,"moy_ectypmob_v_1h_7_20":5
+	,"moy_ectypmob_v_30m":5,"moy_ectypmob_v_30m_6_00":5,"moy_ectypmob_v_30m_7_20":6,"moy_ectypmob_v_15m":5,"moy_ectypmob_v_15m_6_00":5,"moy_ectypmob_v_15m_7_20":6
+	,"delta_tpv":5,"delta_tpv_6_00":4,"delta_tpv_7_20":4},
+{"id_lieu":"118","nom":"Vevey, Rue d'Italie 27","km":4,"tps_moy_tp":4,"tps_moy_tp_6_00":3,"tps_moy_tp_7_20":4,"tps_moy_v":4,"tps_moy_v_6_00":4,"tps_moy_v_7_20":4
+	,"ectyp_tp":4,"ectyp_tp_6_00":3,"ectyp_tp_7_20":6,"ectyp_v":3,"ectyp_v_6_00":3,"ectyp_v_7_20":5
+	,"amplitude_tp":3,"amplitude_tp_6_00":4,"amplitude_tp_7_20":5,"amplitude_v":8,"amplitude_v_6_00":3,"amplitude_v_7_20":3,"moy_ectypmob_tp_1h":5,"moy_ectypmob_tp_1h_6_00":4,"moy_ectypmob_tp_1h_7_20":6
+	,"moy_ectypmob_tp_30m":5,"moy_ectypmob_tp_30m_6_00":5,"moy_ectypmob_tp_30m_7_20":5,"moy_ectypmob_tp_15m":5,"moy_ectypmob_tp_15m_6_00":5,"moy_ectypmob_tp_15m_7_20":5,"moy_ectypmob_v_1h":9,"moy_ectypmob_v_1h_6_00":8,"moy_ectypmob_v_1h_7_20":9
+	,"moy_ectypmob_v_30m":9,"moy_ectypmob_v_30m_6_00":8,"moy_ectypmob_v_30m_7_20":9,"moy_ectypmob_v_15m":9,"moy_ectypmob_v_15m_6_00":8,"moy_ectypmob_v_15m_7_20":9
+	,"delta_tpv":4,"delta_tpv_6_00":4,"delta_tpv_7_20":4},
+{"id_lieu":"53","nom":"Apples","km":3,"tps_moy_tp":4,"tps_moy_tp_6_00":4,"tps_moy_tp_7_20":3,"tps_moy_v":3,"tps_moy_v_6_00":3,"tps_moy_v_7_20":3
+	,"ectyp_tp":6,"ectyp_tp_6_00":6,"ectyp_tp_7_20":7,"ectyp_v":4,"ectyp_v_6_00":4,"ectyp_v_7_20":5
+	,"amplitude_tp":6,"amplitude_tp_6_00":6,"amplitude_tp_7_20":7,"amplitude_v":2,"amplitude_v_6_00":1,"amplitude_v_7_20":5,"moy_ectypmob_tp_1h":7,"moy_ectypmob_tp_1h_6_00":7,"moy_ectypmob_tp_1h_7_20":7
+	,"moy_ectypmob_tp_30m":7,"moy_ectypmob_tp_30m_6_00":7,"moy_ectypmob_tp_30m_7_20":7,"moy_ectypmob_tp_15m":7,"moy_ectypmob_tp_15m_6_00":7,"moy_ectypmob_tp_15m_7_20":7,"moy_ectypmob_v_1h":4,"moy_ectypmob_v_1h_6_00":5,"moy_ectypmob_v_1h_7_20":4
+	,"moy_ectypmob_v_30m":5,"moy_ectypmob_v_30m_6_00":6,"moy_ectypmob_v_30m_7_20":5,"moy_ectypmob_v_15m":5,"moy_ectypmob_v_15m_6_00":6,"moy_ectypmob_v_15m_7_20":6
+	,"delta_tpv":5,"delta_tpv_6_00":5,"delta_tpv_7_20":4},
+{"id_lieu":"15","nom":"Versoix","km":6,"tps_moy_tp":4,"tps_moy_tp_6_00":4,"tps_moy_tp_7_20":5,"tps_moy_v":6,"tps_moy_v_6_00":6,"tps_moy_v_7_20":6
+	,"ectyp_tp":2,"ectyp_tp_6_00":3,"ectyp_tp_7_20":6,"ectyp_v":7,"ectyp_v_6_00":5,"ectyp_v_7_20":7
+	,"amplitude_tp":5,"amplitude_tp_6_00":5,"amplitude_tp_7_20":6,"amplitude_v":7,"amplitude_v_6_00":5,"amplitude_v_7_20":7,"moy_ectypmob_tp_1h":4,"moy_ectypmob_tp_1h_6_00":5,"moy_ectypmob_tp_1h_7_20":6
+	,"moy_ectypmob_tp_30m":5,"moy_ectypmob_tp_30m_6_00":5,"moy_ectypmob_tp_30m_7_20":5,"moy_ectypmob_tp_15m":5,"moy_ectypmob_tp_15m_6_00":5,"moy_ectypmob_tp_15m_7_20":5,"moy_ectypmob_v_1h":5,"moy_ectypmob_v_1h_6_00":4,"moy_ectypmob_v_1h_7_20":5
+	,"moy_ectypmob_v_30m":4,"moy_ectypmob_v_30m_6_00":4,"moy_ectypmob_v_30m_7_20":4,"moy_ectypmob_v_15m":4,"moy_ectypmob_v_15m_6_00":4,"moy_ectypmob_v_15m_7_20":5
+	,"delta_tpv":3,"delta_tpv_6_00":4,"delta_tpv_7_20":4},
+{"id_lieu":"173","nom":"La Tour-De-Peilz, Chemin Du Vallon 116","km":5,"tps_moy_tp":4,"tps_moy_tp_6_00":4,"tps_moy_tp_7_20":4,"tps_moy_v":4,"tps_moy_v_6_00":4,"tps_moy_v_7_20":4
+	,"ectyp_tp":4,"ectyp_tp_6_00":3,"ectyp_tp_7_20":6,"ectyp_v":1,"ectyp_v_6_00":2,"ectyp_v_7_20":1
+	,"amplitude_tp":3,"amplitude_tp_6_00":4,"amplitude_tp_7_20":5,"amplitude_v":5,"amplitude_v_6_00":3,"amplitude_v_7_20":1,"moy_ectypmob_tp_1h":5,"moy_ectypmob_tp_1h_6_00":4,"moy_ectypmob_tp_1h_7_20":6
+	,"moy_ectypmob_tp_30m":5,"moy_ectypmob_tp_30m_6_00":5,"moy_ectypmob_tp_30m_7_20":6,"moy_ectypmob_tp_15m":5,"moy_ectypmob_tp_15m_6_00":5,"moy_ectypmob_tp_15m_7_20":5,"moy_ectypmob_v_1h":1,"moy_ectypmob_v_1h_6_00":1,"moy_ectypmob_v_1h_7_20":1
+	,"moy_ectypmob_v_30m":2,"moy_ectypmob_v_30m_6_00":1,"moy_ectypmob_v_30m_7_20":1,"moy_ectypmob_v_15m":2,"moy_ectypmob_v_15m_6_00":1,"moy_ectypmob_v_15m_7_20":1
+	,"delta_tpv":5,"delta_tpv_6_00":4,"delta_tpv_7_20":5},
+{"id_lieu":"65","nom":"Martigny","km":9,"tps_moy_tp":4,"tps_moy_tp_6_00":4,"tps_moy_tp_7_20":5,"tps_moy_v":9,"tps_moy_v_6_00":9,"tps_moy_v_7_20":9
+	,"ectyp_tp":1,"ectyp_tp_6_00":2,"ectyp_tp_7_20":5,"ectyp_v":4,"ectyp_v_6_00":6,"ectyp_v_7_20":3
+	,"amplitude_tp":1,"amplitude_tp_6_00":2,"amplitude_tp_7_20":4,"amplitude_v":3,"amplitude_v_6_00":6,"amplitude_v_7_20":2,"moy_ectypmob_tp_1h":3,"moy_ectypmob_tp_1h_6_00":3,"moy_ectypmob_tp_1h_7_20":5
+	,"moy_ectypmob_tp_30m":4,"moy_ectypmob_tp_30m_6_00":4,"moy_ectypmob_tp_30m_7_20":5,"moy_ectypmob_tp_15m":4,"moy_ectypmob_tp_15m_6_00":4,"moy_ectypmob_tp_15m_7_20":5,"moy_ectypmob_v_1h":3,"moy_ectypmob_v_1h_6_00":4,"moy_ectypmob_v_1h_7_20":4
+	,"moy_ectypmob_v_30m":3,"moy_ectypmob_v_30m_6_00":4,"moy_ectypmob_v_30m_7_20":4,"moy_ectypmob_v_15m":3,"moy_ectypmob_v_15m_6_00":3,"moy_ectypmob_v_15m_7_20":4
+	,"delta_tpv":2,"delta_tpv_6_00":3,"delta_tpv_7_20":3},
+{"id_lieu":"3","nom":"Chambésy","km":7,"tps_moy_tp":4,"tps_moy_tp_6_00":4,"tps_moy_tp_7_20":5,"tps_moy_v":6,"tps_moy_v_6_00":6,"tps_moy_v_7_20":6
+	,"ectyp_tp":2,"ectyp_tp_6_00":2,"ectyp_tp_7_20":4,"ectyp_v":8,"ectyp_v_6_00":7,"ectyp_v_7_20":8
+	,"amplitude_tp":1,"amplitude_tp_6_00":2,"amplitude_tp_7_20":4,"amplitude_v":7,"amplitude_v_6_00":5,"amplitude_v_7_20":7,"moy_ectypmob_tp_1h":3,"moy_ectypmob_tp_1h_6_00":3,"moy_ectypmob_tp_1h_7_20":4
+	,"moy_ectypmob_tp_30m":3,"moy_ectypmob_tp_30m_6_00":4,"moy_ectypmob_tp_30m_7_20":4,"moy_ectypmob_tp_15m":4,"moy_ectypmob_tp_15m_6_00":4,"moy_ectypmob_tp_15m_7_20":3,"moy_ectypmob_v_1h":5,"moy_ectypmob_v_1h_6_00":5,"moy_ectypmob_v_1h_7_20":5
+	,"moy_ectypmob_v_30m":4,"moy_ectypmob_v_30m_6_00":5,"moy_ectypmob_v_30m_7_20":5,"moy_ectypmob_v_15m":4,"moy_ectypmob_v_15m_6_00":4,"moy_ectypmob_v_15m_7_20":5
+	,"delta_tpv":4,"delta_tpv_6_00":4,"delta_tpv_7_20":5},
+{"id_lieu":"9","nom":"Genève, place de Neuve","km":7,"tps_moy_tp":4,"tps_moy_tp_6_00":4,"tps_moy_tp_7_20":4,"tps_moy_v":7,"tps_moy_v_6_00":7,"tps_moy_v_7_20":8
+	,"ectyp_tp":3,"ectyp_tp_6_00":4,"ectyp_tp_7_20":3,"ectyp_v":10,"ectyp_v_6_00":10,"ectyp_v_7_20":8
+	,"amplitude_tp":6,"amplitude_tp_6_00":6,"amplitude_tp_7_20":4,"amplitude_v":10,"amplitude_v_6_00":10,"amplitude_v_7_20":8,"moy_ectypmob_tp_1h":3,"moy_ectypmob_tp_1h_6_00":3,"moy_ectypmob_tp_1h_7_20":2
+	,"moy_ectypmob_tp_30m":2,"moy_ectypmob_tp_30m_6_00":3,"moy_ectypmob_tp_30m_7_20":2,"moy_ectypmob_tp_15m":2,"moy_ectypmob_tp_15m_6_00":3,"moy_ectypmob_tp_15m_7_20":2,"moy_ectypmob_v_1h":10,"moy_ectypmob_v_1h_6_00":10,"moy_ectypmob_v_1h_7_20":7
+	,"moy_ectypmob_v_30m":10,"moy_ectypmob_v_30m_6_00":10,"moy_ectypmob_v_30m_7_20":8,"moy_ectypmob_v_15m":10,"moy_ectypmob_v_15m_6_00":10,"moy_ectypmob_v_15m_7_20":8
+	,"delta_tpv":3,"delta_tpv_6_00":3,"delta_tpv_7_20":3},
+{"id_lieu":"41","nom":"Savigny","km":3,"tps_moy_tp":4,"tps_moy_tp_6_00":4,"tps_moy_tp_7_20":4,"tps_moy_v":3,"tps_moy_v_6_00":3,"tps_moy_v_7_20":3
+	,"ectyp_tp":6,"ectyp_tp_6_00":5,"ectyp_tp_7_20":8,"ectyp_v":4,"ectyp_v_6_00":3,"ectyp_v_7_20":5
+	,"amplitude_tp":7,"amplitude_tp_6_00":7,"amplitude_tp_7_20":8,"amplitude_v":5,"amplitude_v_6_00":5,"amplitude_v_7_20":7,"moy_ectypmob_tp_1h":7,"moy_ectypmob_tp_1h_6_00":7,"moy_ectypmob_tp_1h_7_20":7
+	,"moy_ectypmob_tp_30m":8,"moy_ectypmob_tp_30m_6_00":8,"moy_ectypmob_tp_30m_7_20":7,"moy_ectypmob_tp_15m":8,"moy_ectypmob_tp_15m_6_00":8,"moy_ectypmob_tp_15m_7_20":8,"moy_ectypmob_v_1h":2,"moy_ectypmob_v_1h_6_00":3,"moy_ectypmob_v_1h_7_20":3
+	,"moy_ectypmob_v_30m":2,"moy_ectypmob_v_30m_6_00":3,"moy_ectypmob_v_30m_7_20":3,"moy_ectypmob_v_15m":3,"moy_ectypmob_v_15m_6_00":3,"moy_ectypmob_v_15m_7_20":4
+	,"delta_tpv":6,"delta_tpv_6_00":5,"delta_tpv_7_20":6},
+{"id_lieu":"115","nom":"Villeneuve, Route de Longefan 15","km":6,"tps_moy_tp":4,"tps_moy_tp_6_00":4,"tps_moy_tp_7_20":4,"tps_moy_v":6,"tps_moy_v_6_00":6,"tps_moy_v_7_20":6
+	,"ectyp_tp":4,"ectyp_tp_6_00":2,"ectyp_tp_7_20":3,"ectyp_v":4,"ectyp_v_6_00":6,"ectyp_v_7_20":6
+	,"amplitude_tp":2,"amplitude_tp_6_00":3,"amplitude_tp_7_20":3,"amplitude_v":3,"amplitude_v_6_00":4,"amplitude_v_7_20":3,"moy_ectypmob_tp_1h":2,"moy_ectypmob_tp_1h_6_00":2,"moy_ectypmob_tp_1h_7_20":4
+	,"moy_ectypmob_tp_30m":3,"moy_ectypmob_tp_30m_6_00":2,"moy_ectypmob_tp_30m_7_20":3,"moy_ectypmob_tp_15m":3,"moy_ectypmob_tp_15m_6_00":3,"moy_ectypmob_tp_15m_7_20":3,"moy_ectypmob_v_1h":4,"moy_ectypmob_v_1h_6_00":5,"moy_ectypmob_v_1h_7_20":6
+	,"moy_ectypmob_v_30m":5,"moy_ectypmob_v_30m_6_00":7,"moy_ectypmob_v_30m_7_20":7,"moy_ectypmob_v_15m":5,"moy_ectypmob_v_15m_6_00":6,"moy_ectypmob_v_15m_7_20":7
+	,"delta_tpv":4,"delta_tpv_6_00":4,"delta_tpv_7_20":4},
+{"id_lieu":"102","nom":"Genève, Rue des Bains","km":7,"tps_moy_tp":4,"tps_moy_tp_6_00":5,"tps_moy_tp_7_20":6,"tps_moy_v":8,"tps_moy_v_6_00":8,"tps_moy_v_7_20":8
+	,"ectyp_tp":1,"ectyp_tp_6_00":3,"ectyp_tp_7_20":3,"ectyp_v":8,"ectyp_v_6_00":8,"ectyp_v_7_20":8
+	,"amplitude_tp":6,"amplitude_tp_6_00":6,"amplitude_tp_7_20":2,"amplitude_v":8,"amplitude_v_6_00":9,"amplitude_v_7_20":8,"moy_ectypmob_tp_1h":2,"moy_ectypmob_tp_1h_6_00":2,"moy_ectypmob_tp_1h_7_20":2
+	,"moy_ectypmob_tp_30m":2,"moy_ectypmob_tp_30m_6_00":2,"moy_ectypmob_tp_30m_7_20":2,"moy_ectypmob_tp_15m":2,"moy_ectypmob_tp_15m_6_00":3,"moy_ectypmob_tp_15m_7_20":2,"moy_ectypmob_v_1h":8,"moy_ectypmob_v_1h_6_00":8,"moy_ectypmob_v_1h_7_20":8
+	,"moy_ectypmob_v_30m":8,"moy_ectypmob_v_30m_6_00":8,"moy_ectypmob_v_30m_7_20":7,"moy_ectypmob_v_15m":8,"moy_ectypmob_v_15m_6_00":7,"moy_ectypmob_v_15m_7_20":7
+	,"delta_tpv":3,"delta_tpv_6_00":4,"delta_tpv_7_20":5},
+{"id_lieu":"83","nom":"St-Légier-Village","km":4,"tps_moy_tp":4,"tps_moy_tp_6_00":4,"tps_moy_tp_7_20":4,"tps_moy_v":4,"tps_moy_v_6_00":4,"tps_moy_v_7_20":4
+	,"ectyp_tp":7,"ectyp_tp_6_00":7,"ectyp_tp_7_20":5,"ectyp_v":7,"ectyp_v_6_00":1,"ectyp_v_7_20":1
+	,"amplitude_tp":7,"amplitude_tp_6_00":7,"amplitude_tp_7_20":7,"amplitude_v":10,"amplitude_v_6_00":1,"amplitude_v_7_20":3,"moy_ectypmob_tp_1h":6,"moy_ectypmob_tp_1h_6_00":6,"moy_ectypmob_tp_1h_7_20":4
+	,"moy_ectypmob_tp_30m":6,"moy_ectypmob_tp_30m_6_00":6,"moy_ectypmob_tp_30m_7_20":4,"moy_ectypmob_tp_15m":6,"moy_ectypmob_tp_15m_6_00":6,"moy_ectypmob_tp_15m_7_20":5,"moy_ectypmob_v_1h":9,"moy_ectypmob_v_1h_6_00":1,"moy_ectypmob_v_1h_7_20":1
+	,"moy_ectypmob_v_30m":10,"moy_ectypmob_v_30m_6_00":1,"moy_ectypmob_v_30m_7_20":1,"moy_ectypmob_v_15m":10,"moy_ectypmob_v_15m_6_00":1,"moy_ectypmob_v_15m_7_20":1
+	,"delta_tpv":5,"delta_tpv_6_00":5,"delta_tpv_7_20":4},
+{"id_lieu":"138","nom":"Bussy-Chardonney, Chemin de la Piaz 5","km":3,"tps_moy_tp":4,"tps_moy_tp_6_00":4,"tps_moy_tp_7_20":4,"tps_moy_v":3,"tps_moy_v_6_00":3,"tps_moy_v_7_20":3
+	,"ectyp_tp":7,"ectyp_tp_6_00":7,"ectyp_tp_7_20":7,"ectyp_v":8,"ectyp_v_6_00":7,"ectyp_v_7_20":9
+	,"amplitude_tp":8,"amplitude_tp_6_00":8,"amplitude_tp_7_20":7,"amplitude_v":5,"amplitude_v_6_00":7,"amplitude_v_7_20":8,"moy_ectypmob_tp_1h":8,"moy_ectypmob_tp_1h_6_00":8,"moy_ectypmob_tp_1h_7_20":7
+	,"moy_ectypmob_tp_30m":8,"moy_ectypmob_tp_30m_6_00":8,"moy_ectypmob_tp_30m_7_20":7,"moy_ectypmob_tp_15m":8,"moy_ectypmob_tp_15m_6_00":8,"moy_ectypmob_tp_15m_7_20":7,"moy_ectypmob_v_1h":2,"moy_ectypmob_v_1h_6_00":3,"moy_ectypmob_v_1h_7_20":3
+	,"moy_ectypmob_v_30m":2,"moy_ectypmob_v_30m_6_00":3,"moy_ectypmob_v_30m_7_20":3,"moy_ectypmob_v_15m":2,"moy_ectypmob_v_15m_6_00":3,"moy_ectypmob_v_15m_7_20":3
+	,"delta_tpv":6,"delta_tpv_6_00":5,"delta_tpv_7_20":5},
+{"id_lieu":"17","nom":"Cointrin","km":7,"tps_moy_tp":4,"tps_moy_tp_6_00":4,"tps_moy_tp_7_20":5,"tps_moy_v":6,"tps_moy_v_6_00":6,"tps_moy_v_7_20":6
+	,"ectyp_tp":2,"ectyp_tp_6_00":4,"ectyp_tp_7_20":3,"ectyp_v":2,"ectyp_v_6_00":2,"ectyp_v_7_20":3
+	,"amplitude_tp":1,"amplitude_tp_6_00":3,"amplitude_tp_7_20":3,"amplitude_v":3,"amplitude_v_6_00":3,"amplitude_v_7_20":5,"moy_ectypmob_tp_1h":3,"moy_ectypmob_tp_1h_6_00":4,"moy_ectypmob_tp_1h_7_20":3
+	,"moy_ectypmob_tp_30m":3,"moy_ectypmob_tp_30m_6_00":4,"moy_ectypmob_tp_30m_7_20":4,"moy_ectypmob_tp_15m":3,"moy_ectypmob_tp_15m_6_00":3,"moy_ectypmob_tp_15m_7_20":4,"moy_ectypmob_v_1h":2,"moy_ectypmob_v_1h_6_00":3,"moy_ectypmob_v_1h_7_20":3
+	,"moy_ectypmob_v_30m":2,"moy_ectypmob_v_30m_6_00":3,"moy_ectypmob_v_30m_7_20":3,"moy_ectypmob_v_15m":2,"moy_ectypmob_v_15m_6_00":3,"moy_ectypmob_v_15m_7_20":3
+	,"delta_tpv":4,"delta_tpv_6_00":5,"delta_tpv_7_20":5},
+{"id_lieu":"165","nom":"Belmont-sur-Lausanne, Route d'Arnier 40","km":3,"tps_moy_tp":4,"tps_moy_tp_6_00":4,"tps_moy_tp_7_20":4,"tps_moy_v":3,"tps_moy_v_6_00":3,"tps_moy_v_7_20":3
+	,"ectyp_tp":7,"ectyp_tp_6_00":6,"ectyp_tp_7_20":5,"ectyp_v":2,"ectyp_v_6_00":2,"ectyp_v_7_20":2
+	,"amplitude_tp":6,"amplitude_tp_6_00":5,"amplitude_tp_7_20":6,"amplitude_v":3,"amplitude_v_6_00":3,"amplitude_v_7_20":1,"moy_ectypmob_tp_1h":5,"moy_ectypmob_tp_1h_6_00":5,"moy_ectypmob_tp_1h_7_20":4
+	,"moy_ectypmob_tp_30m":5,"moy_ectypmob_tp_30m_6_00":5,"moy_ectypmob_tp_30m_7_20":4,"moy_ectypmob_tp_15m":4,"moy_ectypmob_tp_15m_6_00":4,"moy_ectypmob_tp_15m_7_20":4,"moy_ectypmob_v_1h":4,"moy_ectypmob_v_1h_6_00":4,"moy_ectypmob_v_1h_7_20":4
+	,"moy_ectypmob_v_30m":4,"moy_ectypmob_v_30m_6_00":3,"moy_ectypmob_v_30m_7_20":4,"moy_ectypmob_v_15m":3,"moy_ectypmob_v_15m_6_00":4,"moy_ectypmob_v_15m_7_20":4
+	,"delta_tpv":6,"delta_tpv_6_00":5,"delta_tpv_7_20":5},
+{"id_lieu":"60","nom":"Romont","km":6,"tps_moy_tp":4,"tps_moy_tp_6_00":5,"tps_moy_tp_7_20":5,"tps_moy_v":8,"tps_moy_v_6_00":8,"tps_moy_v_7_20":8
+	,"ectyp_tp":4,"ectyp_tp_6_00":5,"ectyp_tp_7_20":7,"ectyp_v":5,"ectyp_v_6_00":8,"ectyp_v_7_20":6
+	,"amplitude_tp":5,"amplitude_tp_6_00":5,"amplitude_tp_7_20":6,"amplitude_v":7,"amplitude_v_6_00":8,"amplitude_v_7_20":9,"moy_ectypmob_tp_1h":7,"moy_ectypmob_tp_1h_6_00":7,"moy_ectypmob_tp_1h_7_20":8
+	,"moy_ectypmob_tp_30m":9,"moy_ectypmob_tp_30m_6_00":8,"moy_ectypmob_tp_30m_7_20":9,"moy_ectypmob_tp_15m":9,"moy_ectypmob_tp_15m_6_00":8,"moy_ectypmob_tp_15m_7_20":9,"moy_ectypmob_v_1h":6,"moy_ectypmob_v_1h_6_00":7,"moy_ectypmob_v_1h_7_20":8
+	,"moy_ectypmob_v_30m":7,"moy_ectypmob_v_30m_6_00":8,"moy_ectypmob_v_30m_7_20":8,"moy_ectypmob_v_15m":7,"moy_ectypmob_v_15m_6_00":8,"moy_ectypmob_v_15m_7_20":9
+	,"delta_tpv":4,"delta_tpv_6_00":4,"delta_tpv_7_20":4},
+{"id_lieu":"141","nom":"Apples, En Crochet 1","km":3,"tps_moy_tp":4,"tps_moy_tp_6_00":4,"tps_moy_tp_7_20":4,"tps_moy_v":3,"tps_moy_v_6_00":3,"tps_moy_v_7_20":3
+	,"ectyp_tp":6,"ectyp_tp_6_00":6,"ectyp_tp_7_20":7,"ectyp_v":5,"ectyp_v_6_00":4,"ectyp_v_7_20":5
+	,"amplitude_tp":6,"amplitude_tp_6_00":6,"amplitude_tp_7_20":7,"amplitude_v":5,"amplitude_v_6_00":6,"amplitude_v_7_20":5,"moy_ectypmob_tp_1h":7,"moy_ectypmob_tp_1h_6_00":7,"moy_ectypmob_tp_1h_7_20":7
+	,"moy_ectypmob_tp_30m":7,"moy_ectypmob_tp_30m_6_00":7,"moy_ectypmob_tp_30m_7_20":7,"moy_ectypmob_tp_15m":7,"moy_ectypmob_tp_15m_6_00":7,"moy_ectypmob_tp_15m_7_20":7,"moy_ectypmob_v_1h":4,"moy_ectypmob_v_1h_6_00":4,"moy_ectypmob_v_1h_7_20":4
+	,"moy_ectypmob_v_30m":4,"moy_ectypmob_v_30m_6_00":5,"moy_ectypmob_v_30m_7_20":3,"moy_ectypmob_v_15m":4,"moy_ectypmob_v_15m_6_00":4,"moy_ectypmob_v_15m_7_20":3
+	,"delta_tpv":6,"delta_tpv_6_00":6,"delta_tpv_7_20":6},
+{"id_lieu":"39","nom":"Vallorbe","km":6,"tps_moy_tp":5,"tps_moy_tp_6_00":4,"tps_moy_tp_7_20":5,"tps_moy_v":5,"tps_moy_v_6_00":5,"tps_moy_v_7_20":5
+	,"ectyp_tp":6,"ectyp_tp_6_00":6,"ectyp_tp_7_20":8,"ectyp_v":8,"ectyp_v_6_00":4,"ectyp_v_7_20":4
+	,"amplitude_tp":8,"amplitude_tp_6_00":8,"amplitude_tp_7_20":7,"amplitude_v":10,"amplitude_v_6_00":2,"amplitude_v_7_20":4,"moy_ectypmob_tp_1h":7,"moy_ectypmob_tp_1h_6_00":7,"moy_ectypmob_tp_1h_7_20":8
+	,"moy_ectypmob_tp_30m":8,"moy_ectypmob_tp_30m_6_00":9,"moy_ectypmob_tp_30m_7_20":8,"moy_ectypmob_tp_15m":9,"moy_ectypmob_tp_15m_6_00":9,"moy_ectypmob_tp_15m_7_20":8,"moy_ectypmob_v_1h":9,"moy_ectypmob_v_1h_6_00":3,"moy_ectypmob_v_1h_7_20":3
+	,"moy_ectypmob_v_30m":9,"moy_ectypmob_v_30m_6_00":3,"moy_ectypmob_v_30m_7_20":3,"moy_ectypmob_v_15m":10,"moy_ectypmob_v_15m_6_00":3,"moy_ectypmob_v_15m_7_20":3
+	,"delta_tpv":5,"delta_tpv_6_00":5,"delta_tpv_7_20":6},
+{"id_lieu":"103","nom":"Versoix, Chemin Louis-Dégallier 10","km":6,"tps_moy_tp":5,"tps_moy_tp_6_00":5,"tps_moy_tp_7_20":5,"tps_moy_v":7,"tps_moy_v_6_00":7,"tps_moy_v_7_20":7
+	,"ectyp_tp":2,"ectyp_tp_6_00":3,"ectyp_tp_7_20":6,"ectyp_v":6,"ectyp_v_6_00":5,"ectyp_v_7_20":8
+	,"amplitude_tp":5,"amplitude_tp_6_00":5,"amplitude_tp_7_20":6,"amplitude_v":4,"amplitude_v_6_00":4,"amplitude_v_7_20":8,"moy_ectypmob_tp_1h":4,"moy_ectypmob_tp_1h_6_00":5,"moy_ectypmob_tp_1h_7_20":6
+	,"moy_ectypmob_tp_30m":5,"moy_ectypmob_tp_30m_6_00":5,"moy_ectypmob_tp_30m_7_20":5,"moy_ectypmob_tp_15m":5,"moy_ectypmob_tp_15m_6_00":5,"moy_ectypmob_tp_15m_7_20":5,"moy_ectypmob_v_1h":3,"moy_ectypmob_v_1h_6_00":5,"moy_ectypmob_v_1h_7_20":5
+	,"moy_ectypmob_v_30m":3,"moy_ectypmob_v_30m_6_00":4,"moy_ectypmob_v_30m_7_20":5,"moy_ectypmob_v_15m":3,"moy_ectypmob_v_15m_6_00":3,"moy_ectypmob_v_15m_7_20":4
+	,"delta_tpv":4,"delta_tpv_6_00":4,"delta_tpv_7_20":6},
+{"id_lieu":"10","nom":"Grand-Saconnex","km":6,"tps_moy_tp":5,"tps_moy_tp_6_00":5,"tps_moy_tp_7_20":5,"tps_moy_v":6,"tps_moy_v_6_00":6,"tps_moy_v_7_20":6
+	,"ectyp_tp":4,"ectyp_tp_6_00":4,"ectyp_tp_7_20":3,"ectyp_v":7,"ectyp_v_6_00":6,"ectyp_v_7_20":8
+	,"amplitude_tp":1,"amplitude_tp_6_00":3,"amplitude_tp_7_20":4,"amplitude_v":5,"amplitude_v_6_00":6,"amplitude_v_7_20":7,"moy_ectypmob_tp_1h":4,"moy_ectypmob_tp_1h_6_00":4,"moy_ectypmob_tp_1h_7_20":3
+	,"moy_ectypmob_tp_30m":3,"moy_ectypmob_tp_30m_6_00":3,"moy_ectypmob_tp_30m_7_20":3,"moy_ectypmob_tp_15m":3,"moy_ectypmob_tp_15m_6_00":3,"moy_ectypmob_tp_15m_7_20":3,"moy_ectypmob_v_1h":2,"moy_ectypmob_v_1h_6_00":3,"moy_ectypmob_v_1h_7_20":2
+	,"moy_ectypmob_v_30m":2,"moy_ectypmob_v_30m_6_00":2,"moy_ectypmob_v_30m_7_20":2,"moy_ectypmob_v_15m":1,"moy_ectypmob_v_15m_6_00":2,"moy_ectypmob_v_15m_7_20":2
+	,"delta_tpv":5,"delta_tpv_6_00":5,"delta_tpv_7_20":5},
+{"id_lieu":"153","nom":"Martigny, Avenue des Grandes-Maresches","km":9,"tps_moy_tp":5,"tps_moy_tp_6_00":5,"tps_moy_tp_7_20":7,"tps_moy_v":9,"tps_moy_v_6_00":9,"tps_moy_v_7_20":9
+	,"ectyp_tp":1,"ectyp_tp_6_00":2,"ectyp_tp_7_20":5,"ectyp_v":3,"ectyp_v_6_00":4,"ectyp_v_7_20":1
+	,"amplitude_tp":1,"amplitude_tp_6_00":2,"amplitude_tp_7_20":4,"amplitude_v":4,"amplitude_v_6_00":5,"amplitude_v_7_20":4,"moy_ectypmob_tp_1h":3,"moy_ectypmob_tp_1h_6_00":3,"moy_ectypmob_tp_1h_7_20":5
+	,"moy_ectypmob_tp_30m":4,"moy_ectypmob_tp_30m_6_00":4,"moy_ectypmob_tp_30m_7_20":5,"moy_ectypmob_tp_15m":4,"moy_ectypmob_tp_15m_6_00":4,"moy_ectypmob_tp_15m_7_20":5,"moy_ectypmob_v_1h":2,"moy_ectypmob_v_1h_6_00":3,"moy_ectypmob_v_1h_7_20":3
+	,"moy_ectypmob_v_30m":3,"moy_ectypmob_v_30m_6_00":3,"moy_ectypmob_v_30m_7_20":4,"moy_ectypmob_v_15m":3,"moy_ectypmob_v_15m_6_00":3,"moy_ectypmob_v_15m_7_20":4
+	,"delta_tpv":3,"delta_tpv_6_00":4,"delta_tpv_7_20":6},
+{"id_lieu":"31","nom":"Blonay","km":4,"tps_moy_tp":5,"tps_moy_tp_6_00":5,"tps_moy_tp_7_20":4,"tps_moy_v":4,"tps_moy_v_6_00":4,"tps_moy_v_7_20":4
+	,"ectyp_tp":7,"ectyp_tp_6_00":7,"ectyp_tp_7_20":5,"ectyp_v":2,"ectyp_v_6_00":4,"ectyp_v_7_20":2
+	,"amplitude_tp":7,"amplitude_tp_6_00":7,"amplitude_tp_7_20":7,"amplitude_v":4,"amplitude_v_6_00":5,"amplitude_v_7_20":4,"moy_ectypmob_tp_1h":6,"moy_ectypmob_tp_1h_6_00":6,"moy_ectypmob_tp_1h_7_20":4
+	,"moy_ectypmob_tp_30m":6,"moy_ectypmob_tp_30m_6_00":6,"moy_ectypmob_tp_30m_7_20":4,"moy_ectypmob_tp_15m":5,"moy_ectypmob_tp_15m_6_00":5,"moy_ectypmob_tp_15m_7_20":4,"moy_ectypmob_v_1h":4,"moy_ectypmob_v_1h_6_00":4,"moy_ectypmob_v_1h_7_20":4
+	,"moy_ectypmob_v_30m":4,"moy_ectypmob_v_30m_6_00":4,"moy_ectypmob_v_30m_7_20":4,"moy_ectypmob_v_15m":4,"moy_ectypmob_v_15m_6_00":5,"moy_ectypmob_v_15m_7_20":4
+	,"delta_tpv":6,"delta_tpv_6_00":6,"delta_tpv_7_20":5},
+{"id_lieu":"91","nom":"Pregny-Chambésy, Chemin du Champ-de-Blé 31","km":7,"tps_moy_tp":5,"tps_moy_tp_6_00":5,"tps_moy_tp_7_20":6,"tps_moy_v":6,"tps_moy_v_6_00":6,"tps_moy_v_7_20":6
+	,"ectyp_tp":2,"ectyp_tp_6_00":2,"ectyp_tp_7_20":4,"ectyp_v":8,"ectyp_v_6_00":7,"ectyp_v_7_20":9
+	,"amplitude_tp":1,"amplitude_tp_6_00":2,"amplitude_tp_7_20":4,"amplitude_v":7,"amplitude_v_6_00":5,"amplitude_v_7_20":8,"moy_ectypmob_tp_1h":3,"moy_ectypmob_tp_1h_6_00":3,"moy_ectypmob_tp_1h_7_20":4
+	,"moy_ectypmob_tp_30m":3,"moy_ectypmob_tp_30m_6_00":4,"moy_ectypmob_tp_30m_7_20":4,"moy_ectypmob_tp_15m":4,"moy_ectypmob_tp_15m_6_00":4,"moy_ectypmob_tp_15m_7_20":3,"moy_ectypmob_v_1h":3,"moy_ectypmob_v_1h_6_00":2,"moy_ectypmob_v_1h_7_20":2
+	,"moy_ectypmob_v_30m":2,"moy_ectypmob_v_30m_6_00":2,"moy_ectypmob_v_30m_7_20":2,"moy_ectypmob_v_15m":2,"moy_ectypmob_v_15m_6_00":2,"moy_ectypmob_v_15m_7_20":2
+	,"delta_tpv":5,"delta_tpv_6_00":5,"delta_tpv_7_20":6},
+{"id_lieu":"33","nom":"Neuchâtel","km":9,"tps_moy_tp":5,"tps_moy_tp_6_00":5,"tps_moy_tp_7_20":5,"tps_moy_v":8,"tps_moy_v_6_00":8,"tps_moy_v_7_20":8
+	,"ectyp_tp":5,"ectyp_tp_6_00":5,"ectyp_tp_7_20":7,"ectyp_v":7,"ectyp_v_6_00":7,"ectyp_v_7_20":7
+	,"amplitude_tp":6,"amplitude_tp_6_00":6,"amplitude_tp_7_20":7,"amplitude_v":4,"amplitude_v_6_00":5,"amplitude_v_7_20":7,"moy_ectypmob_tp_1h":7,"moy_ectypmob_tp_1h_6_00":7,"moy_ectypmob_tp_1h_7_20":7
+	,"moy_ectypmob_tp_30m":7,"moy_ectypmob_tp_30m_6_00":7,"moy_ectypmob_tp_30m_7_20":8,"moy_ectypmob_tp_15m":7,"moy_ectypmob_tp_15m_6_00":7,"moy_ectypmob_tp_15m_7_20":7,"moy_ectypmob_v_1h":7,"moy_ectypmob_v_1h_6_00":8,"moy_ectypmob_v_1h_7_20":8
+	,"moy_ectypmob_v_30m":7,"moy_ectypmob_v_30m_6_00":8,"moy_ectypmob_v_30m_7_20":8,"moy_ectypmob_v_15m":7,"moy_ectypmob_v_15m_6_00":8,"moy_ectypmob_v_15m_7_20":8
+	,"delta_tpv":4,"delta_tpv_6_00":4,"delta_tpv_7_20":4},
+{"id_lieu":"97","nom":"Genève, Boulevard des Philosophes 24","km":7,"tps_moy_tp":5,"tps_moy_tp_6_00":5,"tps_moy_tp_7_20":5,"tps_moy_v":8,"tps_moy_v_6_00":8,"tps_moy_v_7_20":8
+	,"ectyp_tp":3,"ectyp_tp_6_00":4,"ectyp_tp_7_20":3,"ectyp_v":9,"ectyp_v_6_00":9,"ectyp_v_7_20":9
+	,"amplitude_tp":6,"amplitude_tp_6_00":6,"amplitude_tp_7_20":4,"amplitude_v":8,"amplitude_v_6_00":9,"amplitude_v_7_20":9,"moy_ectypmob_tp_1h":3,"moy_ectypmob_tp_1h_6_00":3,"moy_ectypmob_tp_1h_7_20":2
+	,"moy_ectypmob_tp_30m":2,"moy_ectypmob_tp_30m_6_00":3,"moy_ectypmob_tp_30m_7_20":2,"moy_ectypmob_tp_15m":2,"moy_ectypmob_tp_15m_6_00":3,"moy_ectypmob_tp_15m_7_20":2,"moy_ectypmob_v_1h":9,"moy_ectypmob_v_1h_6_00":9,"moy_ectypmob_v_1h_7_20":9
+	,"moy_ectypmob_v_30m":8,"moy_ectypmob_v_30m_6_00":9,"moy_ectypmob_v_30m_7_20":9,"moy_ectypmob_v_15m":8,"moy_ectypmob_v_15m_6_00":9,"moy_ectypmob_v_15m_7_20":9
+	,"delta_tpv":4,"delta_tpv_6_00":4,"delta_tpv_7_20":4},
+{"id_lieu":"66","nom":"Sion","km":10,"tps_moy_tp":5,"tps_moy_tp_6_00":6,"tps_moy_tp_7_20":7,"tps_moy_v":10,"tps_moy_v_6_00":10,"tps_moy_v_7_20":10
+	,"ectyp_tp":1,"ectyp_tp_6_00":2,"ectyp_tp_7_20":6,"ectyp_v":7,"ectyp_v_6_00":8,"ectyp_v_7_20":7
+	,"amplitude_tp":1,"amplitude_tp_6_00":2,"amplitude_tp_7_20":7,"amplitude_v":7,"amplitude_v_6_00":8,"amplitude_v_7_20":9,"moy_ectypmob_tp_1h":4,"moy_ectypmob_tp_1h_6_00":4,"moy_ectypmob_tp_1h_7_20":6
+	,"moy_ectypmob_tp_30m":4,"moy_ectypmob_tp_30m_6_00":4,"moy_ectypmob_tp_30m_7_20":7,"moy_ectypmob_tp_15m":4,"moy_ectypmob_tp_15m_6_00":4,"moy_ectypmob_tp_15m_7_20":7,"moy_ectypmob_v_1h":7,"moy_ectypmob_v_1h_6_00":8,"moy_ectypmob_v_1h_7_20":8
+	,"moy_ectypmob_v_30m":7,"moy_ectypmob_v_30m_6_00":8,"moy_ectypmob_v_30m_7_20":8,"moy_ectypmob_v_15m":7,"moy_ectypmob_v_15m_6_00":8,"moy_ectypmob_v_15m_7_20":8
+	,"delta_tpv":2,"delta_tpv_6_00":3,"delta_tpv_7_20":3},
+{"id_lieu":"129","nom":"Savigny, Route de Pré la Pierre 9","km":3,"tps_moy_tp":5,"tps_moy_tp_6_00":4,"tps_moy_tp_7_20":5,"tps_moy_v":3,"tps_moy_v_6_00":3,"tps_moy_v_7_20":3
+	,"ectyp_tp":6,"ectyp_tp_6_00":5,"ectyp_tp_7_20":8,"ectyp_v":5,"ectyp_v_6_00":2,"ectyp_v_7_20":4
+	,"amplitude_tp":7,"amplitude_tp_6_00":7,"amplitude_tp_7_20":8,"amplitude_v":3,"amplitude_v_6_00":1,"amplitude_v_7_20":2,"moy_ectypmob_tp_1h":7,"moy_ectypmob_tp_1h_6_00":7,"moy_ectypmob_tp_1h_7_20":7
+	,"moy_ectypmob_tp_30m":8,"moy_ectypmob_tp_30m_6_00":8,"moy_ectypmob_tp_30m_7_20":7,"moy_ectypmob_tp_15m":8,"moy_ectypmob_tp_15m_6_00":8,"moy_ectypmob_tp_15m_7_20":8,"moy_ectypmob_v_1h":6,"moy_ectypmob_v_1h_6_00":6,"moy_ectypmob_v_1h_7_20":7
+	,"moy_ectypmob_v_30m":7,"moy_ectypmob_v_30m_6_00":7,"moy_ectypmob_v_30m_7_20":8,"moy_ectypmob_v_15m":7,"moy_ectypmob_v_15m_6_00":7,"moy_ectypmob_v_15m_7_20":7
+	,"delta_tpv":6,"delta_tpv_6_00":6,"delta_tpv_7_20":7},
+{"id_lieu":"57","nom":"Fribourg","km":10,"tps_moy_tp":5,"tps_moy_tp_6_00":5,"tps_moy_tp_7_20":5,"tps_moy_v":9,"tps_moy_v_6_00":9,"tps_moy_v_7_20":9
+	,"ectyp_tp":4,"ectyp_tp_6_00":5,"ectyp_tp_7_20":4,"ectyp_v":8,"ectyp_v_6_00":8,"ectyp_v_7_20":7
+	,"amplitude_tp":5,"amplitude_tp_6_00":5,"amplitude_tp_7_20":3,"amplitude_v":7,"amplitude_v_6_00":7,"amplitude_v_7_20":7,"moy_ectypmob_tp_1h":5,"moy_ectypmob_tp_1h_6_00":5,"moy_ectypmob_tp_1h_7_20":5
+	,"moy_ectypmob_tp_30m":6,"moy_ectypmob_tp_30m_6_00":6,"moy_ectypmob_tp_30m_7_20":5,"moy_ectypmob_tp_15m":6,"moy_ectypmob_tp_15m_6_00":6,"moy_ectypmob_tp_15m_7_20":5,"moy_ectypmob_v_1h":7,"moy_ectypmob_v_1h_6_00":7,"moy_ectypmob_v_1h_7_20":6
+	,"moy_ectypmob_v_30m":6,"moy_ectypmob_v_30m_6_00":6,"moy_ectypmob_v_30m_7_20":6,"moy_ectypmob_v_15m":6,"moy_ectypmob_v_15m_6_00":6,"moy_ectypmob_v_15m_7_20":5
+	,"delta_tpv":3,"delta_tpv_6_00":3,"delta_tpv_7_20":3},
+{"id_lieu":"171","nom":"Saint-Légier-La Chiésaz, Route du Tirage 37","km":4,"tps_moy_tp":5,"tps_moy_tp_6_00":5,"tps_moy_tp_7_20":4,"tps_moy_v":4,"tps_moy_v_6_00":4,"tps_moy_v_7_20":4
+	,"ectyp_tp":7,"ectyp_tp_6_00":7,"ectyp_tp_7_20":5,"ectyp_v":8,"ectyp_v_6_00":2,"ectyp_v_7_20":2
+	,"amplitude_tp":7,"amplitude_tp_6_00":7,"amplitude_tp_7_20":7,"amplitude_v":10,"amplitude_v_6_00":3,"amplitude_v_7_20":5,"moy_ectypmob_tp_1h":6,"moy_ectypmob_tp_1h_6_00":6,"moy_ectypmob_tp_1h_7_20":4
+	,"moy_ectypmob_tp_30m":6,"moy_ectypmob_tp_30m_6_00":6,"moy_ectypmob_tp_30m_7_20":4,"moy_ectypmob_tp_15m":6,"moy_ectypmob_tp_15m_6_00":6,"moy_ectypmob_tp_15m_7_20":5,"moy_ectypmob_v_1h":9,"moy_ectypmob_v_1h_6_00":3,"moy_ectypmob_v_1h_7_20":4
+	,"moy_ectypmob_v_30m":10,"moy_ectypmob_v_30m_6_00":3,"moy_ectypmob_v_30m_7_20":3,"moy_ectypmob_v_15m":10,"moy_ectypmob_v_15m_6_00":3,"moy_ectypmob_v_15m_7_20":3
+	,"delta_tpv":6,"delta_tpv_6_00":7,"delta_tpv_7_20":6},
+{"id_lieu":"63","nom":"Châtel-St-Denis","km":5,"tps_moy_tp":5,"tps_moy_tp_6_00":5,"tps_moy_tp_7_20":5,"tps_moy_v":5,"tps_moy_v_6_00":5,"tps_moy_v_7_20":5
+	,"ectyp_tp":6,"ectyp_tp_6_00":7,"ectyp_tp_7_20":7,"ectyp_v":3,"ectyp_v_6_00":2,"ectyp_v_7_20":3
+	,"amplitude_tp":7,"amplitude_tp_6_00":7,"amplitude_tp_7_20":6,"amplitude_v":1,"amplitude_v_6_00":2,"amplitude_v_7_20":2,"moy_ectypmob_tp_1h":8,"moy_ectypmob_tp_1h_6_00":8,"moy_ectypmob_tp_1h_7_20":7
+	,"moy_ectypmob_tp_30m":7,"moy_ectypmob_tp_30m_6_00":8,"moy_ectypmob_tp_30m_7_20":7,"moy_ectypmob_tp_15m":7,"moy_ectypmob_tp_15m_6_00":7,"moy_ectypmob_tp_15m_7_20":7,"moy_ectypmob_v_1h":5,"moy_ectypmob_v_1h_6_00":6,"moy_ectypmob_v_1h_7_20":7
+	,"moy_ectypmob_v_30m":6,"moy_ectypmob_v_30m_6_00":7,"moy_ectypmob_v_30m_7_20":8,"moy_ectypmob_v_15m":7,"moy_ectypmob_v_15m_6_00":7,"moy_ectypmob_v_15m_7_20":8
+	,"delta_tpv":6,"delta_tpv_6_00":6,"delta_tpv_7_20":6},
+{"id_lieu":"105","nom":"Meyrin, Rue Du Cardinal Journet 2","km":7,"tps_moy_tp":5,"tps_moy_tp_6_00":5,"tps_moy_tp_7_20":6,"tps_moy_v":6,"tps_moy_v_6_00":6,"tps_moy_v_7_20":6
+	,"ectyp_tp":2,"ectyp_tp_6_00":4,"ectyp_tp_7_20":3,"ectyp_v":3,"ectyp_v_6_00":2,"ectyp_v_7_20":3
+	,"amplitude_tp":1,"amplitude_tp_6_00":3,"amplitude_tp_7_20":3,"amplitude_v":2,"amplitude_v_6_00":3,"amplitude_v_7_20":2,"moy_ectypmob_tp_1h":3,"moy_ectypmob_tp_1h_6_00":4,"moy_ectypmob_tp_1h_7_20":3
+	,"moy_ectypmob_tp_30m":3,"moy_ectypmob_tp_30m_6_00":4,"moy_ectypmob_tp_30m_7_20":4,"moy_ectypmob_tp_15m":3,"moy_ectypmob_tp_15m_6_00":3,"moy_ectypmob_tp_15m_7_20":4,"moy_ectypmob_v_1h":2,"moy_ectypmob_v_1h_6_00":3,"moy_ectypmob_v_1h_7_20":3
+	,"moy_ectypmob_v_30m":2,"moy_ectypmob_v_30m_6_00":3,"moy_ectypmob_v_30m_7_20":3,"moy_ectypmob_v_15m":2,"moy_ectypmob_v_15m_6_00":3,"moy_ectypmob_v_15m_7_20":3
+	,"delta_tpv":5,"delta_tpv_6_00":6,"delta_tpv_7_20":7},
+{"id_lieu":"13","nom":"Onex","km":8,"tps_moy_tp":5,"tps_moy_tp_6_00":6,"tps_moy_tp_7_20":6,"tps_moy_v":7,"tps_moy_v_6_00":7,"tps_moy_v_7_20":7
+	,"ectyp_tp":2,"ectyp_tp_6_00":4,"ectyp_tp_7_20":2,"ectyp_v":9,"ectyp_v_6_00":9,"ectyp_v_7_20":9
+	,"amplitude_tp":1,"amplitude_tp_6_00":2,"amplitude_tp_7_20":2,"amplitude_v":7,"amplitude_v_6_00":8,"amplitude_v_7_20":9,"moy_ectypmob_tp_1h":3,"moy_ectypmob_tp_1h_6_00":3,"moy_ectypmob_tp_1h_7_20":2
+	,"moy_ectypmob_tp_30m":2,"moy_ectypmob_tp_30m_6_00":2,"moy_ectypmob_tp_30m_7_20":2,"moy_ectypmob_tp_15m":2,"moy_ectypmob_tp_15m_6_00":2,"moy_ectypmob_tp_15m_7_20":2,"moy_ectypmob_v_1h":7,"moy_ectypmob_v_1h_6_00":8,"moy_ectypmob_v_1h_7_20":8
+	,"moy_ectypmob_v_30m":6,"moy_ectypmob_v_30m_6_00":7,"moy_ectypmob_v_30m_7_20":8,"moy_ectypmob_v_15m":6,"moy_ectypmob_v_15m_6_00":7,"moy_ectypmob_v_15m_7_20":8
+	,"delta_tpv":5,"delta_tpv_6_00":5,"delta_tpv_7_20":6},
+{"id_lieu":"148","nom":"Romont, Route de la Belle-Croix 3","km":6,"tps_moy_tp":5,"tps_moy_tp_6_00":5,"tps_moy_tp_7_20":6,"tps_moy_v":8,"tps_moy_v_6_00":8,"tps_moy_v_7_20":8
+	,"ectyp_tp":4,"ectyp_tp_6_00":5,"ectyp_tp_7_20":7,"ectyp_v":7,"ectyp_v_6_00":8,"ectyp_v_7_20":7
+	,"amplitude_tp":5,"amplitude_tp_6_00":5,"amplitude_tp_7_20":6,"amplitude_v":7,"amplitude_v_6_00":8,"amplitude_v_7_20":6,"moy_ectypmob_tp_1h":7,"moy_ectypmob_tp_1h_6_00":7,"moy_ectypmob_tp_1h_7_20":8
+	,"moy_ectypmob_tp_30m":9,"moy_ectypmob_tp_30m_6_00":8,"moy_ectypmob_tp_30m_7_20":9,"moy_ectypmob_tp_15m":9,"moy_ectypmob_tp_15m_6_00":8,"moy_ectypmob_tp_15m_7_20":9,"moy_ectypmob_v_1h":6,"moy_ectypmob_v_1h_6_00":7,"moy_ectypmob_v_1h_7_20":7
+	,"moy_ectypmob_v_30m":6,"moy_ectypmob_v_30m_6_00":7,"moy_ectypmob_v_30m_7_20":7,"moy_ectypmob_v_15m":6,"moy_ectypmob_v_15m_6_00":7,"moy_ectypmob_v_15m_7_20":7
+	,"delta_tpv":5,"delta_tpv_6_00":5,"delta_tpv_7_20":5},
+{"id_lieu":"51","nom":"Aubonne","km":3,"tps_moy_tp":5,"tps_moy_tp_6_00":6,"tps_moy_tp_7_20":3,"tps_moy_v":3,"tps_moy_v_6_00":2,"tps_moy_v_7_20":2
+	,"ectyp_tp":8,"ectyp_tp_6_00":8,"ectyp_tp_7_20":7,"ectyp_v":1,"ectyp_v_6_00":1,"ectyp_v_7_20":1
+	,"amplitude_tp":9,"amplitude_tp_6_00":9,"amplitude_tp_7_20":7,"amplitude_v":2,"amplitude_v_6_00":1,"amplitude_v_7_20":1,"moy_ectypmob_tp_1h":8,"moy_ectypmob_tp_1h_6_00":8,"moy_ectypmob_tp_1h_7_20":8
+	,"moy_ectypmob_tp_30m":8,"moy_ectypmob_tp_30m_6_00":8,"moy_ectypmob_tp_30m_7_20":8,"moy_ectypmob_tp_15m":8,"moy_ectypmob_tp_15m_6_00":8,"moy_ectypmob_tp_15m_7_20":8,"moy_ectypmob_v_1h":2,"moy_ectypmob_v_1h_6_00":2,"moy_ectypmob_v_1h_7_20":2
+	,"moy_ectypmob_v_30m":2,"moy_ectypmob_v_30m_6_00":2,"moy_ectypmob_v_30m_7_20":2,"moy_ectypmob_v_15m":2,"moy_ectypmob_v_15m_6_00":2,"moy_ectypmob_v_15m_7_20":2
+	,"delta_tpv":7,"delta_tpv_6_00":7,"delta_tpv_7_20":5},
+{"id_lieu":"127","nom":"Vallorbe, Chemin du Toscane","km":6,"tps_moy_tp":5,"tps_moy_tp_6_00":5,"tps_moy_tp_7_20":6,"tps_moy_v":5,"tps_moy_v_6_00":5,"tps_moy_v_7_20":5
+	,"ectyp_tp":6,"ectyp_tp_6_00":6,"ectyp_tp_7_20":8,"ectyp_v":6,"ectyp_v_6_00":4,"ectyp_v_7_20":6
+	,"amplitude_tp":8,"amplitude_tp_6_00":8,"amplitude_tp_7_20":7,"amplitude_v":3,"amplitude_v_6_00":2,"amplitude_v_7_20":2,"moy_ectypmob_tp_1h":7,"moy_ectypmob_tp_1h_6_00":7,"moy_ectypmob_tp_1h_7_20":8
+	,"moy_ectypmob_tp_30m":8,"moy_ectypmob_tp_30m_6_00":9,"moy_ectypmob_tp_30m_7_20":8,"moy_ectypmob_tp_15m":9,"moy_ectypmob_tp_15m_6_00":9,"moy_ectypmob_tp_15m_7_20":8,"moy_ectypmob_v_1h":6,"moy_ectypmob_v_1h_6_00":6,"moy_ectypmob_v_1h_7_20":7
+	,"moy_ectypmob_v_30m":5,"moy_ectypmob_v_30m_6_00":5,"moy_ectypmob_v_30m_7_20":6,"moy_ectypmob_v_15m":5,"moy_ectypmob_v_15m_6_00":5,"moy_ectypmob_v_15m_7_20":5
+	,"delta_tpv":6,"delta_tpv_6_00":6,"delta_tpv_7_20":7},
+{"id_lieu":"98","nom":"Le Grand-Saconnex, Chemin des Manons 17","km":6,"tps_moy_tp":6,"tps_moy_tp_6_00":5,"tps_moy_tp_7_20":6,"tps_moy_v":6,"tps_moy_v_6_00":6,"tps_moy_v_7_20":6
+	,"ectyp_tp":4,"ectyp_tp_6_00":4,"ectyp_tp_7_20":3,"ectyp_v":9,"ectyp_v_6_00":10,"ectyp_v_7_20":10
+	,"amplitude_tp":1,"amplitude_tp_6_00":3,"amplitude_tp_7_20":4,"amplitude_v":10,"amplitude_v_6_00":10,"amplitude_v_7_20":10,"moy_ectypmob_tp_1h":4,"moy_ectypmob_tp_1h_6_00":4,"moy_ectypmob_tp_1h_7_20":3
+	,"moy_ectypmob_tp_30m":3,"moy_ectypmob_tp_30m_6_00":3,"moy_ectypmob_tp_30m_7_20":3,"moy_ectypmob_tp_15m":3,"moy_ectypmob_tp_15m_6_00":3,"moy_ectypmob_tp_15m_7_20":3,"moy_ectypmob_v_1h":10,"moy_ectypmob_v_1h_6_00":9,"moy_ectypmob_v_1h_7_20":10
+	,"moy_ectypmob_v_30m":10,"moy_ectypmob_v_30m_6_00":10,"moy_ectypmob_v_30m_7_20":10,"moy_ectypmob_v_15m":10,"moy_ectypmob_v_15m_6_00":10,"moy_ectypmob_v_15m_7_20":10
+	,"delta_tpv":6,"delta_tpv_6_00":6,"delta_tpv_7_20":7},
+{"id_lieu":"84","nom":"Chexbres-Village","km":4,"tps_moy_tp":6,"tps_moy_tp_6_00":5,"tps_moy_tp_7_20":3,"tps_moy_v":3,"tps_moy_v_6_00":3,"tps_moy_v_7_20":3
+	,"ectyp_tp":8,"ectyp_tp_6_00":8,"ectyp_tp_7_20":5,"ectyp_v":2,"ectyp_v_6_00":1,"ectyp_v_7_20":1
+	,"amplitude_tp":8,"amplitude_tp_6_00":8,"amplitude_tp_7_20":5,"amplitude_v":8,"amplitude_v_6_00":2,"amplitude_v_7_20":1,"moy_ectypmob_tp_1h":7,"moy_ectypmob_tp_1h_6_00":7,"moy_ectypmob_tp_1h_7_20":5
+	,"moy_ectypmob_tp_30m":6,"moy_ectypmob_tp_30m_6_00":6,"moy_ectypmob_tp_30m_7_20":4,"moy_ectypmob_tp_15m":5,"moy_ectypmob_tp_15m_6_00":5,"moy_ectypmob_tp_15m_7_20":4,"moy_ectypmob_v_1h":4,"moy_ectypmob_v_1h_6_00":1,"moy_ectypmob_v_1h_7_20":1
+	,"moy_ectypmob_v_30m":5,"moy_ectypmob_v_30m_6_00":1,"moy_ectypmob_v_30m_7_20":1,"moy_ectypmob_v_15m":6,"moy_ectypmob_v_15m_6_00":1,"moy_ectypmob_v_15m_7_20":1
+	,"delta_tpv":7,"delta_tpv_6_00":7,"delta_tpv_7_20":4},
+{"id_lieu":"119","nom":"Blonay, Route des Pléiades 19","km":4,"tps_moy_tp":6,"tps_moy_tp_6_00":5,"tps_moy_tp_7_20":5,"tps_moy_v":5,"tps_moy_v_6_00":5,"tps_moy_v_7_20":5
+	,"ectyp_tp":7,"ectyp_tp_6_00":7,"ectyp_tp_7_20":5,"ectyp_v":2,"ectyp_v_6_00":2,"ectyp_v_7_20":1
+	,"amplitude_tp":7,"amplitude_tp_6_00":7,"amplitude_tp_7_20":8,"amplitude_v":1,"amplitude_v_6_00":3,"amplitude_v_7_20":4,"moy_ectypmob_tp_1h":6,"moy_ectypmob_tp_1h_6_00":6,"moy_ectypmob_tp_1h_7_20":4
+	,"moy_ectypmob_tp_30m":6,"moy_ectypmob_tp_30m_6_00":6,"moy_ectypmob_tp_30m_7_20":4,"moy_ectypmob_tp_15m":5,"moy_ectypmob_tp_15m_6_00":5,"moy_ectypmob_tp_15m_7_20":4,"moy_ectypmob_v_1h":3,"moy_ectypmob_v_1h_6_00":3,"moy_ectypmob_v_1h_7_20":4
+	,"moy_ectypmob_v_30m":3,"moy_ectypmob_v_30m_6_00":3,"moy_ectypmob_v_30m_7_20":4,"moy_ectypmob_v_15m":3,"moy_ectypmob_v_15m_6_00":5,"moy_ectypmob_v_15m_7_20":5
+	,"delta_tpv":7,"delta_tpv_6_00":7,"delta_tpv_7_20":6},
+{"id_lieu":"19","nom":"Genève, gare Eaux-Vives","km":7,"tps_moy_tp":6,"tps_moy_tp_6_00":6,"tps_moy_tp_7_20":5,"tps_moy_v":8,"tps_moy_v_6_00":8,"tps_moy_v_7_20":8
+	,"ectyp_tp":5,"ectyp_tp_6_00":6,"ectyp_tp_7_20":2,"ectyp_v":9,"ectyp_v_6_00":9,"ectyp_v_7_20":9
+	,"amplitude_tp":2,"amplitude_tp_6_00":3,"amplitude_tp_7_20":3,"amplitude_v":8,"amplitude_v_6_00":9,"amplitude_v_7_20":9,"moy_ectypmob_tp_1h":4,"moy_ectypmob_tp_1h_6_00":4,"moy_ectypmob_tp_1h_7_20":3
+	,"moy_ectypmob_tp_30m":3,"moy_ectypmob_tp_30m_6_00":3,"moy_ectypmob_tp_30m_7_20":3,"moy_ectypmob_tp_15m":3,"moy_ectypmob_tp_15m_6_00":2,"moy_ectypmob_tp_15m_7_20":3,"moy_ectypmob_v_1h":8,"moy_ectypmob_v_1h_6_00":9,"moy_ectypmob_v_1h_7_20":9
+	,"moy_ectypmob_v_30m":8,"moy_ectypmob_v_30m_6_00":8,"moy_ectypmob_v_30m_7_20":8,"moy_ectypmob_v_15m":7,"moy_ectypmob_v_15m_6_00":8,"moy_ectypmob_v_15m_7_20":8
+	,"delta_tpv":5,"delta_tpv_6_00":6,"delta_tpv_7_20":5},
+{"id_lieu":"35","nom":"Grandson","km":5,"tps_moy_tp":6,"tps_moy_tp_6_00":6,"tps_moy_tp_7_20":5,"tps_moy_v":4,"tps_moy_v_6_00":4,"tps_moy_v_7_20":4
+	,"ectyp_tp":6,"ectyp_tp_6_00":7,"ectyp_tp_7_20":8,"ectyp_v":6,"ectyp_v_6_00":4,"ectyp_v_7_20":5
+	,"amplitude_tp":5,"amplitude_tp_6_00":5,"amplitude_tp_7_20":8,"amplitude_v":4,"amplitude_v_6_00":3,"amplitude_v_7_20":5,"moy_ectypmob_tp_1h":8,"moy_ectypmob_tp_1h_6_00":8,"moy_ectypmob_tp_1h_7_20":8
+	,"moy_ectypmob_tp_30m":7,"moy_ectypmob_tp_30m_6_00":7,"moy_ectypmob_tp_30m_7_20":8,"moy_ectypmob_tp_15m":7,"moy_ectypmob_tp_15m_6_00":7,"moy_ectypmob_tp_15m_7_20":8,"moy_ectypmob_v_1h":5,"moy_ectypmob_v_1h_6_00":6,"moy_ectypmob_v_1h_7_20":6
+	,"moy_ectypmob_v_30m":5,"moy_ectypmob_v_30m_6_00":5,"moy_ectypmob_v_30m_7_20":6,"moy_ectypmob_v_15m":5,"moy_ectypmob_v_15m_6_00":5,"moy_ectypmob_v_15m_7_20":6
+	,"delta_tpv":7,"delta_tpv_6_00":7,"delta_tpv_7_20":7},
+{"id_lieu":"121","nom":"Neuchâtel, Faubourg du Lac 31","km":9,"tps_moy_tp":6,"tps_moy_tp_6_00":6,"tps_moy_tp_7_20":6,"tps_moy_v":8,"tps_moy_v_6_00":8,"tps_moy_v_7_20":8
+	,"ectyp_tp":5,"ectyp_tp_6_00":5,"ectyp_tp_7_20":7,"ectyp_v":7,"ectyp_v_6_00":6,"ectyp_v_7_20":4
+	,"amplitude_tp":6,"amplitude_tp_6_00":6,"amplitude_tp_7_20":6,"amplitude_v":8,"amplitude_v_6_00":4,"amplitude_v_7_20":2,"moy_ectypmob_tp_1h":7,"moy_ectypmob_tp_1h_6_00":7,"moy_ectypmob_tp_1h_7_20":7
+	,"moy_ectypmob_tp_30m":7,"moy_ectypmob_tp_30m_6_00":7,"moy_ectypmob_tp_30m_7_20":8,"moy_ectypmob_tp_15m":7,"moy_ectypmob_tp_15m_6_00":7,"moy_ectypmob_tp_15m_7_20":7,"moy_ectypmob_v_1h":6,"moy_ectypmob_v_1h_6_00":4,"moy_ectypmob_v_1h_7_20":3
+	,"moy_ectypmob_v_30m":7,"moy_ectypmob_v_30m_6_00":4,"moy_ectypmob_v_30m_7_20":3,"moy_ectypmob_v_15m":7,"moy_ectypmob_v_15m_6_00":4,"moy_ectypmob_v_15m_7_20":3
+	,"delta_tpv":5,"delta_tpv_6_00":5,"delta_tpv_7_20":6},
+{"id_lieu":"79","nom":"Chêne-Bougeries","km":8,"tps_moy_tp":6,"tps_moy_tp_6_00":6,"tps_moy_tp_7_20":6,"tps_moy_v":8,"tps_moy_v_6_00":8,"tps_moy_v_7_20":8
+	,"ectyp_tp":5,"ectyp_tp_6_00":6,"ectyp_tp_7_20":2,"ectyp_v":9,"ectyp_v_6_00":9,"ectyp_v_7_20":9
+	,"amplitude_tp":2,"amplitude_tp_6_00":3,"amplitude_tp_7_20":2,"amplitude_v":9,"amplitude_v_6_00":9,"amplitude_v_7_20":9,"moy_ectypmob_tp_1h":4,"moy_ectypmob_tp_1h_6_00":4,"moy_ectypmob_tp_1h_7_20":2
+	,"moy_ectypmob_tp_30m":3,"moy_ectypmob_tp_30m_6_00":3,"moy_ectypmob_tp_30m_7_20":2,"moy_ectypmob_tp_15m":2,"moy_ectypmob_tp_15m_6_00":2,"moy_ectypmob_tp_15m_7_20":2,"moy_ectypmob_v_1h":9,"moy_ectypmob_v_1h_6_00":9,"moy_ectypmob_v_1h_7_20":9
+	,"moy_ectypmob_v_30m":9,"moy_ectypmob_v_30m_6_00":9,"moy_ectypmob_v_30m_7_20":9,"moy_ectypmob_v_15m":9,"moy_ectypmob_v_15m_6_00":9,"moy_ectypmob_v_15m_7_20":9
+	,"delta_tpv":5,"delta_tpv_6_00":5,"delta_tpv_7_20":4},
+{"id_lieu":"154","nom":"Sion, Rue De La Dixence 51","km":10,"tps_moy_tp":6,"tps_moy_tp_6_00":6,"tps_moy_tp_7_20":8,"tps_moy_v":10,"tps_moy_v_6_00":10,"tps_moy_v_7_20":10
+	,"ectyp_tp":1,"ectyp_tp_6_00":2,"ectyp_tp_7_20":6,"ectyp_v":7,"ectyp_v_6_00":8,"ectyp_v_7_20":4
+	,"amplitude_tp":1,"amplitude_tp_6_00":2,"amplitude_tp_7_20":7,"amplitude_v":6,"amplitude_v_6_00":7,"amplitude_v_7_20":4,"moy_ectypmob_tp_1h":4,"moy_ectypmob_tp_1h_6_00":4,"moy_ectypmob_tp_1h_7_20":6
+	,"moy_ectypmob_tp_30m":4,"moy_ectypmob_tp_30m_6_00":4,"moy_ectypmob_tp_30m_7_20":7,"moy_ectypmob_tp_15m":4,"moy_ectypmob_tp_15m_6_00":4,"moy_ectypmob_tp_15m_7_20":7,"moy_ectypmob_v_1h":6,"moy_ectypmob_v_1h_6_00":6,"moy_ectypmob_v_1h_7_20":6
+	,"moy_ectypmob_v_30m":6,"moy_ectypmob_v_30m_6_00":6,"moy_ectypmob_v_30m_7_20":5,"moy_ectypmob_v_15m":6,"moy_ectypmob_v_15m_6_00":6,"moy_ectypmob_v_15m_7_20":6
+	,"delta_tpv":3,"delta_tpv_6_00":4,"delta_tpv_7_20":5},
+{"id_lieu":"145","nom":"Fribourg, Avenue Jean-Gambach 20","km":10,"tps_moy_tp":6,"tps_moy_tp_6_00":6,"tps_moy_tp_7_20":6,"tps_moy_v":9,"tps_moy_v_6_00":9,"tps_moy_v_7_20":9
+	,"ectyp_tp":4,"ectyp_tp_6_00":5,"ectyp_tp_7_20":4,"ectyp_v":8,"ectyp_v_6_00":8,"ectyp_v_7_20":6
+	,"amplitude_tp":5,"amplitude_tp_6_00":5,"amplitude_tp_7_20":3,"amplitude_v":6,"amplitude_v_6_00":7,"amplitude_v_7_20":6,"moy_ectypmob_tp_1h":5,"moy_ectypmob_tp_1h_6_00":5,"moy_ectypmob_tp_1h_7_20":5
+	,"moy_ectypmob_tp_30m":6,"moy_ectypmob_tp_30m_6_00":6,"moy_ectypmob_tp_30m_7_20":5,"moy_ectypmob_tp_15m":6,"moy_ectypmob_tp_15m_6_00":6,"moy_ectypmob_tp_15m_7_20":5,"moy_ectypmob_v_1h":8,"moy_ectypmob_v_1h_6_00":8,"moy_ectypmob_v_1h_7_20":8
+	,"moy_ectypmob_v_30m":8,"moy_ectypmob_v_30m_6_00":8,"moy_ectypmob_v_30m_7_20":8,"moy_ectypmob_v_15m":7,"moy_ectypmob_v_15m_6_00":7,"moy_ectypmob_v_15m_7_20":7
+	,"delta_tpv":4,"delta_tpv_6_00":5,"delta_tpv_7_20":4},
+{"id_lieu":"18","nom":"Carouge, rue des Mouettes","km":8,"tps_moy_tp":6,"tps_moy_tp_6_00":6,"tps_moy_tp_7_20":6,"tps_moy_v":8,"tps_moy_v_6_00":8,"tps_moy_v_7_20":8
+	,"ectyp_tp":5,"ectyp_tp_6_00":5,"ectyp_tp_7_20":2,"ectyp_v":7,"ectyp_v_6_00":6,"ectyp_v_7_20":7
+	,"amplitude_tp":5,"amplitude_tp_6_00":5,"amplitude_tp_7_20":2,"amplitude_v":7,"amplitude_v_6_00":8,"amplitude_v_7_20":9,"moy_ectypmob_tp_1h":4,"moy_ectypmob_tp_1h_6_00":4,"moy_ectypmob_tp_1h_7_20":3
+	,"moy_ectypmob_tp_30m":4,"moy_ectypmob_tp_30m_6_00":3,"moy_ectypmob_tp_30m_7_20":3,"moy_ectypmob_tp_15m":3,"moy_ectypmob_tp_15m_6_00":3,"moy_ectypmob_tp_15m_7_20":3,"moy_ectypmob_v_1h":8,"moy_ectypmob_v_1h_6_00":8,"moy_ectypmob_v_1h_7_20":8
+	,"moy_ectypmob_v_30m":7,"moy_ectypmob_v_30m_6_00":8,"moy_ectypmob_v_30m_7_20":7,"moy_ectypmob_v_15m":7,"moy_ectypmob_v_15m_6_00":8,"moy_ectypmob_v_15m_7_20":7
+	,"delta_tpv":5,"delta_tpv_6_00":5,"delta_tpv_7_20":5},
+{"id_lieu":"151","nom":"Châtel-Saint-Denis, Route des Misets 40","km":5,"tps_moy_tp":6,"tps_moy_tp_6_00":6,"tps_moy_tp_7_20":6,"tps_moy_v":5,"tps_moy_v_6_00":5,"tps_moy_v_7_20":5
+	,"ectyp_tp":6,"ectyp_tp_6_00":7,"ectyp_tp_7_20":7,"ectyp_v":2,"ectyp_v_6_00":2,"ectyp_v_7_20":3
+	,"amplitude_tp":7,"amplitude_tp_6_00":7,"amplitude_tp_7_20":6,"amplitude_v":1,"amplitude_v_6_00":2,"amplitude_v_7_20":4,"moy_ectypmob_tp_1h":8,"moy_ectypmob_tp_1h_6_00":8,"moy_ectypmob_tp_1h_7_20":7
+	,"moy_ectypmob_tp_30m":7,"moy_ectypmob_tp_30m_6_00":8,"moy_ectypmob_tp_30m_7_20":7,"moy_ectypmob_tp_15m":7,"moy_ectypmob_tp_15m_6_00":7,"moy_ectypmob_tp_15m_7_20":7,"moy_ectypmob_v_1h":5,"moy_ectypmob_v_1h_6_00":6,"moy_ectypmob_v_1h_7_20":7
+	,"moy_ectypmob_v_30m":6,"moy_ectypmob_v_30m_6_00":7,"moy_ectypmob_v_30m_7_20":7,"moy_ectypmob_v_15m":5,"moy_ectypmob_v_15m_6_00":7,"moy_ectypmob_v_15m_7_20":8
+	,"delta_tpv":7,"delta_tpv_6_00":7,"delta_tpv_7_20":7},
+{"id_lieu":"25","nom":"Monthey","km":8,"tps_moy_tp":6,"tps_moy_tp_6_00":6,"tps_moy_tp_7_20":7,"tps_moy_v":7,"tps_moy_v_6_00":7,"tps_moy_v_7_20":7
+	,"ectyp_tp":4,"ectyp_tp_6_00":5,"ectyp_tp_7_20":7,"ectyp_v":4,"ectyp_v_6_00":6,"ectyp_v_7_20":3
+	,"amplitude_tp":2,"amplitude_tp_6_00":3,"amplitude_tp_7_20":6,"amplitude_v":4,"amplitude_v_6_00":5,"amplitude_v_7_20":4,"moy_ectypmob_tp_1h":6,"moy_ectypmob_tp_1h_6_00":6,"moy_ectypmob_tp_1h_7_20":7
+	,"moy_ectypmob_tp_30m":6,"moy_ectypmob_tp_30m_6_00":6,"moy_ectypmob_tp_30m_7_20":7,"moy_ectypmob_tp_15m":6,"moy_ectypmob_tp_15m_6_00":6,"moy_ectypmob_tp_15m_7_20":7,"moy_ectypmob_v_1h":4,"moy_ectypmob_v_1h_6_00":4,"moy_ectypmob_v_1h_7_20":4
+	,"moy_ectypmob_v_30m":3,"moy_ectypmob_v_30m_6_00":4,"moy_ectypmob_v_30m_7_20":4,"moy_ectypmob_v_15m":3,"moy_ectypmob_v_15m_6_00":4,"moy_ectypmob_v_15m_7_20":5
+	,"delta_tpv":6,"delta_tpv_6_00":6,"delta_tpv_7_20":7},
+{"id_lieu":"101","nom":"Onex, Avenue du Gros-Chêne 30","km":8,"tps_moy_tp":6,"tps_moy_tp_6_00":6,"tps_moy_tp_7_20":7,"tps_moy_v":7,"tps_moy_v_6_00":7,"tps_moy_v_7_20":7
+	,"ectyp_tp":2,"ectyp_tp_6_00":4,"ectyp_tp_7_20":2,"ectyp_v":8,"ectyp_v_6_00":6,"ectyp_v_7_20":6
+	,"amplitude_tp":1,"amplitude_tp_6_00":2,"amplitude_tp_7_20":2,"amplitude_v":6,"amplitude_v_6_00":5,"amplitude_v_7_20":7,"moy_ectypmob_tp_1h":3,"moy_ectypmob_tp_1h_6_00":3,"moy_ectypmob_tp_1h_7_20":2
+	,"moy_ectypmob_tp_30m":2,"moy_ectypmob_tp_30m_6_00":2,"moy_ectypmob_tp_30m_7_20":2,"moy_ectypmob_tp_15m":2,"moy_ectypmob_tp_15m_6_00":2,"moy_ectypmob_tp_15m_7_20":2,"moy_ectypmob_v_1h":6,"moy_ectypmob_v_1h_6_00":6,"moy_ectypmob_v_1h_7_20":5
+	,"moy_ectypmob_v_30m":5,"moy_ectypmob_v_30m_6_00":5,"moy_ectypmob_v_30m_7_20":5,"moy_ectypmob_v_15m":5,"moy_ectypmob_v_15m_6_00":5,"moy_ectypmob_v_15m_7_20":4
+	,"delta_tpv":6,"delta_tpv_6_00":6,"delta_tpv_7_20":7},
+{"id_lieu":"139","nom":"Aubonne, Chemin des Philosophes 23","km":3,"tps_moy_tp":6,"tps_moy_tp_6_00":7,"tps_moy_tp_7_20":4,"tps_moy_v":3,"tps_moy_v_6_00":3,"tps_moy_v_7_20":3
+	,"ectyp_tp":8,"ectyp_tp_6_00":8,"ectyp_tp_7_20":7,"ectyp_v":2,"ectyp_v_6_00":3,"ectyp_v_7_20":3
+	,"amplitude_tp":9,"amplitude_tp_6_00":9,"amplitude_tp_7_20":6,"amplitude_v":5,"amplitude_v_6_00":6,"amplitude_v_7_20":5,"moy_ectypmob_tp_1h":8,"moy_ectypmob_tp_1h_6_00":8,"moy_ectypmob_tp_1h_7_20":8
+	,"moy_ectypmob_tp_30m":8,"moy_ectypmob_tp_30m_6_00":8,"moy_ectypmob_tp_30m_7_20":8,"moy_ectypmob_tp_15m":8,"moy_ectypmob_tp_15m_6_00":8,"moy_ectypmob_tp_15m_7_20":8,"moy_ectypmob_v_1h":3,"moy_ectypmob_v_1h_6_00":3,"moy_ectypmob_v_1h_7_20":3
+	,"moy_ectypmob_v_30m":3,"moy_ectypmob_v_30m_6_00":3,"moy_ectypmob_v_30m_7_20":4,"moy_ectypmob_v_15m":4,"moy_ectypmob_v_15m_6_00":4,"moy_ectypmob_v_15m_7_20":4
+	,"delta_tpv":8,"delta_tpv_6_00":8,"delta_tpv_7_20":6},
+{"id_lieu":"172","nom":"Chexbres, Chemin du Champ Pâquis 33","km":4,"tps_moy_tp":6,"tps_moy_tp_6_00":6,"tps_moy_tp_7_20":4,"tps_moy_v":3,"tps_moy_v_6_00":3,"tps_moy_v_7_20":3
+	,"ectyp_tp":8,"ectyp_tp_6_00":8,"ectyp_tp_7_20":5,"ectyp_v":1,"ectyp_v_6_00":1,"ectyp_v_7_20":1
+	,"amplitude_tp":8,"amplitude_tp_6_00":8,"amplitude_tp_7_20":5,"amplitude_v":2,"amplitude_v_6_00":3,"amplitude_v_7_20":5,"moy_ectypmob_tp_1h":7,"moy_ectypmob_tp_1h_6_00":7,"moy_ectypmob_tp_1h_7_20":5
+	,"moy_ectypmob_tp_30m":6,"moy_ectypmob_tp_30m_6_00":6,"moy_ectypmob_tp_30m_7_20":4,"moy_ectypmob_tp_15m":5,"moy_ectypmob_tp_15m_6_00":5,"moy_ectypmob_tp_15m_7_20":4,"moy_ectypmob_v_1h":1,"moy_ectypmob_v_1h_6_00":1,"moy_ectypmob_v_1h_7_20":1
+	,"moy_ectypmob_v_30m":1,"moy_ectypmob_v_30m_6_00":1,"moy_ectypmob_v_30m_7_20":1,"moy_ectypmob_v_15m":1,"moy_ectypmob_v_15m_6_00":1,"moy_ectypmob_v_15m_7_20":1
+	,"delta_tpv":8,"delta_tpv_6_00":7,"delta_tpv_7_20":6},
+{"id_lieu":"5","nom":"Bussigny-près-Lausanne, ch. du Grand-Record","km":3,"tps_moy_tp":6,"tps_moy_tp_6_00":7,"tps_moy_tp_7_20":3,"tps_moy_v":3,"tps_moy_v_6_00":3,"tps_moy_v_7_20":3
+	,"ectyp_tp":9,"ectyp_tp_6_00":9,"ectyp_tp_7_20":9,"ectyp_v":1,"ectyp_v_6_00":1,"ectyp_v_7_20":1
+	,"amplitude_tp":9,"amplitude_tp_6_00":9,"amplitude_tp_7_20":9,"amplitude_v":2,"amplitude_v_6_00":1,"amplitude_v_7_20":2,"moy_ectypmob_tp_1h":9,"moy_ectypmob_tp_1h_6_00":9,"moy_ectypmob_tp_1h_7_20":9
+	,"moy_ectypmob_tp_30m":8,"moy_ectypmob_tp_30m_6_00":8,"moy_ectypmob_tp_30m_7_20":7,"moy_ectypmob_tp_15m":8,"moy_ectypmob_tp_15m_6_00":8,"moy_ectypmob_tp_15m_7_20":7,"moy_ectypmob_v_1h":2,"moy_ectypmob_v_1h_6_00":1,"moy_ectypmob_v_1h_7_20":2
+	,"moy_ectypmob_v_30m":2,"moy_ectypmob_v_30m_6_00":1,"moy_ectypmob_v_30m_7_20":3,"moy_ectypmob_v_15m":2,"moy_ectypmob_v_15m_6_00":1,"moy_ectypmob_v_15m_7_20":2
+	,"delta_tpv":8,"delta_tpv_6_00":8,"delta_tpv_7_20":5},
+{"id_lieu":"16","nom":"Ferney-Voltaire, FR","km":7,"tps_moy_tp":6,"tps_moy_tp_6_00":6,"tps_moy_tp_7_20":7,"tps_moy_v":7,"tps_moy_v_6_00":7,"tps_moy_v_7_20":7
+	,"ectyp_tp":5,"ectyp_tp_6_00":4,"ectyp_tp_7_20":3,"ectyp_v":3,"ectyp_v_6_00":3,"ectyp_v_7_20":2
+	,"amplitude_tp":4,"amplitude_tp_6_00":3,"amplitude_tp_7_20":4,"amplitude_v":2,"amplitude_v_6_00":3,"amplitude_v_7_20":2,"moy_ectypmob_tp_1h":5,"moy_ectypmob_tp_1h_6_00":5,"moy_ectypmob_tp_1h_7_20":3
+	,"moy_ectypmob_tp_30m":4,"moy_ectypmob_tp_30m_6_00":4,"moy_ectypmob_tp_30m_7_20":3,"moy_ectypmob_tp_15m":3,"moy_ectypmob_tp_15m_6_00":4,"moy_ectypmob_tp_15m_7_20":3,"moy_ectypmob_v_1h":2,"moy_ectypmob_v_1h_6_00":2,"moy_ectypmob_v_1h_7_20":2
+	,"moy_ectypmob_v_30m":2,"moy_ectypmob_v_30m_6_00":2,"moy_ectypmob_v_30m_7_20":2,"moy_ectypmob_v_15m":2,"moy_ectypmob_v_15m_6_00":2,"moy_ectypmob_v_15m_7_20":2
+	,"delta_tpv":6,"delta_tpv_6_00":6,"delta_tpv_7_20":7},
+{"id_lieu":"81","nom":"Berne","km":10,"tps_moy_tp":6,"tps_moy_tp_6_00":7,"tps_moy_tp_7_20":8,"tps_moy_v":10,"tps_moy_v_6_00":10,"tps_moy_v_7_20":10
+	,"ectyp_tp":4,"ectyp_tp_6_00":6,"ectyp_tp_7_20":4,"ectyp_v":9,"ectyp_v_6_00":9,"ectyp_v_7_20":9
+	,"amplitude_tp":6,"amplitude_tp_6_00":6,"amplitude_tp_7_20":3,"amplitude_v":10,"amplitude_v_6_00":10,"amplitude_v_7_20":10,"moy_ectypmob_tp_1h":5,"moy_ectypmob_tp_1h_6_00":5,"moy_ectypmob_tp_1h_7_20":5
+	,"moy_ectypmob_tp_30m":6,"moy_ectypmob_tp_30m_6_00":6,"moy_ectypmob_tp_30m_7_20":5,"moy_ectypmob_tp_15m":6,"moy_ectypmob_tp_15m_6_00":6,"moy_ectypmob_tp_15m_7_20":6,"moy_ectypmob_v_1h":10,"moy_ectypmob_v_1h_6_00":10,"moy_ectypmob_v_1h_7_20":10
+	,"moy_ectypmob_v_30m":10,"moy_ectypmob_v_30m_6_00":10,"moy_ectypmob_v_30m_7_20":10,"moy_ectypmob_v_15m":10,"moy_ectypmob_v_15m_6_00":10,"moy_ectypmob_v_15m_7_20":10
+	,"delta_tpv":4,"delta_tpv_6_00":5,"delta_tpv_7_20":5},
+{"id_lieu":"107","nom":"Genève, Rue des Vollandes 21","km":7,"tps_moy_tp":7,"tps_moy_tp_6_00":6,"tps_moy_tp_7_20":7,"tps_moy_v":8,"tps_moy_v_6_00":8,"tps_moy_v_7_20":8
+	,"ectyp_tp":5,"ectyp_tp_6_00":6,"ectyp_tp_7_20":2,"ectyp_v":10,"ectyp_v_6_00":10,"ectyp_v_7_20":10
+	,"amplitude_tp":2,"amplitude_tp_6_00":3,"amplitude_tp_7_20":3,"amplitude_v":9,"amplitude_v_6_00":9,"amplitude_v_7_20":9,"moy_ectypmob_tp_1h":4,"moy_ectypmob_tp_1h_6_00":4,"moy_ectypmob_tp_1h_7_20":3
+	,"moy_ectypmob_tp_30m":3,"moy_ectypmob_tp_30m_6_00":3,"moy_ectypmob_tp_30m_7_20":3,"moy_ectypmob_tp_15m":3,"moy_ectypmob_tp_15m_6_00":2,"moy_ectypmob_tp_15m_7_20":3,"moy_ectypmob_v_1h":9,"moy_ectypmob_v_1h_6_00":9,"moy_ectypmob_v_1h_7_20":9
+	,"moy_ectypmob_v_30m":9,"moy_ectypmob_v_30m_6_00":9,"moy_ectypmob_v_30m_7_20":9,"moy_ectypmob_v_15m":9,"moy_ectypmob_v_15m_6_00":9,"moy_ectypmob_v_15m_7_20":9
+	,"delta_tpv":6,"delta_tpv_6_00":7,"delta_tpv_7_20":7},
+{"id_lieu":"123","nom":"Grandson, Port de Pécos","km":5,"tps_moy_tp":7,"tps_moy_tp_6_00":7,"tps_moy_tp_7_20":6,"tps_moy_v":5,"tps_moy_v_6_00":5,"tps_moy_v_7_20":5
+	,"ectyp_tp":6,"ectyp_tp_6_00":7,"ectyp_tp_7_20":8,"ectyp_v":5,"ectyp_v_6_00":4,"ectyp_v_7_20":4
+	,"amplitude_tp":5,"amplitude_tp_6_00":5,"amplitude_tp_7_20":8,"amplitude_v":4,"amplitude_v_6_00":4,"amplitude_v_7_20":4,"moy_ectypmob_tp_1h":8,"moy_ectypmob_tp_1h_6_00":8,"moy_ectypmob_tp_1h_7_20":8
+	,"moy_ectypmob_tp_30m":7,"moy_ectypmob_tp_30m_6_00":7,"moy_ectypmob_tp_30m_7_20":8,"moy_ectypmob_tp_15m":7,"moy_ectypmob_tp_15m_6_00":7,"moy_ectypmob_tp_15m_7_20":8,"moy_ectypmob_v_1h":7,"moy_ectypmob_v_1h_6_00":7,"moy_ectypmob_v_1h_7_20":7
+	,"moy_ectypmob_v_30m":6,"moy_ectypmob_v_30m_6_00":6,"moy_ectypmob_v_30m_7_20":6,"moy_ectypmob_v_15m":5,"moy_ectypmob_v_15m_6_00":6,"moy_ectypmob_v_15m_7_20":6
+	,"delta_tpv":7,"delta_tpv_6_00":7,"delta_tpv_7_20":8},
+{"id_lieu":"167","nom":"Chêne-Bougeries, Avenue Jacques-Martin 20","km":8,"tps_moy_tp":7,"tps_moy_tp_6_00":7,"tps_moy_tp_7_20":7,"tps_moy_v":8,"tps_moy_v_6_00":8,"tps_moy_v_7_20":8
+	,"ectyp_tp":5,"ectyp_tp_6_00":6,"ectyp_tp_7_20":2,"ectyp_v":9,"ectyp_v_6_00":9,"ectyp_v_7_20":9
+	,"amplitude_tp":2,"amplitude_tp_6_00":3,"amplitude_tp_7_20":2,"amplitude_v":9,"amplitude_v_6_00":9,"amplitude_v_7_20":9,"moy_ectypmob_tp_1h":4,"moy_ectypmob_tp_1h_6_00":4,"moy_ectypmob_tp_1h_7_20":2
+	,"moy_ectypmob_tp_30m":3,"moy_ectypmob_tp_30m_6_00":3,"moy_ectypmob_tp_30m_7_20":2,"moy_ectypmob_tp_15m":2,"moy_ectypmob_tp_15m_6_00":2,"moy_ectypmob_tp_15m_7_20":2,"moy_ectypmob_v_1h":9,"moy_ectypmob_v_1h_6_00":9,"moy_ectypmob_v_1h_7_20":9
+	,"moy_ectypmob_v_30m":9,"moy_ectypmob_v_30m_6_00":9,"moy_ectypmob_v_30m_7_20":9,"moy_ectypmob_v_15m":9,"moy_ectypmob_v_15m_6_00":9,"moy_ectypmob_v_15m_7_20":9
+	,"delta_tpv":6,"delta_tpv_6_00":6,"delta_tpv_7_20":6},
+{"id_lieu":"4","nom":"Tartegnin","km":3,"tps_moy_tp":7,"tps_moy_tp_6_00":7,"tps_moy_tp_7_20":6,"tps_moy_v":3,"tps_moy_v_6_00":3,"tps_moy_v_7_20":3
+	,"ectyp_tp":8,"ectyp_tp_6_00":8,"ectyp_tp_7_20":9,"ectyp_v":1,"ectyp_v_6_00":1,"ectyp_v_7_20":1
+	,"amplitude_tp":8,"amplitude_tp_6_00":8,"amplitude_tp_7_20":9,"amplitude_v":2,"amplitude_v_6_00":1,"amplitude_v_7_20":2,"moy_ectypmob_tp_1h":9,"moy_ectypmob_tp_1h_6_00":9,"moy_ectypmob_tp_1h_7_20":9
+	,"moy_ectypmob_tp_30m":9,"moy_ectypmob_tp_30m_6_00":9,"moy_ectypmob_tp_30m_7_20":9,"moy_ectypmob_tp_15m":9,"moy_ectypmob_tp_15m_6_00":9,"moy_ectypmob_tp_15m_7_20":9,"moy_ectypmob_v_1h":2,"moy_ectypmob_v_1h_6_00":2,"moy_ectypmob_v_1h_7_20":3
+	,"moy_ectypmob_v_30m":1,"moy_ectypmob_v_30m_6_00":1,"moy_ectypmob_v_30m_7_20":3,"moy_ectypmob_v_15m":1,"moy_ectypmob_v_15m_6_00":2,"moy_ectypmob_v_15m_7_20":2
+	,"delta_tpv":8,"delta_tpv_6_00":8,"delta_tpv_7_20":9},
+{"id_lieu":"106","nom":"Genève, Quai des Vernets","km":8,"tps_moy_tp":7,"tps_moy_tp_6_00":6,"tps_moy_tp_7_20":7,"tps_moy_v":8,"tps_moy_v_6_00":8,"tps_moy_v_7_20":8
+	,"ectyp_tp":5,"ectyp_tp_6_00":5,"ectyp_tp_7_20":2,"ectyp_v":9,"ectyp_v_6_00":9,"ectyp_v_7_20":8
+	,"amplitude_tp":5,"amplitude_tp_6_00":5,"amplitude_tp_7_20":2,"amplitude_v":8,"amplitude_v_6_00":9,"amplitude_v_7_20":8,"moy_ectypmob_tp_1h":4,"moy_ectypmob_tp_1h_6_00":4,"moy_ectypmob_tp_1h_7_20":3
+	,"moy_ectypmob_tp_30m":4,"moy_ectypmob_tp_30m_6_00":3,"moy_ectypmob_tp_30m_7_20":3,"moy_ectypmob_tp_15m":3,"moy_ectypmob_tp_15m_6_00":3,"moy_ectypmob_tp_15m_7_20":3,"moy_ectypmob_v_1h":8,"moy_ectypmob_v_1h_6_00":8,"moy_ectypmob_v_1h_7_20":8
+	,"moy_ectypmob_v_30m":8,"moy_ectypmob_v_30m_6_00":8,"moy_ectypmob_v_30m_7_20":7,"moy_ectypmob_v_15m":8,"moy_ectypmob_v_15m_6_00":8,"moy_ectypmob_v_15m_7_20":7
+	,"delta_tpv":6,"delta_tpv_6_00":6,"delta_tpv_7_20":7},
+{"id_lieu":"113","nom":"Monthey, Route des Aunaires 17","km":8,"tps_moy_tp":7,"tps_moy_tp_6_00":7,"tps_moy_tp_7_20":8,"tps_moy_v":7,"tps_moy_v_6_00":7,"tps_moy_v_7_20":7
+	,"ectyp_tp":4,"ectyp_tp_6_00":5,"ectyp_tp_7_20":7,"ectyp_v":3,"ectyp_v_6_00":5,"ectyp_v_7_20":4
+	,"amplitude_tp":2,"amplitude_tp_6_00":3,"amplitude_tp_7_20":6,"amplitude_v":3,"amplitude_v_6_00":5,"amplitude_v_7_20":3,"moy_ectypmob_tp_1h":6,"moy_ectypmob_tp_1h_6_00":6,"moy_ectypmob_tp_1h_7_20":7
+	,"moy_ectypmob_tp_30m":6,"moy_ectypmob_tp_30m_6_00":6,"moy_ectypmob_tp_30m_7_20":7,"moy_ectypmob_tp_15m":6,"moy_ectypmob_tp_15m_6_00":6,"moy_ectypmob_tp_15m_7_20":7,"moy_ectypmob_v_1h":6,"moy_ectypmob_v_1h_6_00":7,"moy_ectypmob_v_1h_7_20":8
+	,"moy_ectypmob_v_30m":7,"moy_ectypmob_v_30m_6_00":7,"moy_ectypmob_v_30m_7_20":8,"moy_ectypmob_v_15m":7,"moy_ectypmob_v_15m_6_00":7,"moy_ectypmob_v_15m_7_20":8
+	,"delta_tpv":7,"delta_tpv_6_00":7,"delta_tpv_7_20":8},
+{"id_lieu":"37","nom":"Marchissy, Village","km":4,"tps_moy_tp":7,"tps_moy_tp_6_00":7,"tps_moy_tp_7_20":6,"tps_moy_v":5,"tps_moy_v_6_00":5,"tps_moy_v_7_20":5
+	,"ectyp_tp":7,"ectyp_tp_6_00":8,"ectyp_tp_7_20":8,"ectyp_v":1,"ectyp_v_6_00":1,"ectyp_v_7_20":1
+	,"amplitude_tp":8,"amplitude_tp_6_00":8,"amplitude_tp_7_20":8,"amplitude_v":1,"amplitude_v_6_00":1,"amplitude_v_7_20":1,"moy_ectypmob_tp_1h":9,"moy_ectypmob_tp_1h_6_00":9,"moy_ectypmob_tp_1h_7_20":9
+	,"moy_ectypmob_tp_30m":9,"moy_ectypmob_tp_30m_6_00":9,"moy_ectypmob_tp_30m_7_20":9,"moy_ectypmob_tp_15m":10,"moy_ectypmob_tp_15m_6_00":9,"moy_ectypmob_tp_15m_7_20":9,"moy_ectypmob_v_1h":1,"moy_ectypmob_v_1h_6_00":1,"moy_ectypmob_v_1h_7_20":1
+	,"moy_ectypmob_v_30m":1,"moy_ectypmob_v_30m_6_00":1,"moy_ectypmob_v_30m_7_20":1,"moy_ectypmob_v_15m":1,"moy_ectypmob_v_15m_6_00":1,"moy_ectypmob_v_15m_7_20":1
+	,"delta_tpv":7,"delta_tpv_6_00":7,"delta_tpv_7_20":8},
+{"id_lieu":"67","nom":"Sierre","km":10,"tps_moy_tp":7,"tps_moy_tp_6_00":7,"tps_moy_tp_7_20":8,"tps_moy_v":10,"tps_moy_v_6_00":10,"tps_moy_v_7_20":10
+	,"ectyp_tp":2,"ectyp_tp_6_00":5,"ectyp_tp_7_20":5,"ectyp_v":7,"ectyp_v_6_00":9,"ectyp_v_7_20":4
+	,"amplitude_tp":1,"amplitude_tp_6_00":3,"amplitude_tp_7_20":5,"amplitude_v":8,"amplitude_v_6_00":9,"amplitude_v_7_20":5,"moy_ectypmob_tp_1h":5,"moy_ectypmob_tp_1h_6_00":5,"moy_ectypmob_tp_1h_7_20":5
+	,"moy_ectypmob_tp_30m":5,"moy_ectypmob_tp_30m_6_00":5,"moy_ectypmob_tp_30m_7_20":6,"moy_ectypmob_tp_15m":6,"moy_ectypmob_tp_15m_6_00":5,"moy_ectypmob_tp_15m_7_20":6,"moy_ectypmob_v_1h":6,"moy_ectypmob_v_1h_6_00":6,"moy_ectypmob_v_1h_7_20":6
+	,"moy_ectypmob_v_30m":6,"moy_ectypmob_v_30m_6_00":6,"moy_ectypmob_v_30m_7_20":6,"moy_ectypmob_v_15m":6,"moy_ectypmob_v_15m_6_00":6,"moy_ectypmob_v_15m_7_20":5
+	,"delta_tpv":4,"delta_tpv_6_00":4,"delta_tpv_7_20":4},
+{"id_lieu":"59","nom":"Düdingen","km":10,"tps_moy_tp":7,"tps_moy_tp_6_00":6,"tps_moy_tp_7_20":7,"tps_moy_v":9,"tps_moy_v_6_00":9,"tps_moy_v_7_20":9
+	,"ectyp_tp":6,"ectyp_tp_6_00":6,"ectyp_tp_7_20":6,"ectyp_v":6,"ectyp_v_6_00":7,"ectyp_v_7_20":7
+	,"amplitude_tp":6,"amplitude_tp_6_00":6,"amplitude_tp_7_20":7,"amplitude_v":7,"amplitude_v_6_00":8,"amplitude_v_7_20":7,"moy_ectypmob_tp_1h":6,"moy_ectypmob_tp_1h_6_00":6,"moy_ectypmob_tp_1h_7_20":5
+	,"moy_ectypmob_tp_30m":6,"moy_ectypmob_tp_30m_6_00":7,"moy_ectypmob_tp_30m_7_20":6,"moy_ectypmob_tp_15m":6,"moy_ectypmob_tp_15m_6_00":7,"moy_ectypmob_tp_15m_7_20":6,"moy_ectypmob_v_1h":8,"moy_ectypmob_v_1h_6_00":8,"moy_ectypmob_v_1h_7_20":9
+	,"moy_ectypmob_v_30m":7,"moy_ectypmob_v_30m_6_00":8,"moy_ectypmob_v_30m_7_20":8,"moy_ectypmob_v_15m":8,"moy_ectypmob_v_15m_6_00":8,"moy_ectypmob_v_15m_7_20":8
+	,"delta_tpv":6,"delta_tpv_6_00":5,"delta_tpv_7_20":6},
+{"id_lieu":"56","nom":"Payerne","km":7,"tps_moy_tp":7,"tps_moy_tp_6_00":7,"tps_moy_tp_7_20":7,"tps_moy_v":7,"tps_moy_v_6_00":7,"tps_moy_v_7_20":7
+	,"ectyp_tp":6,"ectyp_tp_6_00":6,"ectyp_tp_7_20":8,"ectyp_v":5,"ectyp_v_6_00":7,"ectyp_v_7_20":6
+	,"amplitude_tp":4,"amplitude_tp_6_00":4,"amplitude_tp_7_20":8,"amplitude_v":7,"amplitude_v_6_00":8,"amplitude_v_7_20":8,"moy_ectypmob_tp_1h":7,"moy_ectypmob_tp_1h_6_00":7,"moy_ectypmob_tp_1h_7_20":7
+	,"moy_ectypmob_tp_30m":7,"moy_ectypmob_tp_30m_6_00":7,"moy_ectypmob_tp_30m_7_20":7,"moy_ectypmob_tp_15m":7,"moy_ectypmob_tp_15m_6_00":7,"moy_ectypmob_tp_15m_7_20":7,"moy_ectypmob_v_1h":6,"moy_ectypmob_v_1h_6_00":7,"moy_ectypmob_v_1h_7_20":8
+	,"moy_ectypmob_v_30m":7,"moy_ectypmob_v_30m_6_00":8,"moy_ectypmob_v_30m_7_20":8,"moy_ectypmob_v_15m":7,"moy_ectypmob_v_15m_6_00":8,"moy_ectypmob_v_15m_7_20":9
+	,"delta_tpv":7,"delta_tpv_6_00":7,"delta_tpv_7_20":8},
+{"id_lieu":"32","nom":"Corcelles-Peseux","km":8,"tps_moy_tp":7,"tps_moy_tp_6_00":8,"tps_moy_tp_7_20":7,"tps_moy_v":7,"tps_moy_v_6_00":7,"tps_moy_v_7_20":7
+	,"ectyp_tp":7,"ectyp_tp_6_00":7,"ectyp_tp_7_20":8,"ectyp_v":5,"ectyp_v_6_00":3,"ectyp_v_7_20":5
+	,"amplitude_tp":6,"amplitude_tp_6_00":7,"amplitude_tp_7_20":8,"amplitude_v":4,"amplitude_v_6_00":3,"amplitude_v_7_20":4,"moy_ectypmob_tp_1h":8,"moy_ectypmob_tp_1h_6_00":8,"moy_ectypmob_tp_1h_7_20":8
+	,"moy_ectypmob_tp_30m":8,"moy_ectypmob_tp_30m_6_00":7,"moy_ectypmob_tp_30m_7_20":8,"moy_ectypmob_tp_15m":8,"moy_ectypmob_tp_15m_6_00":8,"moy_ectypmob_tp_15m_7_20":8,"moy_ectypmob_v_1h":7,"moy_ectypmob_v_1h_6_00":7,"moy_ectypmob_v_1h_7_20":8
+	,"moy_ectypmob_v_30m":8,"moy_ectypmob_v_30m_6_00":8,"moy_ectypmob_v_30m_7_20":9,"moy_ectypmob_v_15m":8,"moy_ectypmob_v_15m_6_00":8,"moy_ectypmob_v_15m_7_20":8
+	,"delta_tpv":7,"delta_tpv_6_00":7,"delta_tpv_7_20":8},
+{"id_lieu":"21","nom":"Collonge-Bellerive","km":9,"tps_moy_tp":7,"tps_moy_tp_6_00":7,"tps_moy_tp_7_20":8,"tps_moy_v":9,"tps_moy_v_6_00":9,"tps_moy_v_7_20":9
+	,"ectyp_tp":5,"ectyp_tp_6_00":4,"ectyp_tp_7_20":4,"ectyp_v":10,"ectyp_v_6_00":10,"ectyp_v_7_20":10
+	,"amplitude_tp":3,"amplitude_tp_6_00":3,"amplitude_tp_7_20":5,"amplitude_v":9,"amplitude_v_6_00":9,"amplitude_v_7_20":10,"moy_ectypmob_tp_1h":5,"moy_ectypmob_tp_1h_6_00":5,"moy_ectypmob_tp_1h_7_20":4
+	,"moy_ectypmob_tp_30m":5,"moy_ectypmob_tp_30m_6_00":4,"moy_ectypmob_tp_30m_7_20":4,"moy_ectypmob_tp_15m":4,"moy_ectypmob_tp_15m_6_00":4,"moy_ectypmob_tp_15m_7_20":4,"moy_ectypmob_v_1h":10,"moy_ectypmob_v_1h_6_00":10,"moy_ectypmob_v_1h_7_20":10
+	,"moy_ectypmob_v_30m":9,"moy_ectypmob_v_30m_6_00":10,"moy_ectypmob_v_30m_7_20":10,"moy_ectypmob_v_15m":9,"moy_ectypmob_v_15m_6_00":10,"moy_ectypmob_v_15m_7_20":10
+	,"delta_tpv":6,"delta_tpv_6_00":6,"delta_tpv_7_20":7},
+{"id_lieu":"93","nom":"Bussigny-près-Lausanne, Rue de Lausanne 93","km":1,"tps_moy_tp":7,"tps_moy_tp_6_00":7,"tps_moy_tp_7_20":4,"tps_moy_v":1,"tps_moy_v_6_00":1,"tps_moy_v_7_20":1
+	,"ectyp_tp":9,"ectyp_tp_6_00":9,"ectyp_tp_7_20":9,"ectyp_v":2,"ectyp_v_6_00":2,"ectyp_v_7_20":4
+	,"amplitude_tp":9,"amplitude_tp_6_00":9,"amplitude_tp_7_20":9,"amplitude_v":2,"amplitude_v_6_00":2,"amplitude_v_7_20":3,"moy_ectypmob_tp_1h":9,"moy_ectypmob_tp_1h_6_00":9,"moy_ectypmob_tp_1h_7_20":9
+	,"moy_ectypmob_tp_30m":8,"moy_ectypmob_tp_30m_6_00":8,"moy_ectypmob_tp_30m_7_20":7,"moy_ectypmob_tp_15m":8,"moy_ectypmob_tp_15m_6_00":8,"moy_ectypmob_tp_15m_7_20":7,"moy_ectypmob_v_1h":2,"moy_ectypmob_v_1h_6_00":2,"moy_ectypmob_v_1h_7_20":3
+	,"moy_ectypmob_v_30m":2,"moy_ectypmob_v_30m_6_00":2,"moy_ectypmob_v_30m_7_20":3,"moy_ectypmob_v_15m":2,"moy_ectypmob_v_15m_6_00":2,"moy_ectypmob_v_15m_7_20":3
+	,"delta_tpv":9,"delta_tpv_6_00":9,"delta_tpv_7_20":8},
+{"id_lieu":"104","nom":"Ferney-Voltaire, 3 Avenue des Sablonnières","km":7,"tps_moy_tp":7,"tps_moy_tp_6_00":7,"tps_moy_tp_7_20":8,"tps_moy_v":6,"tps_moy_v_6_00":6,"tps_moy_v_7_20":6
+	,"ectyp_tp":5,"ectyp_tp_6_00":4,"ectyp_tp_7_20":3,"ectyp_v":4,"ectyp_v_6_00":5,"ectyp_v_7_20":3
+	,"amplitude_tp":4,"amplitude_tp_6_00":3,"amplitude_tp_7_20":4,"amplitude_v":3,"amplitude_v_6_00":4,"amplitude_v_7_20":3,"moy_ectypmob_tp_1h":5,"moy_ectypmob_tp_1h_6_00":5,"moy_ectypmob_tp_1h_7_20":3
+	,"moy_ectypmob_tp_30m":4,"moy_ectypmob_tp_30m_6_00":4,"moy_ectypmob_tp_30m_7_20":3,"moy_ectypmob_tp_15m":3,"moy_ectypmob_tp_15m_6_00":4,"moy_ectypmob_tp_15m_7_20":3,"moy_ectypmob_v_1h":3,"moy_ectypmob_v_1h_6_00":5,"moy_ectypmob_v_1h_7_20":4
+	,"moy_ectypmob_v_30m":3,"moy_ectypmob_v_30m_6_00":4,"moy_ectypmob_v_30m_7_20":3,"moy_ectypmob_v_15m":3,"moy_ectypmob_v_15m_6_00":4,"moy_ectypmob_v_15m_7_20":3
+	,"delta_tpv":7,"delta_tpv_6_00":7,"delta_tpv_7_20":8},
+{"id_lieu":"169","nom":"Bern, Gesellschaftsstrasse 38","km":10,"tps_moy_tp":7,"tps_moy_tp_6_00":7,"tps_moy_tp_7_20":8,"tps_moy_v":10,"tps_moy_v_6_00":10,"tps_moy_v_7_20":10
+	,"ectyp_tp":4,"ectyp_tp_6_00":6,"ectyp_tp_7_20":4,"ectyp_v":9,"ectyp_v_6_00":9,"ectyp_v_7_20":9
+	,"amplitude_tp":6,"amplitude_tp_6_00":6,"amplitude_tp_7_20":3,"amplitude_v":9,"amplitude_v_6_00":8,"amplitude_v_7_20":9,"moy_ectypmob_tp_1h":5,"moy_ectypmob_tp_1h_6_00":5,"moy_ectypmob_tp_1h_7_20":5
+	,"moy_ectypmob_tp_30m":6,"moy_ectypmob_tp_30m_6_00":6,"moy_ectypmob_tp_30m_7_20":5,"moy_ectypmob_tp_15m":6,"moy_ectypmob_tp_15m_6_00":6,"moy_ectypmob_tp_15m_7_20":6,"moy_ectypmob_v_1h":9,"moy_ectypmob_v_1h_6_00":9,"moy_ectypmob_v_1h_7_20":9
+	,"moy_ectypmob_v_30m":9,"moy_ectypmob_v_30m_6_00":9,"moy_ectypmob_v_30m_7_20":9,"moy_ectypmob_v_15m":9,"moy_ectypmob_v_15m_6_00":9,"moy_ectypmob_v_15m_7_20":9
+	,"delta_tpv":5,"delta_tpv_6_00":6,"delta_tpv_7_20":6},
+{"id_lieu":"92","nom":"Tartegnin, Chemin de Chantemerle 2","km":3,"tps_moy_tp":7,"tps_moy_tp_6_00":8,"tps_moy_tp_7_20":7,"tps_moy_v":3,"tps_moy_v_6_00":3,"tps_moy_v_7_20":3
+	,"ectyp_tp":8,"ectyp_tp_6_00":8,"ectyp_tp_7_20":9,"ectyp_v":1,"ectyp_v_6_00":1,"ectyp_v_7_20":1
+	,"amplitude_tp":8,"amplitude_tp_6_00":8,"amplitude_tp_7_20":9,"amplitude_v":1,"amplitude_v_6_00":1,"amplitude_v_7_20":1,"moy_ectypmob_tp_1h":9,"moy_ectypmob_tp_1h_6_00":9,"moy_ectypmob_tp_1h_7_20":9
+	,"moy_ectypmob_tp_30m":9,"moy_ectypmob_tp_30m_6_00":9,"moy_ectypmob_tp_30m_7_20":9,"moy_ectypmob_tp_15m":9,"moy_ectypmob_tp_15m_6_00":9,"moy_ectypmob_tp_15m_7_20":9,"moy_ectypmob_v_1h":1,"moy_ectypmob_v_1h_6_00":1,"moy_ectypmob_v_1h_7_20":1
+	,"moy_ectypmob_v_30m":1,"moy_ectypmob_v_30m_6_00":1,"moy_ectypmob_v_30m_7_20":1,"moy_ectypmob_v_15m":1,"moy_ectypmob_v_15m_6_00":1,"moy_ectypmob_v_15m_7_20":1
+	,"delta_tpv":8,"delta_tpv_6_00":8,"delta_tpv_7_20":9},
+{"id_lieu":"1","nom":"Yvonand","km":5,"tps_moy_tp":7,"tps_moy_tp_6_00":7,"tps_moy_tp_7_20":7,"tps_moy_v":6,"tps_moy_v_6_00":6,"tps_moy_v_7_20":6
+	,"ectyp_tp":8,"ectyp_tp_6_00":8,"ectyp_tp_7_20":8,"ectyp_v":6,"ectyp_v_6_00":7,"ectyp_v_7_20":5
+	,"amplitude_tp":7,"amplitude_tp_6_00":7,"amplitude_tp_7_20":8,"amplitude_v":6,"amplitude_v_6_00":7,"amplitude_v_7_20":4,"moy_ectypmob_tp_1h":7,"moy_ectypmob_tp_1h_6_00":7,"moy_ectypmob_tp_1h_7_20":7
+	,"moy_ectypmob_tp_30m":7,"moy_ectypmob_tp_30m_6_00":7,"moy_ectypmob_tp_30m_7_20":7,"moy_ectypmob_tp_15m":7,"moy_ectypmob_tp_15m_6_00":7,"moy_ectypmob_tp_15m_7_20":7,"moy_ectypmob_v_1h":5,"moy_ectypmob_v_1h_6_00":5,"moy_ectypmob_v_1h_7_20":5
+	,"moy_ectypmob_v_30m":5,"moy_ectypmob_v_30m_6_00":5,"moy_ectypmob_v_30m_7_20":4,"moy_ectypmob_v_15m":5,"moy_ectypmob_v_15m_6_00":5,"moy_ectypmob_v_15m_7_20":4
+	,"delta_tpv":8,"delta_tpv_6_00":8,"delta_tpv_7_20":8},
+{"id_lieu":"125","nom":"Marchissy, Route des Montagnes 26","km":4,"tps_moy_tp":7,"tps_moy_tp_6_00":8,"tps_moy_tp_7_20":7,"tps_moy_v":6,"tps_moy_v_6_00":6,"tps_moy_v_7_20":6
+	,"ectyp_tp":7,"ectyp_tp_6_00":8,"ectyp_tp_7_20":8,"ectyp_v":1,"ectyp_v_6_00":1,"ectyp_v_7_20":1
+	,"amplitude_tp":8,"amplitude_tp_6_00":8,"amplitude_tp_7_20":8,"amplitude_v":1,"amplitude_v_6_00":3,"amplitude_v_7_20":2,"moy_ectypmob_tp_1h":9,"moy_ectypmob_tp_1h_6_00":9,"moy_ectypmob_tp_1h_7_20":9
+	,"moy_ectypmob_tp_30m":9,"moy_ectypmob_tp_30m_6_00":9,"moy_ectypmob_tp_30m_7_20":9,"moy_ectypmob_tp_15m":10,"moy_ectypmob_tp_15m_6_00":9,"moy_ectypmob_tp_15m_7_20":9,"moy_ectypmob_v_1h":1,"moy_ectypmob_v_1h_6_00":1,"moy_ectypmob_v_1h_7_20":1
+	,"moy_ectypmob_v_30m":1,"moy_ectypmob_v_30m_6_00":2,"moy_ectypmob_v_30m_7_20":1,"moy_ectypmob_v_15m":1,"moy_ectypmob_v_15m_6_00":1,"moy_ectypmob_v_15m_7_20":1
+	,"delta_tpv":8,"delta_tpv_6_00":8,"delta_tpv_7_20":9},
+{"id_lieu":"155","nom":"Sierre, Chemin des Collines 3","km":10,"tps_moy_tp":8,"tps_moy_tp_6_00":8,"tps_moy_tp_7_20":9,"tps_moy_v":10,"tps_moy_v_6_00":10,"tps_moy_v_7_20":10
+	,"ectyp_tp":2,"ectyp_tp_6_00":5,"ectyp_tp_7_20":5,"ectyp_v":8,"ectyp_v_6_00":8,"ectyp_v_7_20":7
+	,"amplitude_tp":1,"amplitude_tp_6_00":3,"amplitude_tp_7_20":5,"amplitude_v":6,"amplitude_v_6_00":7,"amplitude_v_7_20":6,"moy_ectypmob_tp_1h":5,"moy_ectypmob_tp_1h_6_00":5,"moy_ectypmob_tp_1h_7_20":5
+	,"moy_ectypmob_tp_30m":5,"moy_ectypmob_tp_30m_6_00":5,"moy_ectypmob_tp_30m_7_20":6,"moy_ectypmob_tp_15m":6,"moy_ectypmob_tp_15m_6_00":5,"moy_ectypmob_tp_15m_7_20":6,"moy_ectypmob_v_1h":5,"moy_ectypmob_v_1h_6_00":4,"moy_ectypmob_v_1h_7_20":3
+	,"moy_ectypmob_v_30m":4,"moy_ectypmob_v_30m_6_00":4,"moy_ectypmob_v_30m_7_20":3,"moy_ectypmob_v_15m":4,"moy_ectypmob_v_15m_6_00":4,"moy_ectypmob_v_15m_7_20":3
+	,"delta_tpv":5,"delta_tpv_6_00":6,"delta_tpv_7_20":6},
+{"id_lieu":"147","nom":"Düdingen, Riedlistrasse 43","km":10,"tps_moy_tp":8,"tps_moy_tp_6_00":7,"tps_moy_tp_7_20":8,"tps_moy_v":9,"tps_moy_v_6_00":9,"tps_moy_v_7_20":9
+	,"ectyp_tp":6,"ectyp_tp_6_00":6,"ectyp_tp_7_20":6,"ectyp_v":6,"ectyp_v_6_00":7,"ectyp_v_7_20":5
+	,"amplitude_tp":6,"amplitude_tp_6_00":6,"amplitude_tp_7_20":7,"amplitude_v":5,"amplitude_v_6_00":7,"amplitude_v_7_20":5,"moy_ectypmob_tp_1h":6,"moy_ectypmob_tp_1h_6_00":6,"moy_ectypmob_tp_1h_7_20":5
+	,"moy_ectypmob_tp_30m":6,"moy_ectypmob_tp_30m_6_00":7,"moy_ectypmob_tp_30m_7_20":6,"moy_ectypmob_tp_15m":6,"moy_ectypmob_tp_15m_6_00":7,"moy_ectypmob_tp_15m_7_20":6,"moy_ectypmob_v_1h":7,"moy_ectypmob_v_1h_6_00":7,"moy_ectypmob_v_1h_7_20":7
+	,"moy_ectypmob_v_30m":7,"moy_ectypmob_v_30m_6_00":7,"moy_ectypmob_v_30m_7_20":7,"moy_ectypmob_v_15m":7,"moy_ectypmob_v_15m_6_00":7,"moy_ectypmob_v_15m_7_20":7
+	,"delta_tpv":7,"delta_tpv_6_00":6,"delta_tpv_7_20":7},
+{"id_lieu":"144","nom":"Payerne, Avenue du Stade 25 ","km":7,"tps_moy_tp":8,"tps_moy_tp_6_00":8,"tps_moy_tp_7_20":8,"tps_moy_v":7,"tps_moy_v_6_00":7,"tps_moy_v_7_20":7
+	,"ectyp_tp":6,"ectyp_tp_6_00":6,"ectyp_tp_7_20":8,"ectyp_v":6,"ectyp_v_6_00":7,"ectyp_v_7_20":6
+	,"amplitude_tp":4,"amplitude_tp_6_00":4,"amplitude_tp_7_20":7,"amplitude_v":8,"amplitude_v_6_00":9,"amplitude_v_7_20":6,"moy_ectypmob_tp_1h":7,"moy_ectypmob_tp_1h_6_00":7,"moy_ectypmob_tp_1h_7_20":7
+	,"moy_ectypmob_tp_30m":7,"moy_ectypmob_tp_30m_6_00":7,"moy_ectypmob_tp_30m_7_20":7,"moy_ectypmob_tp_15m":7,"moy_ectypmob_tp_15m_6_00":7,"moy_ectypmob_tp_15m_7_20":7,"moy_ectypmob_v_1h":8,"moy_ectypmob_v_1h_6_00":8,"moy_ectypmob_v_1h_7_20":8
+	,"moy_ectypmob_v_30m":8,"moy_ectypmob_v_30m_6_00":9,"moy_ectypmob_v_30m_7_20":9,"moy_ectypmob_v_15m":8,"moy_ectypmob_v_15m_6_00":9,"moy_ectypmob_v_15m_7_20":9
+	,"delta_tpv":8,"delta_tpv_6_00":7,"delta_tpv_7_20":9},
+{"id_lieu":"120","nom":"Peseux, Rue du Lac 16","km":9,"tps_moy_tp":8,"tps_moy_tp_6_00":8,"tps_moy_tp_7_20":8,"tps_moy_v":8,"tps_moy_v_6_00":7,"tps_moy_v_7_20":7
+	,"ectyp_tp":7,"ectyp_tp_6_00":7,"ectyp_tp_7_20":8,"ectyp_v":5,"ectyp_v_6_00":4,"ectyp_v_7_20":5
+	,"amplitude_tp":6,"amplitude_tp_6_00":7,"amplitude_tp_7_20":8,"amplitude_v":4,"amplitude_v_6_00":2,"amplitude_v_7_20":3,"moy_ectypmob_tp_1h":8,"moy_ectypmob_tp_1h_6_00":8,"moy_ectypmob_tp_1h_7_20":8
+	,"moy_ectypmob_tp_30m":8,"moy_ectypmob_tp_30m_6_00":7,"moy_ectypmob_tp_30m_7_20":8,"moy_ectypmob_tp_15m":8,"moy_ectypmob_tp_15m_6_00":8,"moy_ectypmob_tp_15m_7_20":8,"moy_ectypmob_v_1h":7,"moy_ectypmob_v_1h_6_00":7,"moy_ectypmob_v_1h_7_20":8
+	,"moy_ectypmob_v_30m":7,"moy_ectypmob_v_30m_6_00":7,"moy_ectypmob_v_30m_7_20":8,"moy_ectypmob_v_15m":8,"moy_ectypmob_v_15m_6_00":8,"moy_ectypmob_v_15m_7_20":9
+	,"delta_tpv":7,"delta_tpv_6_00":8,"delta_tpv_7_20":9},
+{"id_lieu":"109","nom":"Collonge-Bellerive, Chemin Château-de-Bellerive 56A","km":9,"tps_moy_tp":8,"tps_moy_tp_6_00":7,"tps_moy_tp_7_20":9,"tps_moy_v":9,"tps_moy_v_6_00":9,"tps_moy_v_7_20":9
+	,"ectyp_tp":5,"ectyp_tp_6_00":4,"ectyp_tp_7_20":4,"ectyp_v":10,"ectyp_v_6_00":10,"ectyp_v_7_20":10
+	,"amplitude_tp":3,"amplitude_tp_6_00":3,"amplitude_tp_7_20":5,"amplitude_v":9,"amplitude_v_6_00":9,"amplitude_v_7_20":10,"moy_ectypmob_tp_1h":5,"moy_ectypmob_tp_1h_6_00":5,"moy_ectypmob_tp_1h_7_20":4
+	,"moy_ectypmob_tp_30m":5,"moy_ectypmob_tp_30m_6_00":4,"moy_ectypmob_tp_30m_7_20":4,"moy_ectypmob_tp_15m":4,"moy_ectypmob_tp_15m_6_00":4,"moy_ectypmob_tp_15m_7_20":4,"moy_ectypmob_v_1h":9,"moy_ectypmob_v_1h_6_00":10,"moy_ectypmob_v_1h_7_20":10
+	,"moy_ectypmob_v_30m":9,"moy_ectypmob_v_30m_6_00":10,"moy_ectypmob_v_30m_7_20":10,"moy_ectypmob_v_15m":9,"moy_ectypmob_v_15m_6_00":10,"moy_ectypmob_v_15m_7_20":10
+	,"delta_tpv":7,"delta_tpv_6_00":7,"delta_tpv_7_20":8},
+{"id_lieu":"74","nom":"Gingins, poste","km":5,"tps_moy_tp":8,"tps_moy_tp_6_00":8,"tps_moy_tp_7_20":6,"tps_moy_v":4,"tps_moy_v_6_00":4,"tps_moy_v_7_20":4
+	,"ectyp_tp":9,"ectyp_tp_6_00":9,"ectyp_tp_7_20":8,"ectyp_v":4,"ectyp_v_6_00":3,"ectyp_v_7_20":2
+	,"amplitude_tp":9,"amplitude_tp_6_00":9,"amplitude_tp_7_20":8,"amplitude_v":2,"amplitude_v_6_00":2,"amplitude_v_7_20":1,"moy_ectypmob_tp_1h":8,"moy_ectypmob_tp_1h_6_00":8,"moy_ectypmob_tp_1h_7_20":8
+	,"moy_ectypmob_tp_30m":8,"moy_ectypmob_tp_30m_6_00":8,"moy_ectypmob_tp_30m_7_20":8,"moy_ectypmob_tp_15m":8,"moy_ectypmob_tp_15m_6_00":8,"moy_ectypmob_tp_15m_7_20":8,"moy_ectypmob_v_1h":3,"moy_ectypmob_v_1h_6_00":2,"moy_ectypmob_v_1h_7_20":2
+	,"moy_ectypmob_v_30m":2,"moy_ectypmob_v_30m_6_00":2,"moy_ectypmob_v_30m_7_20":2,"moy_ectypmob_v_15m":2,"moy_ectypmob_v_15m_6_00":2,"moy_ectypmob_v_15m_7_20":2
+	,"delta_tpv":9,"delta_tpv_6_00":9,"delta_tpv_7_20":8},
+{"id_lieu":"58","nom":"Marly","km":9,"tps_moy_tp":8,"tps_moy_tp_6_00":7,"tps_moy_tp_7_20":7,"tps_moy_v":9,"tps_moy_v_6_00":9,"tps_moy_v_7_20":9
+	,"ectyp_tp":8,"ectyp_tp_6_00":7,"ectyp_tp_7_20":5,"ectyp_v":7,"ectyp_v_6_00":6,"ectyp_v_7_20":5
+	,"amplitude_tp":7,"amplitude_tp_6_00":6,"amplitude_tp_7_20":5,"amplitude_v":7,"amplitude_v_6_00":6,"amplitude_v_7_20":7,"moy_ectypmob_tp_1h":6,"moy_ectypmob_tp_1h_6_00":6,"moy_ectypmob_tp_1h_7_20":5
+	,"moy_ectypmob_tp_30m":5,"moy_ectypmob_tp_30m_6_00":5,"moy_ectypmob_tp_30m_7_20":5,"moy_ectypmob_tp_15m":5,"moy_ectypmob_tp_15m_6_00":6,"moy_ectypmob_tp_15m_7_20":6,"moy_ectypmob_v_1h":6,"moy_ectypmob_v_1h_6_00":6,"moy_ectypmob_v_1h_7_20":6
+	,"moy_ectypmob_v_30m":7,"moy_ectypmob_v_30m_6_00":7,"moy_ectypmob_v_30m_7_20":6,"moy_ectypmob_v_15m":6,"moy_ectypmob_v_15m_6_00":6,"moy_ectypmob_v_15m_7_20":7
+	,"delta_tpv":7,"delta_tpv_6_00":6,"delta_tpv_7_20":4},
+{"id_lieu":"89","nom":"Yvonand, Ch. des pêcheurs 12","km":5,"tps_moy_tp":8,"tps_moy_tp_6_00":8,"tps_moy_tp_7_20":8,"tps_moy_v":6,"tps_moy_v_6_00":6,"tps_moy_v_7_20":6
+	,"ectyp_tp":8,"ectyp_tp_6_00":8,"ectyp_tp_7_20":8,"ectyp_v":5,"ectyp_v_6_00":7,"ectyp_v_7_20":6
+	,"amplitude_tp":7,"amplitude_tp_6_00":7,"amplitude_tp_7_20":8,"amplitude_v":7,"amplitude_v_6_00":8,"amplitude_v_7_20":8,"moy_ectypmob_tp_1h":7,"moy_ectypmob_tp_1h_6_00":7,"moy_ectypmob_tp_1h_7_20":7
+	,"moy_ectypmob_tp_30m":7,"moy_ectypmob_tp_30m_6_00":7,"moy_ectypmob_tp_30m_7_20":7,"moy_ectypmob_tp_15m":7,"moy_ectypmob_tp_15m_6_00":7,"moy_ectypmob_tp_15m_7_20":7,"moy_ectypmob_v_1h":8,"moy_ectypmob_v_1h_6_00":9,"moy_ectypmob_v_1h_7_20":9
+	,"moy_ectypmob_v_30m":8,"moy_ectypmob_v_30m_6_00":9,"moy_ectypmob_v_30m_7_20":9,"moy_ectypmob_v_15m":8,"moy_ectypmob_v_15m_6_00":9,"moy_ectypmob_v_15m_7_20":9
+	,"delta_tpv":8,"delta_tpv_6_00":8,"delta_tpv_7_20":9},
+{"id_lieu":"2","nom":"Gex, FR","km":6,"tps_moy_tp":8,"tps_moy_tp_6_00":8,"tps_moy_tp_7_20":9,"tps_moy_v":7,"tps_moy_v_6_00":7,"tps_moy_v_7_20":7
+	,"ectyp_tp":4,"ectyp_tp_6_00":5,"ectyp_tp_7_20":6,"ectyp_v":6,"ectyp_v_6_00":6,"ectyp_v_7_20":3
+	,"amplitude_tp":4,"amplitude_tp_6_00":4,"amplitude_tp_7_20":6,"amplitude_v":5,"amplitude_v_6_00":5,"amplitude_v_7_20":5,"moy_ectypmob_tp_1h":6,"moy_ectypmob_tp_1h_6_00":6,"moy_ectypmob_tp_1h_7_20":6
+	,"moy_ectypmob_tp_30m":6,"moy_ectypmob_tp_30m_6_00":6,"moy_ectypmob_tp_30m_7_20":6,"moy_ectypmob_tp_15m":6,"moy_ectypmob_tp_15m_6_00":6,"moy_ectypmob_tp_15m_7_20":6,"moy_ectypmob_v_1h":4,"moy_ectypmob_v_1h_6_00":4,"moy_ectypmob_v_1h_7_20":4
+	,"moy_ectypmob_v_30m":4,"moy_ectypmob_v_30m_6_00":4,"moy_ectypmob_v_30m_7_20":4,"moy_ectypmob_v_15m":4,"moy_ectypmob_v_15m_6_00":4,"moy_ectypmob_v_15m_7_20":4
+	,"delta_tpv":8,"delta_tpv_6_00":8,"delta_tpv_7_20":9},
+{"id_lieu":"82","nom":"Cologny, mairie","km":8,"tps_moy_tp":8,"tps_moy_tp_6_00":8,"tps_moy_tp_7_20":8,"tps_moy_v":8,"tps_moy_v_6_00":8,"tps_moy_v_7_20":8
+	,"ectyp_tp":8,"ectyp_tp_6_00":8,"ectyp_tp_7_20":7,"ectyp_v":9,"ectyp_v_6_00":9,"ectyp_v_7_20":9
+	,"amplitude_tp":8,"amplitude_tp_6_00":8,"amplitude_tp_7_20":8,"amplitude_v":9,"amplitude_v_6_00":9,"amplitude_v_7_20":9,"moy_ectypmob_tp_1h":7,"moy_ectypmob_tp_1h_6_00":7,"moy_ectypmob_tp_1h_7_20":7
+	,"moy_ectypmob_tp_30m":7,"moy_ectypmob_tp_30m_6_00":7,"moy_ectypmob_tp_30m_7_20":6,"moy_ectypmob_tp_15m":7,"moy_ectypmob_tp_15m_6_00":7,"moy_ectypmob_tp_15m_7_20":6,"moy_ectypmob_v_1h":9,"moy_ectypmob_v_1h_6_00":9,"moy_ectypmob_v_1h_7_20":9
+	,"moy_ectypmob_v_30m":9,"moy_ectypmob_v_30m_6_00":9,"moy_ectypmob_v_30m_7_20":9,"moy_ectypmob_v_15m":9,"moy_ectypmob_v_15m_6_00":9,"moy_ectypmob_v_15m_7_20":9
+	,"delta_tpv":8,"delta_tpv_6_00":7,"delta_tpv_7_20":7},
+{"id_lieu":"29","nom":"Attalens, la Fin","km":5,"tps_moy_tp":8,"tps_moy_tp_6_00":8,"tps_moy_tp_7_20":6,"tps_moy_v":5,"tps_moy_v_6_00":5,"tps_moy_v_7_20":5
+	,"ectyp_tp":9,"ectyp_tp_6_00":8,"ectyp_tp_7_20":9,"ectyp_v":3,"ectyp_v_6_00":4,"ectyp_v_7_20":1
+	,"amplitude_tp":8,"amplitude_tp_6_00":8,"amplitude_tp_7_20":9,"amplitude_v":4,"amplitude_v_6_00":5,"amplitude_v_7_20":1,"moy_ectypmob_tp_1h":8,"moy_ectypmob_tp_1h_6_00":8,"moy_ectypmob_tp_1h_7_20":8
+	,"moy_ectypmob_tp_30m":8,"moy_ectypmob_tp_30m_6_00":8,"moy_ectypmob_tp_30m_7_20":8,"moy_ectypmob_tp_15m":8,"moy_ectypmob_tp_15m_6_00":8,"moy_ectypmob_tp_15m_7_20":8,"moy_ectypmob_v_1h":3,"moy_ectypmob_v_1h_6_00":3,"moy_ectypmob_v_1h_7_20":2
+	,"moy_ectypmob_v_30m":3,"moy_ectypmob_v_30m_6_00":3,"moy_ectypmob_v_30m_7_20":2,"moy_ectypmob_v_15m":3,"moy_ectypmob_v_15m_6_00":3,"moy_ectypmob_v_15m_7_20":2
+	,"delta_tpv":9,"delta_tpv_6_00":9,"delta_tpv_7_20":7},
+{"id_lieu":"80","nom":"Troinex","km":9,"tps_moy_tp":8,"tps_moy_tp_6_00":8,"tps_moy_tp_7_20":8,"tps_moy_v":9,"tps_moy_v_6_00":9,"tps_moy_v_7_20":9
+	,"ectyp_tp":8,"ectyp_tp_6_00":7,"ectyp_tp_7_20":6,"ectyp_v":8,"ectyp_v_6_00":9,"ectyp_v_7_20":9
+	,"amplitude_tp":6,"amplitude_tp_6_00":6,"amplitude_tp_7_20":7,"amplitude_v":9,"amplitude_v_6_00":9,"amplitude_v_7_20":9,"moy_ectypmob_tp_1h":6,"moy_ectypmob_tp_1h_6_00":6,"moy_ectypmob_tp_1h_7_20":6
+	,"moy_ectypmob_tp_30m":6,"moy_ectypmob_tp_30m_6_00":6,"moy_ectypmob_tp_30m_7_20":6,"moy_ectypmob_tp_15m":5,"moy_ectypmob_tp_15m_6_00":6,"moy_ectypmob_tp_15m_7_20":5,"moy_ectypmob_v_1h":9,"moy_ectypmob_v_1h_6_00":9,"moy_ectypmob_v_1h_7_20":9
+	,"moy_ectypmob_v_30m":9,"moy_ectypmob_v_30m_6_00":9,"moy_ectypmob_v_30m_7_20":9,"moy_ectypmob_v_15m":9,"moy_ectypmob_v_15m_6_00":9,"moy_ectypmob_v_15m_7_20":9
+	,"delta_tpv":8,"delta_tpv_6_00":8,"delta_tpv_7_20":8},
+{"id_lieu":"162","nom":"Gingins, 9 La Vy-De-L'etraz","km":5,"tps_moy_tp":8,"tps_moy_tp_6_00":8,"tps_moy_tp_7_20":7,"tps_moy_v":4,"tps_moy_v_6_00":4,"tps_moy_v_7_20":4
+	,"ectyp_tp":9,"ectyp_tp_6_00":9,"ectyp_tp_7_20":8,"ectyp_v":1,"ectyp_v_6_00":1,"ectyp_v_7_20":2
+	,"amplitude_tp":9,"amplitude_tp_6_00":9,"amplitude_tp_7_20":8,"amplitude_v":3,"amplitude_v_6_00":4,"amplitude_v_7_20":5,"moy_ectypmob_tp_1h":8,"moy_ectypmob_tp_1h_6_00":8,"moy_ectypmob_tp_1h_7_20":8
+	,"moy_ectypmob_tp_30m":8,"moy_ectypmob_tp_30m_6_00":8,"moy_ectypmob_tp_30m_7_20":8,"moy_ectypmob_tp_15m":8,"moy_ectypmob_tp_15m_6_00":8,"moy_ectypmob_tp_15m_7_20":8,"moy_ectypmob_v_1h":1,"moy_ectypmob_v_1h_6_00":2,"moy_ectypmob_v_1h_7_20":2
+	,"moy_ectypmob_v_30m":1,"moy_ectypmob_v_30m_6_00":1,"moy_ectypmob_v_30m_7_20":1,"moy_ectypmob_v_15m":1,"moy_ectypmob_v_15m_6_00":1,"moy_ectypmob_v_15m_7_20":1
+	,"delta_tpv":9,"delta_tpv_6_00":9,"delta_tpv_7_20":9},
+{"id_lieu":"146","nom":"Marly, Route Ancienne Papeterie","km":9,"tps_moy_tp":8,"tps_moy_tp_6_00":8,"tps_moy_tp_7_20":8,"tps_moy_v":9,"tps_moy_v_6_00":9,"tps_moy_v_7_20":9
+	,"ectyp_tp":8,"ectyp_tp_6_00":7,"ectyp_tp_7_20":5,"ectyp_v":7,"ectyp_v_6_00":7,"ectyp_v_7_20":4
+	,"amplitude_tp":7,"amplitude_tp_6_00":6,"amplitude_tp_7_20":5,"amplitude_v":6,"amplitude_v_6_00":7,"amplitude_v_7_20":5,"moy_ectypmob_tp_1h":6,"moy_ectypmob_tp_1h_6_00":6,"moy_ectypmob_tp_1h_7_20":5
+	,"moy_ectypmob_tp_30m":5,"moy_ectypmob_tp_30m_6_00":5,"moy_ectypmob_tp_30m_7_20":5,"moy_ectypmob_tp_15m":5,"moy_ectypmob_tp_15m_6_00":6,"moy_ectypmob_tp_15m_7_20":6,"moy_ectypmob_v_1h":8,"moy_ectypmob_v_1h_6_00":8,"moy_ectypmob_v_1h_7_20":8
+	,"moy_ectypmob_v_30m":8,"moy_ectypmob_v_30m_6_00":8,"moy_ectypmob_v_30m_7_20":8,"moy_ectypmob_v_15m":8,"moy_ectypmob_v_15m_6_00":8,"moy_ectypmob_v_15m_7_20":8
+	,"delta_tpv":7,"delta_tpv_6_00":7,"delta_tpv_7_20":6},
+{"id_lieu":"90","nom":"Gex, 25 Passage de l'abondance","km":6,"tps_moy_tp":8,"tps_moy_tp_6_00":8,"tps_moy_tp_7_20":9,"tps_moy_v":7,"tps_moy_v_6_00":7,"tps_moy_v_7_20":7
+	,"ectyp_tp":4,"ectyp_tp_6_00":5,"ectyp_tp_7_20":6,"ectyp_v":6,"ectyp_v_6_00":6,"ectyp_v_7_20":3
+	,"amplitude_tp":4,"amplitude_tp_6_00":4,"amplitude_tp_7_20":6,"amplitude_v":4,"amplitude_v_6_00":4,"amplitude_v_7_20":3,"moy_ectypmob_tp_1h":6,"moy_ectypmob_tp_1h_6_00":6,"moy_ectypmob_tp_1h_7_20":6
+	,"moy_ectypmob_tp_30m":6,"moy_ectypmob_tp_30m_6_00":6,"moy_ectypmob_tp_30m_7_20":6,"moy_ectypmob_tp_15m":6,"moy_ectypmob_tp_15m_6_00":6,"moy_ectypmob_tp_15m_7_20":6,"moy_ectypmob_v_1h":5,"moy_ectypmob_v_1h_6_00":4,"moy_ectypmob_v_1h_7_20":4
+	,"moy_ectypmob_v_30m":4,"moy_ectypmob_v_30m_6_00":4,"moy_ectypmob_v_30m_7_20":4,"moy_ectypmob_v_15m":4,"moy_ectypmob_v_15m_6_00":3,"moy_ectypmob_v_15m_7_20":3
+	,"delta_tpv":8,"delta_tpv_6_00":8,"delta_tpv_7_20":9},
+{"id_lieu":"61","nom":"Bulle","km":8,"tps_moy_tp":8,"tps_moy_tp_6_00":9,"tps_moy_tp_7_20":8,"tps_moy_v":7,"tps_moy_v_6_00":7,"tps_moy_v_7_20":7
+	,"ectyp_tp":8,"ectyp_tp_6_00":9,"ectyp_tp_7_20":7,"ectyp_v":3,"ectyp_v_6_00":5,"ectyp_v_7_20":4
+	,"amplitude_tp":8,"amplitude_tp_6_00":8,"amplitude_tp_7_20":6,"amplitude_v":4,"amplitude_v_6_00":6,"amplitude_v_7_20":2,"moy_ectypmob_tp_1h":9,"moy_ectypmob_tp_1h_6_00":9,"moy_ectypmob_tp_1h_7_20":8
+	,"moy_ectypmob_tp_30m":9,"moy_ectypmob_tp_30m_6_00":9,"moy_ectypmob_tp_30m_7_20":8,"moy_ectypmob_tp_15m":9,"moy_ectypmob_tp_15m_6_00":9,"moy_ectypmob_tp_15m_7_20":8,"moy_ectypmob_v_1h":3,"moy_ectypmob_v_1h_6_00":4,"moy_ectypmob_v_1h_7_20":5
+	,"moy_ectypmob_v_30m":3,"moy_ectypmob_v_30m_6_00":4,"moy_ectypmob_v_30m_7_20":5,"moy_ectypmob_v_15m":3,"moy_ectypmob_v_15m_6_00":4,"moy_ectypmob_v_15m_7_20":5
+	,"delta_tpv":9,"delta_tpv_6_00":9,"delta_tpv_7_20":9},
+{"id_lieu":"170","nom":"Cologny, Chemin De Ruth 44","km":8,"tps_moy_tp":8,"tps_moy_tp_6_00":8,"tps_moy_tp_7_20":8,"tps_moy_v":9,"tps_moy_v_6_00":9,"tps_moy_v_7_20":9
+	,"ectyp_tp":8,"ectyp_tp_6_00":8,"ectyp_tp_7_20":7,"ectyp_v":10,"ectyp_v_6_00":9,"ectyp_v_7_20":10
+	,"amplitude_tp":8,"amplitude_tp_6_00":8,"amplitude_tp_7_20":8,"amplitude_v":9,"amplitude_v_6_00":9,"amplitude_v_7_20":10,"moy_ectypmob_tp_1h":7,"moy_ectypmob_tp_1h_6_00":7,"moy_ectypmob_tp_1h_7_20":7
+	,"moy_ectypmob_tp_30m":7,"moy_ectypmob_tp_30m_6_00":7,"moy_ectypmob_tp_30m_7_20":6,"moy_ectypmob_tp_15m":7,"moy_ectypmob_tp_15m_6_00":7,"moy_ectypmob_tp_15m_7_20":6,"moy_ectypmob_v_1h":9,"moy_ectypmob_v_1h_6_00":10,"moy_ectypmob_v_1h_7_20":10
+	,"moy_ectypmob_v_30m":9,"moy_ectypmob_v_30m_6_00":9,"moy_ectypmob_v_30m_7_20":10,"moy_ectypmob_v_15m":9,"moy_ectypmob_v_15m_6_00":9,"moy_ectypmob_v_15m_7_20":10
+	,"delta_tpv":8,"delta_tpv_6_00":8,"delta_tpv_7_20":8},
+{"id_lieu":"117","nom":"Attalens, Rue de la Jaqua 65","km":5,"tps_moy_tp":8,"tps_moy_tp_6_00":8,"tps_moy_tp_7_20":7,"tps_moy_v":6,"tps_moy_v_6_00":5,"tps_moy_v_7_20":5
+	,"ectyp_tp":9,"ectyp_tp_6_00":8,"ectyp_tp_7_20":9,"ectyp_v":2,"ectyp_v_6_00":4,"ectyp_v_7_20":4
+	,"amplitude_tp":8,"amplitude_tp_6_00":8,"amplitude_tp_7_20":9,"amplitude_v":6,"amplitude_v_6_00":4,"amplitude_v_7_20":4,"moy_ectypmob_tp_1h":8,"moy_ectypmob_tp_1h_6_00":8,"moy_ectypmob_tp_1h_7_20":8
+	,"moy_ectypmob_tp_30m":8,"moy_ectypmob_tp_30m_6_00":8,"moy_ectypmob_tp_30m_7_20":8,"moy_ectypmob_tp_15m":8,"moy_ectypmob_tp_15m_6_00":8,"moy_ectypmob_tp_15m_7_20":8,"moy_ectypmob_v_1h":5,"moy_ectypmob_v_1h_6_00":4,"moy_ectypmob_v_1h_7_20":5
+	,"moy_ectypmob_v_30m":5,"moy_ectypmob_v_30m_6_00":4,"moy_ectypmob_v_30m_7_20":4,"moy_ectypmob_v_15m":5,"moy_ectypmob_v_15m_6_00":4,"moy_ectypmob_v_15m_7_20":4
+	,"delta_tpv":9,"delta_tpv_6_00":9,"delta_tpv_7_20":8},
+{"id_lieu":"168","nom":"Bardonnex, Chemin d'Humilly 64","km":9,"tps_moy_tp":9,"tps_moy_tp_6_00":8,"tps_moy_tp_7_20":9,"tps_moy_v":9,"tps_moy_v_6_00":9,"tps_moy_v_7_20":9
+	,"ectyp_tp":8,"ectyp_tp_6_00":7,"ectyp_tp_7_20":6,"ectyp_v":6,"ectyp_v_6_00":8,"ectyp_v_7_20":6
+	,"amplitude_tp":6,"amplitude_tp_6_00":6,"amplitude_tp_7_20":7,"amplitude_v":6,"amplitude_v_6_00":7,"amplitude_v_7_20":6,"moy_ectypmob_tp_1h":6,"moy_ectypmob_tp_1h_6_00":6,"moy_ectypmob_tp_1h_7_20":6
+	,"moy_ectypmob_tp_30m":6,"moy_ectypmob_tp_30m_6_00":6,"moy_ectypmob_tp_30m_7_20":6,"moy_ectypmob_tp_15m":5,"moy_ectypmob_tp_15m_6_00":6,"moy_ectypmob_tp_15m_7_20":5,"moy_ectypmob_v_1h":7,"moy_ectypmob_v_1h_6_00":7,"moy_ectypmob_v_1h_7_20":7
+	,"moy_ectypmob_v_30m":7,"moy_ectypmob_v_30m_6_00":6,"moy_ectypmob_v_30m_7_20":7,"moy_ectypmob_v_15m":7,"moy_ectypmob_v_15m_6_00":6,"moy_ectypmob_v_15m_7_20":7
+	,"delta_tpv":8,"delta_tpv_6_00":8,"delta_tpv_7_20":9},
+{"id_lieu":"69","nom":"Evian-les-Bains, FR","km":9,"tps_moy_tp":9,"tps_moy_tp_6_00":9,"tps_moy_tp_7_20":9,"tps_moy_v":10,"tps_moy_v_6_00":10,"tps_moy_v_7_20":10
+	,"ectyp_tp":6,"ectyp_tp_6_00":8,"ectyp_tp_7_20":9,"ectyp_v":9,"ectyp_v_6_00":9,"ectyp_v_7_20":7
+	,"amplitude_tp":7,"amplitude_tp_6_00":7,"amplitude_tp_7_20":9,"amplitude_v":8,"amplitude_v_6_00":9,"amplitude_v_7_20":6,"moy_ectypmob_tp_1h":9,"moy_ectypmob_tp_1h_6_00":9,"moy_ectypmob_tp_1h_7_20":9
+	,"moy_ectypmob_tp_30m":10,"moy_ectypmob_tp_30m_6_00":9,"moy_ectypmob_tp_30m_7_20":9,"moy_ectypmob_tp_15m":9,"moy_ectypmob_tp_15m_6_00":9,"moy_ectypmob_tp_15m_7_20":9,"moy_ectypmob_v_1h":9,"moy_ectypmob_v_1h_6_00":9,"moy_ectypmob_v_1h_7_20":9
+	,"moy_ectypmob_v_30m":8,"moy_ectypmob_v_30m_6_00":9,"moy_ectypmob_v_30m_7_20":9,"moy_ectypmob_v_15m":8,"moy_ectypmob_v_15m_6_00":9,"moy_ectypmob_v_15m_7_20":8
+	,"delta_tpv":7,"delta_tpv_6_00":8,"delta_tpv_7_20":8},
+{"id_lieu":"149","nom":"Bulle, Rue de l'Ondine 20","km":8,"tps_moy_tp":9,"tps_moy_tp_6_00":9,"tps_moy_tp_7_20":9,"tps_moy_v":7,"tps_moy_v_6_00":7,"tps_moy_v_7_20":7
+	,"ectyp_tp":8,"ectyp_tp_6_00":9,"ectyp_tp_7_20":7,"ectyp_v":6,"ectyp_v_6_00":3,"ectyp_v_7_20":3
+	,"amplitude_tp":8,"amplitude_tp_6_00":8,"amplitude_tp_7_20":6,"amplitude_v":3,"amplitude_v_6_00":2,"amplitude_v_7_20":4,"moy_ectypmob_tp_1h":9,"moy_ectypmob_tp_1h_6_00":9,"moy_ectypmob_tp_1h_7_20":8
+	,"moy_ectypmob_tp_30m":9,"moy_ectypmob_tp_30m_6_00":9,"moy_ectypmob_tp_30m_7_20":8,"moy_ectypmob_tp_15m":9,"moy_ectypmob_tp_15m_6_00":9,"moy_ectypmob_tp_15m_7_20":8,"moy_ectypmob_v_1h":4,"moy_ectypmob_v_1h_6_00":4,"moy_ectypmob_v_1h_7_20":4
+	,"moy_ectypmob_v_30m":4,"moy_ectypmob_v_30m_6_00":5,"moy_ectypmob_v_30m_7_20":5,"moy_ectypmob_v_15m":4,"moy_ectypmob_v_15m_6_00":5,"moy_ectypmob_v_15m_7_20":5
+	,"delta_tpv":9,"delta_tpv_6_00":9,"delta_tpv_7_20":9},
+{"id_lieu":"20","nom":"Annemasse, FR","km":9,"tps_moy_tp":9,"tps_moy_tp_6_00":9,"tps_moy_tp_7_20":9,"tps_moy_v":9,"tps_moy_v_6_00":9,"tps_moy_v_7_20":9
+	,"ectyp_tp":8,"ectyp_tp_6_00":8,"ectyp_tp_7_20":4,"ectyp_v":10,"ectyp_v_6_00":10,"ectyp_v_7_20":10
+	,"amplitude_tp":8,"amplitude_tp_6_00":8,"amplitude_tp_7_20":5,"amplitude_v":9,"amplitude_v_6_00":10,"amplitude_v_7_20":9,"moy_ectypmob_tp_1h":6,"moy_ectypmob_tp_1h_6_00":6,"moy_ectypmob_tp_1h_7_20":3
+	,"moy_ectypmob_tp_30m":4,"moy_ectypmob_tp_30m_6_00":4,"moy_ectypmob_tp_30m_7_20":3,"moy_ectypmob_tp_15m":4,"moy_ectypmob_tp_15m_6_00":4,"moy_ectypmob_tp_15m_7_20":3,"moy_ectypmob_v_1h":10,"moy_ectypmob_v_1h_6_00":10,"moy_ectypmob_v_1h_7_20":10
+	,"moy_ectypmob_v_30m":10,"moy_ectypmob_v_30m_6_00":10,"moy_ectypmob_v_30m_7_20":10,"moy_ectypmob_v_15m":10,"moy_ectypmob_v_15m_6_00":10,"moy_ectypmob_v_15m_7_20":10
+	,"delta_tpv":8,"delta_tpv_6_00":8,"delta_tpv_7_20":7},
+{"id_lieu":"157","nom":"Évian-les-Bains, 86 Rue Nationale","km":9,"tps_moy_tp":9,"tps_moy_tp_6_00":9,"tps_moy_tp_7_20":10,"tps_moy_v":10,"tps_moy_v_6_00":10,"tps_moy_v_7_20":10
+	,"ectyp_tp":6,"ectyp_tp_6_00":8,"ectyp_tp_7_20":9,"ectyp_v":9,"ectyp_v_6_00":9,"ectyp_v_7_20":6
+	,"amplitude_tp":7,"amplitude_tp_6_00":7,"amplitude_tp_7_20":9,"amplitude_v":8,"amplitude_v_6_00":9,"amplitude_v_7_20":6,"moy_ectypmob_tp_1h":9,"moy_ectypmob_tp_1h_6_00":9,"moy_ectypmob_tp_1h_7_20":9
+	,"moy_ectypmob_tp_30m":10,"moy_ectypmob_tp_30m_6_00":9,"moy_ectypmob_tp_30m_7_20":9,"moy_ectypmob_tp_15m":9,"moy_ectypmob_tp_15m_6_00":9,"moy_ectypmob_tp_15m_7_20":9,"moy_ectypmob_v_1h":8,"moy_ectypmob_v_1h_6_00":8,"moy_ectypmob_v_1h_7_20":6
+	,"moy_ectypmob_v_30m":8,"moy_ectypmob_v_30m_6_00":8,"moy_ectypmob_v_30m_7_20":7,"moy_ectypmob_v_15m":8,"moy_ectypmob_v_15m_6_00":8,"moy_ectypmob_v_15m_7_20":7
+	,"delta_tpv":8,"delta_tpv_6_00":8,"delta_tpv_7_20":9},
+{"id_lieu":"108","nom":"Annemasse, 8 Rue Paul Bert","km":9,"tps_moy_tp":9,"tps_moy_tp_6_00":9,"tps_moy_tp_7_20":9,"tps_moy_v":9,"tps_moy_v_6_00":9,"tps_moy_v_7_20":9
+	,"ectyp_tp":8,"ectyp_tp_6_00":8,"ectyp_tp_7_20":4,"ectyp_v":10,"ectyp_v_6_00":10,"ectyp_v_7_20":10
+	,"amplitude_tp":8,"amplitude_tp_6_00":8,"amplitude_tp_7_20":5,"amplitude_v":10,"amplitude_v_6_00":10,"amplitude_v_7_20":10,"moy_ectypmob_tp_1h":6,"moy_ectypmob_tp_1h_6_00":6,"moy_ectypmob_tp_1h_7_20":3
+	,"moy_ectypmob_tp_30m":4,"moy_ectypmob_tp_30m_6_00":4,"moy_ectypmob_tp_30m_7_20":3,"moy_ectypmob_tp_15m":4,"moy_ectypmob_tp_15m_6_00":4,"moy_ectypmob_tp_15m_7_20":3,"moy_ectypmob_v_1h":10,"moy_ectypmob_v_1h_6_00":10,"moy_ectypmob_v_1h_7_20":10
+	,"moy_ectypmob_v_30m":10,"moy_ectypmob_v_30m_6_00":10,"moy_ectypmob_v_30m_7_20":10,"moy_ectypmob_v_15m":10,"moy_ectypmob_v_15m_6_00":10,"moy_ectypmob_v_15m_7_20":10
+	,"delta_tpv":9,"delta_tpv_6_00":9,"delta_tpv_7_20":8},
+{"id_lieu":"70","nom":"Thonon-les-Bains, FR","km":10,"tps_moy_tp":9,"tps_moy_tp_6_00":9,"tps_moy_tp_7_20":9,"tps_moy_v":10,"tps_moy_v_6_00":10,"tps_moy_v_7_20":10
+	,"ectyp_tp":9,"ectyp_tp_6_00":9,"ectyp_tp_7_20":9,"ectyp_v":10,"ectyp_v_6_00":10,"ectyp_v_7_20":10
+	,"amplitude_tp":9,"amplitude_tp_6_00":9,"amplitude_tp_7_20":9,"amplitude_v":9,"amplitude_v_6_00":10,"amplitude_v_7_20":10,"moy_ectypmob_tp_1h":10,"moy_ectypmob_tp_1h_6_00":10,"moy_ectypmob_tp_1h_7_20":9
+	,"moy_ectypmob_tp_30m":10,"moy_ectypmob_tp_30m_6_00":10,"moy_ectypmob_tp_30m_7_20":9,"moy_ectypmob_tp_15m":10,"moy_ectypmob_tp_15m_6_00":10,"moy_ectypmob_tp_15m_7_20":9,"moy_ectypmob_v_1h":10,"moy_ectypmob_v_1h_6_00":10,"moy_ectypmob_v_1h_7_20":10
+	,"moy_ectypmob_v_30m":10,"moy_ectypmob_v_30m_6_00":10,"moy_ectypmob_v_30m_7_20":10,"moy_ectypmob_v_15m":9,"moy_ectypmob_v_15m_6_00":10,"moy_ectypmob_v_15m_7_20":10
+	,"delta_tpv":7,"delta_tpv_6_00":8,"delta_tpv_7_20":3},
+{"id_lieu":"28","nom":"Montreux","km":5,"tps_moy_tp":9,"tps_moy_tp_6_00":9,"tps_moy_tp_7_20":6,"tps_moy_v":5,"tps_moy_v_6_00":5,"tps_moy_v_7_20":5
+	,"ectyp_tp":10,"ectyp_tp_6_00":10,"ectyp_tp_7_20":10,"ectyp_v":3,"ectyp_v_6_00":5,"ectyp_v_7_20":4
+	,"amplitude_tp":10,"amplitude_tp_6_00":10,"amplitude_tp_7_20":10,"amplitude_v":4,"amplitude_v_6_00":5,"amplitude_v_7_20":4,"moy_ectypmob_tp_1h":8,"moy_ectypmob_tp_1h_6_00":8,"moy_ectypmob_tp_1h_7_20":9
+	,"moy_ectypmob_tp_30m":7,"moy_ectypmob_tp_30m_6_00":7,"moy_ectypmob_tp_30m_7_20":9,"moy_ectypmob_tp_15m":7,"moy_ectypmob_tp_15m_6_00":7,"moy_ectypmob_tp_15m_7_20":9,"moy_ectypmob_v_1h":5,"moy_ectypmob_v_1h_6_00":6,"moy_ectypmob_v_1h_7_20":7
+	,"moy_ectypmob_v_30m":6,"moy_ectypmob_v_30m_6_00":7,"moy_ectypmob_v_30m_7_20":7,"moy_ectypmob_v_15m":6,"moy_ectypmob_v_15m_6_00":7,"moy_ectypmob_v_15m_7_20":8
+	,"delta_tpv":9,"delta_tpv_6_00":9,"delta_tpv_7_20":7},
+{"id_lieu":"24","nom":"Bex, place du marché","km":8,"tps_moy_tp":9,"tps_moy_tp_6_00":9,"tps_moy_tp_7_20":8,"tps_moy_v":7,"tps_moy_v_6_00":7,"tps_moy_v_7_20":7
+	,"ectyp_tp":9,"ectyp_tp_6_00":9,"ectyp_tp_7_20":8,"ectyp_v":6,"ectyp_v_6_00":5,"ectyp_v_7_20":7
+	,"amplitude_tp":9,"amplitude_tp_6_00":9,"amplitude_tp_7_20":8,"amplitude_v":9,"amplitude_v_6_00":3,"amplitude_v_7_20":4,"moy_ectypmob_tp_1h":9,"moy_ectypmob_tp_1h_6_00":9,"moy_ectypmob_tp_1h_7_20":9
+	,"moy_ectypmob_tp_30m":9,"moy_ectypmob_tp_30m_6_00":9,"moy_ectypmob_tp_30m_7_20":8,"moy_ectypmob_tp_15m":8,"moy_ectypmob_tp_15m_6_00":9,"moy_ectypmob_tp_15m_7_20":8,"moy_ectypmob_v_1h":8,"moy_ectypmob_v_1h_6_00":3,"moy_ectypmob_v_1h_7_20":3
+	,"moy_ectypmob_v_30m":9,"moy_ectypmob_v_30m_6_00":3,"moy_ectypmob_v_30m_7_20":3,"moy_ectypmob_v_15m":9,"moy_ectypmob_v_15m_6_00":3,"moy_ectypmob_v_15m_7_20":3
+	,"delta_tpv":9,"delta_tpv_6_00":9,"delta_tpv_7_20":8},
+{"id_lieu":"38","nom":"Le Rocheray","km":7,"tps_moy_tp":9,"tps_moy_tp_6_00":9,"tps_moy_tp_7_20":8,"tps_moy_v":9,"tps_moy_v_6_00":9,"tps_moy_v_7_20":9
+	,"ectyp_tp":9,"ectyp_tp_6_00":9,"ectyp_tp_7_20":9,"ectyp_v":8,"ectyp_v_6_00":8,"ectyp_v_7_20":9
+	,"amplitude_tp":9,"amplitude_tp_6_00":9,"amplitude_tp_7_20":9,"amplitude_v":8,"amplitude_v_6_00":8,"amplitude_v_7_20":8,"moy_ectypmob_tp_1h":9,"moy_ectypmob_tp_1h_6_00":9,"moy_ectypmob_tp_1h_7_20":9
+	,"moy_ectypmob_tp_30m":9,"moy_ectypmob_tp_30m_6_00":10,"moy_ectypmob_tp_30m_7_20":9,"moy_ectypmob_tp_15m":10,"moy_ectypmob_tp_15m_6_00":10,"moy_ectypmob_tp_15m_7_20":9,"moy_ectypmob_v_1h":7,"moy_ectypmob_v_1h_6_00":7,"moy_ectypmob_v_1h_7_20":7
+	,"moy_ectypmob_v_30m":7,"moy_ectypmob_v_30m_6_00":7,"moy_ectypmob_v_30m_7_20":7,"moy_ectypmob_v_15m":7,"moy_ectypmob_v_15m_6_00":7,"moy_ectypmob_v_15m_7_20":7
+	,"delta_tpv":9,"delta_tpv_6_00":9,"delta_tpv_7_20":7},
+{"id_lieu":"158","nom":"Thonon-les-Bains, 5 Boulevard de la Corniche ","km":10,"tps_moy_tp":9,"tps_moy_tp_6_00":9,"tps_moy_tp_7_20":9,"tps_moy_v":10,"tps_moy_v_6_00":10,"tps_moy_v_7_20":10
+	,"ectyp_tp":9,"ectyp_tp_6_00":9,"ectyp_tp_7_20":9,"ectyp_v":10,"ectyp_v_6_00":10,"ectyp_v_7_20":10
+	,"amplitude_tp":9,"amplitude_tp_6_00":9,"amplitude_tp_7_20":9,"amplitude_v":10,"amplitude_v_6_00":10,"amplitude_v_7_20":10,"moy_ectypmob_tp_1h":10,"moy_ectypmob_tp_1h_6_00":10,"moy_ectypmob_tp_1h_7_20":9
+	,"moy_ectypmob_tp_30m":10,"moy_ectypmob_tp_30m_6_00":10,"moy_ectypmob_tp_30m_7_20":9,"moy_ectypmob_tp_15m":10,"moy_ectypmob_tp_15m_6_00":10,"moy_ectypmob_tp_15m_7_20":9,"moy_ectypmob_v_1h":10,"moy_ectypmob_v_1h_6_00":10,"moy_ectypmob_v_1h_7_20":10
+	,"moy_ectypmob_v_30m":10,"moy_ectypmob_v_30m_6_00":10,"moy_ectypmob_v_30m_7_20":10,"moy_ectypmob_v_15m":10,"moy_ectypmob_v_15m_6_00":10,"moy_ectypmob_v_15m_7_20":10
+	,"delta_tpv":8,"delta_tpv_6_00":8,"delta_tpv_7_20":5},
+{"id_lieu":"116","nom":"Montreux, Quai de Vernex","km":5,"tps_moy_tp":9,"tps_moy_tp_6_00":9,"tps_moy_tp_7_20":7,"tps_moy_v":5,"tps_moy_v_6_00":5,"tps_moy_v_7_20":5
+	,"ectyp_tp":10,"ectyp_tp_6_00":10,"ectyp_tp_7_20":10,"ectyp_v":3,"ectyp_v_6_00":4,"ectyp_v_7_20":3
+	,"amplitude_tp":10,"amplitude_tp_6_00":10,"amplitude_tp_7_20":10,"amplitude_v":8,"amplitude_v_6_00":4,"amplitude_v_7_20":3,"moy_ectypmob_tp_1h":8,"moy_ectypmob_tp_1h_6_00":8,"moy_ectypmob_tp_1h_7_20":9
+	,"moy_ectypmob_tp_30m":7,"moy_ectypmob_tp_30m_6_00":7,"moy_ectypmob_tp_30m_7_20":9,"moy_ectypmob_tp_15m":7,"moy_ectypmob_tp_15m_6_00":7,"moy_ectypmob_tp_15m_7_20":9,"moy_ectypmob_v_1h":6,"moy_ectypmob_v_1h_6_00":4,"moy_ectypmob_v_1h_7_20":4
+	,"moy_ectypmob_v_30m":7,"moy_ectypmob_v_30m_6_00":4,"moy_ectypmob_v_30m_7_20":4,"moy_ectypmob_v_15m":8,"moy_ectypmob_v_15m_6_00":3,"moy_ectypmob_v_15m_7_20":4
+	,"delta_tpv":9,"delta_tpv_6_00":9,"delta_tpv_7_20":8},
+{"id_lieu":"73","nom":"Divonne-les-Bains, FR","km":6,"tps_moy_tp":9,"tps_moy_tp_6_00":9,"tps_moy_tp_7_20":9,"tps_moy_v":5,"tps_moy_v_6_00":5,"tps_moy_v_7_20":5
+	,"ectyp_tp":9,"ectyp_tp_6_00":9,"ectyp_tp_7_20":9,"ectyp_v":3,"ectyp_v_6_00":3,"ectyp_v_7_20":4
+	,"amplitude_tp":9,"amplitude_tp_6_00":9,"amplitude_tp_7_20":9,"amplitude_v":2,"amplitude_v_6_00":2,"amplitude_v_7_20":3,"moy_ectypmob_tp_1h":9,"moy_ectypmob_tp_1h_6_00":9,"moy_ectypmob_tp_1h_7_20":10
+	,"moy_ectypmob_tp_30m":9,"moy_ectypmob_tp_30m_6_00":9,"moy_ectypmob_tp_30m_7_20":9,"moy_ectypmob_tp_15m":9,"moy_ectypmob_tp_15m_6_00":9,"moy_ectypmob_tp_15m_7_20":9,"moy_ectypmob_v_1h":2,"moy_ectypmob_v_1h_6_00":3,"moy_ectypmob_v_1h_7_20":3
+	,"moy_ectypmob_v_30m":2,"moy_ectypmob_v_30m_6_00":3,"moy_ectypmob_v_30m_7_20":3,"moy_ectypmob_v_15m":3,"moy_ectypmob_v_15m_6_00":3,"moy_ectypmob_v_15m_7_20":3
+	,"delta_tpv":9,"delta_tpv_6_00":9,"delta_tpv_7_20":9},
+{"id_lieu":"112","nom":"Bex, Chemin des Places 4","km":8,"tps_moy_tp":9,"tps_moy_tp_6_00":9,"tps_moy_tp_7_20":9,"tps_moy_v":8,"tps_moy_v_6_00":8,"tps_moy_v_7_20":8
+	,"ectyp_tp":9,"ectyp_tp_6_00":9,"ectyp_tp_7_20":8,"ectyp_v":4,"ectyp_v_6_00":3,"ectyp_v_7_20":2
+	,"amplitude_tp":9,"amplitude_tp_6_00":9,"amplitude_tp_7_20":8,"amplitude_v":2,"amplitude_v_6_00":3,"amplitude_v_7_20":2,"moy_ectypmob_tp_1h":9,"moy_ectypmob_tp_1h_6_00":9,"moy_ectypmob_tp_1h_7_20":9
+	,"moy_ectypmob_tp_30m":9,"moy_ectypmob_tp_30m_6_00":9,"moy_ectypmob_tp_30m_7_20":8,"moy_ectypmob_tp_15m":8,"moy_ectypmob_tp_15m_6_00":9,"moy_ectypmob_tp_15m_7_20":8,"moy_ectypmob_v_1h":3,"moy_ectypmob_v_1h_6_00":2,"moy_ectypmob_v_1h_7_20":2
+	,"moy_ectypmob_v_30m":3,"moy_ectypmob_v_30m_6_00":2,"moy_ectypmob_v_30m_7_20":2,"moy_ectypmob_v_15m":2,"moy_ectypmob_v_15m_6_00":2,"moy_ectypmob_v_15m_7_20":2
+	,"delta_tpv":9,"delta_tpv_6_00":9,"delta_tpv_7_20":9},
+{"id_lieu":"62","nom":"Gruyères","km":8,"tps_moy_tp":9,"tps_moy_tp_6_00":9,"tps_moy_tp_7_20":9,"tps_moy_v":8,"tps_moy_v_6_00":8,"tps_moy_v_7_20":8
+	,"ectyp_tp":9,"ectyp_tp_6_00":9,"ectyp_tp_7_20":9,"ectyp_v":3,"ectyp_v_6_00":3,"ectyp_v_7_20":3
+	,"amplitude_tp":9,"amplitude_tp_6_00":9,"amplitude_tp_7_20":9,"amplitude_v":2,"amplitude_v_6_00":2,"amplitude_v_7_20":2,"moy_ectypmob_tp_1h":8,"moy_ectypmob_tp_1h_6_00":8,"moy_ectypmob_tp_1h_7_20":8
+	,"moy_ectypmob_tp_30m":8,"moy_ectypmob_tp_30m_6_00":8,"moy_ectypmob_tp_30m_7_20":9,"moy_ectypmob_tp_15m":8,"moy_ectypmob_tp_15m_6_00":8,"moy_ectypmob_tp_15m_7_20":9,"moy_ectypmob_v_1h":3,"moy_ectypmob_v_1h_6_00":3,"moy_ectypmob_v_1h_7_20":4
+	,"moy_ectypmob_v_30m":3,"moy_ectypmob_v_30m_6_00":5,"moy_ectypmob_v_30m_7_20":5,"moy_ectypmob_v_15m":3,"moy_ectypmob_v_15m_6_00":5,"moy_ectypmob_v_15m_7_20":5
+	,"delta_tpv":9,"delta_tpv_6_00":9,"delta_tpv_7_20":9},
+{"id_lieu":"126","nom":"Le Chenit, Rue de l'Arcadie 32","km":7,"tps_moy_tp":9,"tps_moy_tp_6_00":9,"tps_moy_tp_7_20":9,"tps_moy_v":9,"tps_moy_v_6_00":9,"tps_moy_v_7_20":9
+	,"ectyp_tp":9,"ectyp_tp_6_00":9,"ectyp_tp_7_20":9,"ectyp_v":9,"ectyp_v_6_00":8,"ectyp_v_7_20":9
+	,"amplitude_tp":9,"amplitude_tp_6_00":9,"amplitude_tp_7_20":9,"amplitude_v":8,"amplitude_v_6_00":7,"amplitude_v_7_20":9,"moy_ectypmob_tp_1h":9,"moy_ectypmob_tp_1h_6_00":9,"moy_ectypmob_tp_1h_7_20":9
+	,"moy_ectypmob_tp_30m":9,"moy_ectypmob_tp_30m_6_00":10,"moy_ectypmob_tp_30m_7_20":9,"moy_ectypmob_tp_15m":10,"moy_ectypmob_tp_15m_6_00":10,"moy_ectypmob_tp_15m_7_20":9,"moy_ectypmob_v_1h":9,"moy_ectypmob_v_1h_6_00":9,"moy_ectypmob_v_1h_7_20":9
+	,"moy_ectypmob_v_30m":9,"moy_ectypmob_v_30m_6_00":9,"moy_ectypmob_v_30m_7_20":9,"moy_ectypmob_v_15m":8,"moy_ectypmob_v_15m_6_00":9,"moy_ectypmob_v_15m_7_20":9
+	,"delta_tpv":9,"delta_tpv_6_00":9,"delta_tpv_7_20":8},
+{"id_lieu":"161","nom":"Divonne-Les-Bains, Rue De La Fontaine 315","km":6,"tps_moy_tp":9,"tps_moy_tp_6_00":9,"tps_moy_tp_7_20":9,"tps_moy_v":5,"tps_moy_v_6_00":6,"tps_moy_v_7_20":6
+	,"ectyp_tp":9,"ectyp_tp_6_00":9,"ectyp_tp_7_20":9,"ectyp_v":4,"ectyp_v_6_00":3,"ectyp_v_7_20":2
+	,"amplitude_tp":9,"amplitude_tp_6_00":9,"amplitude_tp_7_20":9,"amplitude_v":2,"amplitude_v_6_00":2,"amplitude_v_7_20":1,"moy_ectypmob_tp_1h":9,"moy_ectypmob_tp_1h_6_00":9,"moy_ectypmob_tp_1h_7_20":10
+	,"moy_ectypmob_tp_30m":9,"moy_ectypmob_tp_30m_6_00":9,"moy_ectypmob_tp_30m_7_20":9,"moy_ectypmob_tp_15m":9,"moy_ectypmob_tp_15m_6_00":9,"moy_ectypmob_tp_15m_7_20":9,"moy_ectypmob_v_1h":4,"moy_ectypmob_v_1h_6_00":3,"moy_ectypmob_v_1h_7_20":4
+	,"moy_ectypmob_v_30m":3,"moy_ectypmob_v_30m_6_00":3,"moy_ectypmob_v_30m_7_20":4,"moy_ectypmob_v_15m":4,"moy_ectypmob_v_15m_6_00":4,"moy_ectypmob_v_15m_7_20":4
+	,"delta_tpv":10,"delta_tpv_6_00":9,"delta_tpv_7_20":10},
+{"id_lieu":"150","nom":"Gruyères, Route de Saussivue 47","km":9,"tps_moy_tp":9,"tps_moy_tp_6_00":9,"tps_moy_tp_7_20":9,"tps_moy_v":8,"tps_moy_v_6_00":8,"tps_moy_v_7_20":8
+	,"ectyp_tp":9,"ectyp_tp_6_00":9,"ectyp_tp_7_20":9,"ectyp_v":4,"ectyp_v_6_00":5,"ectyp_v_7_20":3
+	,"amplitude_tp":9,"amplitude_tp_6_00":9,"amplitude_tp_7_20":9,"amplitude_v":5,"amplitude_v_6_00":6,"amplitude_v_7_20":4,"moy_ectypmob_tp_1h":8,"moy_ectypmob_tp_1h_6_00":8,"moy_ectypmob_tp_1h_7_20":8
+	,"moy_ectypmob_tp_30m":8,"moy_ectypmob_tp_30m_6_00":8,"moy_ectypmob_tp_30m_7_20":9,"moy_ectypmob_tp_15m":8,"moy_ectypmob_tp_15m_6_00":8,"moy_ectypmob_tp_15m_7_20":9,"moy_ectypmob_v_1h":4,"moy_ectypmob_v_1h_6_00":4,"moy_ectypmob_v_1h_7_20":3
+	,"moy_ectypmob_v_30m":4,"moy_ectypmob_v_30m_6_00":5,"moy_ectypmob_v_30m_7_20":4,"moy_ectypmob_v_15m":4,"moy_ectypmob_v_15m_6_00":6,"moy_ectypmob_v_15m_7_20":5
+	,"delta_tpv":9,"delta_tpv_6_00":9,"delta_tpv_7_20":9},
+{"id_lieu":"55","nom":"Boussens","km":2,"tps_moy_tp":10,"tps_moy_tp_6_00":10,"tps_moy_tp_7_20":9,"tps_moy_v":2,"tps_moy_v_6_00":2,"tps_moy_v_7_20":2
+	,"ectyp_tp":10,"ectyp_tp_6_00":10,"ectyp_tp_7_20":10,"ectyp_v":3,"ectyp_v_6_00":5,"ectyp_v_7_20":5
+	,"amplitude_tp":10,"amplitude_tp_6_00":10,"amplitude_tp_7_20":10,"amplitude_v":5,"amplitude_v_6_00":6,"amplitude_v_7_20":5,"moy_ectypmob_tp_1h":10,"moy_ectypmob_tp_1h_6_00":10,"moy_ectypmob_tp_1h_7_20":10
+	,"moy_ectypmob_tp_30m":10,"moy_ectypmob_tp_30m_6_00":10,"moy_ectypmob_tp_30m_7_20":10,"moy_ectypmob_tp_15m":9,"moy_ectypmob_tp_15m_6_00":10,"moy_ectypmob_tp_15m_7_20":10,"moy_ectypmob_v_1h":6,"moy_ectypmob_v_1h_6_00":7,"moy_ectypmob_v_1h_7_20":7
+	,"moy_ectypmob_v_30m":5,"moy_ectypmob_v_30m_6_00":6,"moy_ectypmob_v_30m_7_20":7,"moy_ectypmob_v_15m":5,"moy_ectypmob_v_15m_6_00":6,"moy_ectypmob_v_15m_7_20":6
+	,"delta_tpv":10,"delta_tpv_6_00":10,"delta_tpv_7_20":10},
+{"id_lieu":"68","nom":"St-Gingolph, CH","km":7,"tps_moy_tp":10,"tps_moy_tp_6_00":10,"tps_moy_tp_7_20":10,"tps_moy_v":8,"tps_moy_v_6_00":8,"tps_moy_v_7_20":8
+	,"ectyp_tp":9,"ectyp_tp_6_00":9,"ectyp_tp_7_20":9,"ectyp_v":8,"ectyp_v_6_00":8,"ectyp_v_7_20":6
+	,"amplitude_tp":9,"amplitude_tp_6_00":9,"amplitude_tp_7_20":9,"amplitude_v":6,"amplitude_v_6_00":7,"amplitude_v_7_20":6,"moy_ectypmob_tp_1h":9,"moy_ectypmob_tp_1h_6_00":9,"moy_ectypmob_tp_1h_7_20":9
+	,"moy_ectypmob_tp_30m":9,"moy_ectypmob_tp_30m_6_00":9,"moy_ectypmob_tp_30m_7_20":10,"moy_ectypmob_tp_15m":9,"moy_ectypmob_tp_15m_6_00":9,"moy_ectypmob_tp_15m_7_20":10,"moy_ectypmob_v_1h":7,"moy_ectypmob_v_1h_6_00":7,"moy_ectypmob_v_1h_7_20":6
+	,"moy_ectypmob_v_30m":6,"moy_ectypmob_v_30m_6_00":6,"moy_ectypmob_v_30m_7_20":6,"moy_ectypmob_v_15m":6,"moy_ectypmob_v_15m_6_00":6,"moy_ectypmob_v_15m_7_20":6
+	,"delta_tpv":10,"delta_tpv_6_00":10,"delta_tpv_7_20":9},
+{"id_lieu":"143","nom":"Boussens, Chemin de la Chamberonne","km":2,"tps_moy_tp":10,"tps_moy_tp_6_00":10,"tps_moy_tp_7_20":10,"tps_moy_v":3,"tps_moy_v_6_00":3,"tps_moy_v_7_20":3
+	,"ectyp_tp":10,"ectyp_tp_6_00":10,"ectyp_tp_7_20":10,"ectyp_v":4,"ectyp_v_6_00":4,"ectyp_v_7_20":4
+	,"amplitude_tp":10,"amplitude_tp_6_00":10,"amplitude_tp_7_20":10,"amplitude_v":5,"amplitude_v_6_00":6,"amplitude_v_7_20":4,"moy_ectypmob_tp_1h":10,"moy_ectypmob_tp_1h_6_00":10,"moy_ectypmob_tp_1h_7_20":10
+	,"moy_ectypmob_tp_30m":10,"moy_ectypmob_tp_30m_6_00":10,"moy_ectypmob_tp_30m_7_20":10,"moy_ectypmob_tp_15m":9,"moy_ectypmob_tp_15m_6_00":10,"moy_ectypmob_tp_15m_7_20":10,"moy_ectypmob_v_1h":6,"moy_ectypmob_v_1h_6_00":6,"moy_ectypmob_v_1h_7_20":7
+	,"moy_ectypmob_v_30m":6,"moy_ectypmob_v_30m_6_00":6,"moy_ectypmob_v_30m_7_20":7,"moy_ectypmob_v_15m":6,"moy_ectypmob_v_15m_6_00":6,"moy_ectypmob_v_15m_7_20":7
+	,"delta_tpv":10,"delta_tpv_6_00":10,"delta_tpv_7_20":10},
+{"id_lieu":"156","nom":"Saint-Gingolph, Chemin de L'Herbette 23","km":8,"tps_moy_tp":10,"tps_moy_tp_6_00":10,"tps_moy_tp_7_20":10,"tps_moy_v":9,"tps_moy_v_6_00":9,"tps_moy_v_7_20":9
+	,"ectyp_tp":9,"ectyp_tp_6_00":9,"ectyp_tp_7_20":9,"ectyp_v":6,"ectyp_v_6_00":6,"ectyp_v_7_20":6
+	,"amplitude_tp":9,"amplitude_tp_6_00":9,"amplitude_tp_7_20":9,"amplitude_v":4,"amplitude_v_6_00":5,"amplitude_v_7_20":6,"moy_ectypmob_tp_1h":9,"moy_ectypmob_tp_1h_6_00":9,"moy_ectypmob_tp_1h_7_20":9
+	,"moy_ectypmob_tp_30m":9,"moy_ectypmob_tp_30m_6_00":9,"moy_ectypmob_tp_30m_7_20":10,"moy_ectypmob_tp_15m":9,"moy_ectypmob_tp_15m_6_00":9,"moy_ectypmob_tp_15m_7_20":10,"moy_ectypmob_v_1h":5,"moy_ectypmob_v_1h_6_00":5,"moy_ectypmob_v_1h_7_20":5
+	,"moy_ectypmob_v_30m":5,"moy_ectypmob_v_30m_6_00":6,"moy_ectypmob_v_30m_7_20":5,"moy_ectypmob_v_15m":5,"moy_ectypmob_v_15m_6_00":7,"moy_ectypmob_v_15m_7_20":6
+	,"delta_tpv":10,"delta_tpv_6_00":10,"delta_tpv_7_20":10},
+{"id_lieu":"22","nom":"Chens-sur-Léman-Tougues","km":9,"tps_moy_tp":10,"tps_moy_tp_6_00":10,"tps_moy_tp_7_20":10,"tps_moy_v":10,"tps_moy_v_6_00":10,"tps_moy_v_7_20":10
+	,"ectyp_tp":10,"ectyp_tp_6_00":10,"ectyp_tp_7_20":10,"ectyp_v":10,"ectyp_v_6_00":10,"ectyp_v_7_20":10
+	,"amplitude_tp":10,"amplitude_tp_6_00":10,"amplitude_tp_7_20":10,"amplitude_v":9,"amplitude_v_6_00":10,"amplitude_v_7_20":10,"moy_ectypmob_tp_1h":10,"moy_ectypmob_tp_1h_6_00":10,"moy_ectypmob_tp_1h_7_20":10
+	,"moy_ectypmob_tp_30m":10,"moy_ectypmob_tp_30m_6_00":10,"moy_ectypmob_tp_30m_7_20":10,"moy_ectypmob_tp_15m":10,"moy_ectypmob_tp_15m_6_00":10,"moy_ectypmob_tp_15m_7_20":10,"moy_ectypmob_v_1h":10,"moy_ectypmob_v_1h_6_00":10,"moy_ectypmob_v_1h_7_20":10
+	,"moy_ectypmob_v_30m":9,"moy_ectypmob_v_30m_6_00":10,"moy_ectypmob_v_30m_7_20":10,"moy_ectypmob_v_15m":9,"moy_ectypmob_v_15m_6_00":10,"moy_ectypmob_v_15m_7_20":10
+	,"delta_tpv":9,"delta_tpv_6_00":10,"delta_tpv_7_20":10},
+{"id_lieu":"110","nom":"Chens-sur-Léman, 667 Rue du Port","km":9,"tps_moy_tp":10,"tps_moy_tp_6_00":10,"tps_moy_tp_7_20":10,"tps_moy_v":10,"tps_moy_v_6_00":10,"tps_moy_v_7_20":10
+	,"ectyp_tp":10,"ectyp_tp_6_00":10,"ectyp_tp_7_20":10,"ectyp_v":10,"ectyp_v_6_00":10,"ectyp_v_7_20":10
+	,"amplitude_tp":10,"amplitude_tp_6_00":10,"amplitude_tp_7_20":10,"amplitude_v":9,"amplitude_v_6_00":9,"amplitude_v_7_20":9,"moy_ectypmob_tp_1h":10,"moy_ectypmob_tp_1h_6_00":10,"moy_ectypmob_tp_1h_7_20":10
+	,"moy_ectypmob_tp_30m":10,"moy_ectypmob_tp_30m_6_00":10,"moy_ectypmob_tp_30m_7_20":10,"moy_ectypmob_tp_15m":10,"moy_ectypmob_tp_15m_6_00":10,"moy_ectypmob_tp_15m_7_20":10,"moy_ectypmob_v_1h":9,"moy_ectypmob_v_1h_6_00":10,"moy_ectypmob_v_1h_7_20":10
+	,"moy_ectypmob_v_30m":9,"moy_ectypmob_v_30m_6_00":10,"moy_ectypmob_v_30m_7_20":10,"moy_ectypmob_v_15m":9,"moy_ectypmob_v_15m_6_00":10,"moy_ectypmob_v_15m_7_20":10
+	,"delta_tpv":10,"delta_tpv_6_00":10,"delta_tpv_7_20":10},
+{"id_lieu":"40","nom":"Thierrens, poste","km":4,"tps_moy_tp":10,"tps_moy_tp_6_00":10,"tps_moy_tp_7_20":10,"tps_moy_v":5,"tps_moy_v_6_00":5,"tps_moy_v_7_20":5
+	,"ectyp_tp":10,"ectyp_tp_6_00":10,"ectyp_tp_7_20":10,"ectyp_v":7,"ectyp_v_6_00":7,"ectyp_v_7_20":6
+	,"amplitude_tp":10,"amplitude_tp_6_00":10,"amplitude_tp_7_20":10,"amplitude_v":6,"amplitude_v_6_00":7,"amplitude_v_7_20":6,"moy_ectypmob_tp_1h":10,"moy_ectypmob_tp_1h_6_00":10,"moy_ectypmob_tp_1h_7_20":10
+	,"moy_ectypmob_tp_30m":9,"moy_ectypmob_tp_30m_6_00":9,"moy_ectypmob_tp_30m_7_20":10,"moy_ectypmob_tp_15m":9,"moy_ectypmob_tp_15m_6_00":9,"moy_ectypmob_tp_15m_7_20":10,"moy_ectypmob_v_1h":7,"moy_ectypmob_v_1h_6_00":7,"moy_ectypmob_v_1h_7_20":6
+	,"moy_ectypmob_v_30m":6,"moy_ectypmob_v_30m_6_00":6,"moy_ectypmob_v_30m_7_20":6,"moy_ectypmob_v_15m":6,"moy_ectypmob_v_15m_6_00":6,"moy_ectypmob_v_15m_7_20":6
+	,"delta_tpv":10,"delta_tpv_6_00":10,"delta_tpv_7_20":10},
+{"id_lieu":"128","nom":"Thierrens (Moudon), Vers La Scie 2","km":4,"tps_moy_tp":10,"tps_moy_tp_6_00":10,"tps_moy_tp_7_20":10,"tps_moy_v":6,"tps_moy_v_6_00":6,"tps_moy_v_7_20":6
+	,"ectyp_tp":10,"ectyp_tp_6_00":10,"ectyp_tp_7_20":10,"ectyp_v":6,"ectyp_v_6_00":6,"ectyp_v_7_20":6
+	,"amplitude_tp":10,"amplitude_tp_6_00":10,"amplitude_tp_7_20":10,"amplitude_v":3,"amplitude_v_6_00":4,"amplitude_v_7_20":6,"moy_ectypmob_tp_1h":10,"moy_ectypmob_tp_1h_6_00":10,"moy_ectypmob_tp_1h_7_20":10
+	,"moy_ectypmob_tp_30m":9,"moy_ectypmob_tp_30m_6_00":9,"moy_ectypmob_tp_30m_7_20":10,"moy_ectypmob_tp_15m":9,"moy_ectypmob_tp_15m_6_00":9,"moy_ectypmob_tp_15m_7_20":10,"moy_ectypmob_v_1h":6,"moy_ectypmob_v_1h_6_00":7,"moy_ectypmob_v_1h_7_20":7
+	,"moy_ectypmob_v_30m":6,"moy_ectypmob_v_30m_6_00":7,"moy_ectypmob_v_30m_7_20":7,"moy_ectypmob_v_15m":6,"moy_ectypmob_v_15m_6_00":7,"moy_ectypmob_v_15m_7_20":7
+	,"delta_tpv":10,"delta_tpv_6_00":10,"delta_tpv_7_20":10},
+{"id_lieu":"23","nom":"Noville, poste","km":6,"tps_moy_tp":10,"tps_moy_tp_6_00":10,"tps_moy_tp_7_20":10,"tps_moy_v":6,"tps_moy_v_6_00":6,"tps_moy_v_7_20":6
+	,"ectyp_tp":10,"ectyp_tp_6_00":10,"ectyp_tp_7_20":10,"ectyp_v":5,"ectyp_v_6_00":7,"ectyp_v_7_20":8
+	,"amplitude_tp":10,"amplitude_tp_6_00":10,"amplitude_tp_7_20":10,"amplitude_v":7,"amplitude_v_6_00":8,"amplitude_v_7_20":6,"moy_ectypmob_tp_1h":10,"moy_ectypmob_tp_1h_6_00":10,"moy_ectypmob_tp_1h_7_20":10
+	,"moy_ectypmob_tp_30m":10,"moy_ectypmob_tp_30m_6_00":10,"moy_ectypmob_tp_30m_7_20":10,"moy_ectypmob_tp_15m":10,"moy_ectypmob_tp_15m_6_00":10,"moy_ectypmob_tp_15m_7_20":10,"moy_ectypmob_v_1h":5,"moy_ectypmob_v_1h_6_00":6,"moy_ectypmob_v_1h_7_20":6
+	,"moy_ectypmob_v_30m":4,"moy_ectypmob_v_30m_6_00":5,"moy_ectypmob_v_30m_7_20":6,"moy_ectypmob_v_15m":3,"moy_ectypmob_v_15m_6_00":5,"moy_ectypmob_v_15m_7_20":6
+	,"delta_tpv":10,"delta_tpv_6_00":10,"delta_tpv_7_20":10},
+{"id_lieu":"111","nom":"Noville, Route d'Evian 23","km":6,"tps_moy_tp":10,"tps_moy_tp_6_00":10,"tps_moy_tp_7_20":10,"tps_moy_v":5,"tps_moy_v_6_00":5,"tps_moy_v_7_20":5
+	,"ectyp_tp":10,"ectyp_tp_6_00":10,"ectyp_tp_7_20":10,"ectyp_v":3,"ectyp_v_6_00":5,"ectyp_v_7_20":4
+	,"amplitude_tp":10,"amplitude_tp_6_00":10,"amplitude_tp_7_20":10,"amplitude_v":3,"amplitude_v_6_00":6,"amplitude_v_7_20":3,"moy_ectypmob_tp_1h":10,"moy_ectypmob_tp_1h_6_00":10,"moy_ectypmob_tp_1h_7_20":10
+	,"moy_ectypmob_tp_30m":10,"moy_ectypmob_tp_30m_6_00":10,"moy_ectypmob_tp_30m_7_20":10,"moy_ectypmob_tp_15m":10,"moy_ectypmob_tp_15m_6_00":10,"moy_ectypmob_tp_15m_7_20":10,"moy_ectypmob_v_1h":2,"moy_ectypmob_v_1h_6_00":3,"moy_ectypmob_v_1h_7_20":3
+	,"moy_ectypmob_v_30m":2,"moy_ectypmob_v_30m_6_00":3,"moy_ectypmob_v_30m_7_20":3,"moy_ectypmob_v_15m":2,"moy_ectypmob_v_15m_6_00":3,"moy_ectypmob_v_15m_7_20":3
+	,"delta_tpv":10,"delta_tpv_6_00":10,"delta_tpv_7_20":10},
+{"id_lieu":"34","nom":"Orges, Village","km":5,"tps_moy_tp":10,"tps_moy_tp_6_00":10,"tps_moy_tp_7_20":10,"tps_moy_v":5,"tps_moy_v_6_00":5,"tps_moy_v_7_20":5
+	,"ectyp_tp":10,"ectyp_tp_6_00":10,"ectyp_tp_7_20":10,"ectyp_v":5,"ectyp_v_6_00":8,"ectyp_v_7_20":6
+	,"amplitude_tp":10,"amplitude_tp_6_00":10,"amplitude_tp_7_20":10,"amplitude_v":8,"amplitude_v_6_00":8,"amplitude_v_7_20":7,"moy_ectypmob_tp_1h":10,"moy_ectypmob_tp_1h_6_00":10,"moy_ectypmob_tp_1h_7_20":10
+	,"moy_ectypmob_tp_30m":10,"moy_ectypmob_tp_30m_6_00":10,"moy_ectypmob_tp_30m_7_20":10,"moy_ectypmob_tp_15m":10,"moy_ectypmob_tp_15m_6_00":10,"moy_ectypmob_tp_15m_7_20":10,"moy_ectypmob_v_1h":7,"moy_ectypmob_v_1h_6_00":8,"moy_ectypmob_v_1h_7_20":8
+	,"moy_ectypmob_v_30m":8,"moy_ectypmob_v_30m_6_00":9,"moy_ectypmob_v_30m_7_20":9,"moy_ectypmob_v_15m":8,"moy_ectypmob_v_15m_6_00":9,"moy_ectypmob_v_15m_7_20":9
+	,"delta_tpv":10,"delta_tpv_6_00":10,"delta_tpv_7_20":10},
+{"id_lieu":"122","nom":"Orges, Mornens 1","km":5,"tps_moy_tp":10,"tps_moy_tp_6_00":10,"tps_moy_tp_7_20":10,"tps_moy_v":5,"tps_moy_v_6_00":5,"tps_moy_v_7_20":5
+	,"ectyp_tp":10,"ectyp_tp_6_00":10,"ectyp_tp_7_20":10,"ectyp_v":9,"ectyp_v_6_00":4,"ectyp_v_7_20":6
+	,"amplitude_tp":10,"amplitude_tp_6_00":10,"amplitude_tp_7_20":10,"amplitude_v":10,"amplitude_v_6_00":3,"amplitude_v_7_20":3,"moy_ectypmob_tp_1h":10,"moy_ectypmob_tp_1h_6_00":10,"moy_ectypmob_tp_1h_7_20":10
+	,"moy_ectypmob_tp_30m":10,"moy_ectypmob_tp_30m_6_00":10,"moy_ectypmob_tp_30m_7_20":10,"moy_ectypmob_tp_15m":10,"moy_ectypmob_tp_15m_6_00":10,"moy_ectypmob_tp_15m_7_20":10,"moy_ectypmob_v_1h":10,"moy_ectypmob_v_1h_6_00":5,"moy_ectypmob_v_1h_7_20":6
+	,"moy_ectypmob_v_30m":10,"moy_ectypmob_v_30m_6_00":5,"moy_ectypmob_v_30m_7_20":6,"moy_ectypmob_v_15m":10,"moy_ectypmob_v_15m_6_00":5,"moy_ectypmob_v_15m_7_20":5
+	,"delta_tpv":10,"delta_tpv_6_00":10,"delta_tpv_7_20":10},
+{"id_lieu":"71","nom":"Yvoire, FR","km":10,"tps_moy_tp":10,"tps_moy_tp_6_00":10,"tps_moy_tp_7_20":10,"tps_moy_v":10,"tps_moy_v_6_00":10,"tps_moy_v_7_20":10
+	,"ectyp_tp":10,"ectyp_tp_6_00":10,"ectyp_tp_7_20":10,"ectyp_v":10,"ectyp_v_6_00":10,"ectyp_v_7_20":10
+	,"amplitude_tp":10,"amplitude_tp_6_00":10,"amplitude_tp_7_20":10,"amplitude_v":10,"amplitude_v_6_00":10,"amplitude_v_7_20":10,"moy_ectypmob_tp_1h":10,"moy_ectypmob_tp_1h_6_00":10,"moy_ectypmob_tp_1h_7_20":10
+	,"moy_ectypmob_tp_30m":10,"moy_ectypmob_tp_30m_6_00":10,"moy_ectypmob_tp_30m_7_20":10,"moy_ectypmob_tp_15m":10,"moy_ectypmob_tp_15m_6_00":10,"moy_ectypmob_tp_15m_7_20":10,"moy_ectypmob_v_1h":10,"moy_ectypmob_v_1h_6_00":10,"moy_ectypmob_v_1h_7_20":10
+	,"moy_ectypmob_v_30m":10,"moy_ectypmob_v_30m_6_00":10,"moy_ectypmob_v_30m_7_20":10,"moy_ectypmob_v_15m":10,"moy_ectypmob_v_15m_6_00":10,"moy_ectypmob_v_15m_7_20":10
+	,"delta_tpv":10,"delta_tpv_6_00":10,"delta_tpv_7_20":10},
+{"id_lieu":"159","nom":"Yvoire, chemin des marguerets","km":10,"tps_moy_tp":10,"tps_moy_tp_6_00":10,"tps_moy_tp_7_20":10,"tps_moy_v":10,"tps_moy_v_6_00":10,"tps_moy_v_7_20":10
+	,"ectyp_tp":10,"ectyp_tp_6_00":10,"ectyp_tp_7_20":10,"ectyp_v":10,"ectyp_v_6_00":10,"ectyp_v_7_20":10
+	,"amplitude_tp":10,"amplitude_tp_6_00":10,"amplitude_tp_7_20":10,"amplitude_v":10,"amplitude_v_6_00":10,"amplitude_v_7_20":10,"moy_ectypmob_tp_1h":10,"moy_ectypmob_tp_1h_6_00":10,"moy_ectypmob_tp_1h_7_20":10
+	,"moy_ectypmob_tp_30m":10,"moy_ectypmob_tp_30m_6_00":10,"moy_ectypmob_tp_30m_7_20":10,"moy_ectypmob_tp_15m":10,"moy_ectypmob_tp_15m_6_00":10,"moy_ectypmob_tp_15m_7_20":10,"moy_ectypmob_v_1h":10,"moy_ectypmob_v_1h_6_00":10,"moy_ectypmob_v_1h_7_20":10
+	,"moy_ectypmob_v_30m":10,"moy_ectypmob_v_30m_6_00":10,"moy_ectypmob_v_30m_7_20":10,"moy_ectypmob_v_15m":10,"moy_ectypmob_v_15m_6_00":10,"moy_ectypmob_v_15m_7_20":10
+	,"delta_tpv":10,"delta_tpv_6_00":10,"delta_tpv_7_20":10}
+]

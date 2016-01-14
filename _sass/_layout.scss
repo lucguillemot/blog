@@ -243,3 +243,18 @@
         }
     }
 }
+
+/**
+  * Added Styles
+  */
+
+.index-map {
+    margin-right: 10px;
+    font-size: 13px;
+    border-bottom: 1px solid;
+    cursor: pointer;
+}
+
+.index-map:hover {
+  border-bottom: 3px solid;
+}

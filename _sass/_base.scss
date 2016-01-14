@@ -95,12 +95,13 @@ a {
     border-bottom: 1px solid;
 
     &:visited {
-        color: darken($brand-color, 15%);
+        //color: darken(rgba(0, 30, 64, 1), 50%);
+        color: rgba(0, 30, 64, 1);
     }
 
     &:hover {
         text-decoration: none;
-        color: darken(rgba(0, 30, 64, 1), 50%);
+        color: rgba(0, 30, 64, 1);
         border-bottom: 3px solid; 
         text-decoration: none;
     }

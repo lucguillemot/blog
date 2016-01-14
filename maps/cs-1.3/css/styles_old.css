@@ -1,0 +1,294 @@
+body {
+	background-color: #fff;
+	margin: 0; 
+    padding: 0; 
+    padding-top: 10px;
+    text-align: left;
+	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    display: inline;
+    color:#dedede;
+}
+
+#wrapper { 
+ position: relative;
+ width: 1280px;
+ height: 800px;
+ text-align: left;
+ border: 0px;
+ padding: 0;
+ margin: 0 auto; 
+} 
+
+#header {
+	position: absolute;
+	background-color: #000;
+	height: 60px;
+	width: 1280px;
+	border-bottom: 1px solid #fff;
+	vertical-align: middle;
+}
+
+#header span {
+	padding-left: 5px;
+}
+
+/* NAVIGATION */
+nav {
+	position: relative;
+	display: inline;
+	left: 800px;
+	font-size: 12px;
+	vertical-align: middle;
+}
+nav ul {list-style: none; margin: 0 ;display: inline;}
+nav li {float: right; display: inline; margin: 0;}
+nav a:link, nav a:visited {
+	color: #fff;
+	display: inline;
+	padding-left: 5px;
+	padding-right: 5px;
+	text-decoration: none;
+}
+nav a:hover, nav a:active,
+nav .active a:link, nav .active a:visited {
+	background: #fff;
+	height: 22px;
+	color: #000;
+}
+
+#switch_typologie {
+	position:fixed;
+	z-index: 100;
+	top: 35px;
+	left: 770px;
+}
+#switch_topologie {
+	position:fixed;
+	z-index: 100;
+	top: 35px;
+	left: 770px;
+}
+#vue_typologie {
+	position: absolute;
+	top:35px;
+	left:0px;
+	width: 640px;
+	height: 600px;
+	background-color: #fff;
+	border: 1px solid #fff;
+	font-size: 9px;
+}
+#typologie {
+	position: absolute;
+	left:100px;
+	top:100px;
+}
+#typologie_choix_periode {
+	position: absolute;
+	left:10px;
+	top:10px;
+	z-index:10;
+	color: #000;
+}
+#typologie_indicateurs {
+	position: absolute;
+	left:10px;
+	top:35px;
+	z-index:10;
+	color: #000;
+}
+#vue_topologie {
+	position: absolute;
+	top:22px;
+	left:0px;
+	width: 640px;
+	height: 600px;
+	background-color: #000;
+	border: 1px solid #fff;
+}
+#zooms {
+	position: absolute;
+	z-index: 10;
+	left: 20px;
+	top: 50px;
+}
+#affichages {
+	position: absolute;
+	left:0px;
+	top:0px;
+	z-index:10;
+	color: #fff;
+	font-size: 11px;
+}
+
+#vue_euclidien {
+	position: absolute;
+	left:640px;
+	top:22px;
+	border: 1px solid #fff;
+}
+
+#histogram{
+	position: absolute;
+	left:0px;
+	top:609px;
+	z-index:10;
+	background-color:rgba(255,255,255,0.9);
+}
+
+#vue_chronologie {
+	position: absolute;
+	left:0px;
+	top:715px;
+}
+
+
+.voiture {background: #fa327e; !important;}
+.tp {background: #0022ad; !important;}
+.voiture:hover {opacity: 0.7;  background: #fa327e; !important;}
+.tp:hover {opacity: 0.7;  background: #0022ad; !important;}
+
+
+
+
+
+
+#controles {
+	position: absolute;
+	top:735px;
+	left:0px;
+	width:1280px;
+	height: 100px;
+	background-color: #000;
+	color:#fff;
+	z-index:10;
+	font-size: 14px;
+	vertical-align: middle;
+	padding: 5px;
+}
+
+#controles span,input {
+	padding-left: 5px;
+	padding-right: 5px;
+	vertical-align: middle;
+}
+
+
+.bouton {
+	vertical-align: middle;
+}
+
+
+/* Time */
+
+#slider_time {
+	font-size: 10px;
+}
+
+
+/* Steps */
+
+#step_txt {
+	font-size: 13px;
+}
+#slider_step {
+	display: inline-block;
+	width: 100px;
+	font-size: 7px;
+}
+
+
+/* Modes */
+
+
+#modes_options {
+}
+
+
+#modes_boutons {
+	font-size: 10px;
+}
+
+
+.ui-slider-range { background: #bbb; }
+.ui-slider-handle { border-color: #ffffff;background: #bbb; }
+
+
+/* Parking */
+
+#tps_parking {
+	font-size: 12px;
+}
+
+#park_txt {
+	font-weight: bold;
+	font-size: 12px;
+}
+
+
+
+#infos {
+	float: right;
+}
+
+/* Heure */
+
+#h_txt {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+/* Lieu */
+
+#affichage_lieu {
+	font-size: 18px;
+}
+
+
+
+
+
+
+.chart rect {
+	fill: steelblue;
+	stroke: white;
+}
+
+.rule line.axis {
+  stroke: #fff;
+}
+
+.lignes_rayons {
+  fill: none;
+  stroke: #bbb;
+  opacity: 0.4;
+  stroke-width: 1px;
+  z-index: 1;
+}
+
+.line_tt {
+  fill: none;
+  stroke: #bbb;
+  opacity: 0.4;
+  stroke-width: 3px;
+}
+
+.circle {
+	cursor: pointer;
+	z-index: 2;
+}
+
+.lieu {
+ stroke: #006600;
+ fill:   #00ff00;
+}
+
+.abcisse {
+  fill: none;
+  stroke: #333;
+  stroke-width: 2px;
+}
+
+text  {
+	font-size: 8px;
+}

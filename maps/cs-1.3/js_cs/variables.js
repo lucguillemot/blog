@@ -1,0 +1,73 @@
+var width = 1270;
+			w = width/2,
+			he = 440,
+			scale=2,
+			heures=0,
+			minutes=0,
+			heures_txt="",
+			minutes_txt="",
+			horaire="",
+			tps_transition=700,
+			si1 = true,
+			step=5,
+			nb_minutes=0,
+			option = "tp",
+			couleurTP = "#0022ad",
+			couleurVOIT = "#fa327e",
+			id_courant = 0,
+			last_id = 0,
+			opacity=0,
+			last_opacity=0,
+			nom_courant = "All places",
+			tps_courant_tp=0,
+			tps_courant_voiture=0,
+			tps_courant_mini=0,
+			t_park = 5,
+			time ="00:00",
+			time_file="00_00",
+			durees=new Array,
+			type_visualisation = "topologie";
+		// EUCLIDIEN
+		var euclidien_scaleT = d3.scale.linear().domain([0, 90]).range([1, 0]); // échelle pour l'opacité des points de la carte euclidienne, fonction du tps de trajet
+		var e_zoom_val=9, zoom_max=12, zoom_min=9;
+		// TOPOLOGIE
+		var topologie_angle = "geoWheel",
+			valEchelle = 500,
+			topologie_scaleKM = d3.scale.linear().domain([0, 112]).range([1, 0]), // échelle pour calculer l'opacité des points de la roue.
+			topologie_scaleX = d3.scale.linear().domain([0, valEchelle]).range([0, w]); // échelle cartographique pour la roue.
+		// TYPOLOGIE
+		var typologie_width = 500,
+			typologie_height = 370,
+			typologie_margin = 50,
+			periode = "work",
+			tc_mode = "both",
+			total_p_dist=3,
+			total_p_reg=10,
+			p_km=1,
+			p_tps_moy_tp=1,
+			p_tps_moy_v=1,
+			p_ectyp_tp=1,
+			p_ectyp_v=1,
+			p_amplitude_tp=1,
+			p_amplitude_v=1,
+			p_moy_ectypmob_tp_1h=1,
+			p_moy_ectypmob_tp_30m=1,
+			p_moy_ectypmob_tp_15m=1,
+			p_moy_ectypmob_v_1h=1,
+			p_moy_ectypmob_v_30m=1,
+			p_moy_ectypmob_v_15m=1,
+			typologie_x = d3.scale.linear().domain([0, 10]).range([0, typologie_width]), 
+			typologie_y = d3.scale.linear().domain([10, 0]).range([0, typologie_height]),
+			typologie_xAxis = d3.svg.axis().scale(typologie_x).ticks(12).tickSize(5).orient("top"),
+			typologie_yAxis = d3.svg.axis().scale(typologie_y).ticks(15).orient("right").tickSize(0).tickSubdivide(true);
+		// TIMELINE ET HISTOGRAMME
+		var parse = d3.time.format("%H:%M").parse,
+			h_start_ = "00:00",
+			h_end_ = "23:55",
+			h_start = parse(h_start_),
+			h_end = parse(h_end_),
+			histogram_hauteur=100,
+			scaleChartX = d3.scale.linear().domain([1,288]).range([0,width]), // scale pour la largeur du graphique (nombre de laps de temps)
+			scaleChartY = d3.scale.linear().domain([0,120]).range([0, histogram_hauteur]), // scale pour la hauteur du graphique (nombre de minutes)
+			t = d3.time.scale().domain([h_start, h_end]).range([0, width]); // scale pour calculer les valeurs de la timeline (de minuit à 23h55 sur 1280 pixels)
+			

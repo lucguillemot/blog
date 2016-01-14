@@ -1,0 +1,383 @@
+body {
+	background-color: #000;
+	margin: 0; 
+    padding: 0; 
+    text-align: left;
+	font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+    display: inline;
+    color:#fff;
+    font-size: 11px;
+}
+
+#wrapper { 
+	position: relative;
+	background-color: #000;
+	width: 1270px;
+	height: 688px;
+	text-align: left;
+	border-bottom: 1px solid #666;
+	margin: 0 auto; // permet de centrer le tout (?)
+} 
+
+.browser_alert {
+    position: absolute;
+	background-color:rgba(0,0,0,0.75);
+	text-align: center;
+	color: #fff;
+	font-weight: bold;
+	font-size: 22px;
+	height: 366px;
+	width: 600px;
+	top: 90px;
+	left: 185px;
+	padding-top: 50px;
+	padding-right: 150px;
+	padding-left: 150px;
+	margin: 0;
+	border: 10px solid rgba(255,255,255,0.72)
+}
+
+.browser_alert a {text-decoration: none; color: #fff;}
+.browser_alert a:hover {color: #ffff00;}
+
+/* Barre de menu */	
+#header {
+	position: absolute;
+	height: 35px;
+	width: 1270px;
+	border-bottom: 1px solid #666;
+}
+
+.ui-slider-horizontal {background: #222; border-color: #fff;}
+.ui-slider-range {background: #777; border-color: #fff;}
+.ui-slider-handle {background: #bbb; border-color: #fff;}
+
+text {
+	fill: #fff;
+}
+
+
+/* Modes de transport */
+#modes_options {
+	position: absolute;
+	top:12px;
+	left:15px;
+}
+#modes_options > img, span, #zooms > img{
+	position: relative;
+	padding-left: 10px;
+	padding-right: 1px;
+}
+
+#modes_options .modes_texte {top:-3px;}
+#modes_options .choix_mode {cursor: pointer;}
+#modes_options .active {color: #ffff00;}
+#modes_options .parking_texte {text-align: right;}
+
+#slider_park {
+	position: relative;
+	display: inline-block;
+	width: 80px;
+	font-size: 7px;
+	top:-3px;
+}
+
+/* Navigation Principale */
+
+nav {
+	position: absolute;
+	display: inline;
+	left: 1000px;
+	top: 12px;
+	padding-right: 15px;
+}
+nav ul {list-style: none; display: inline; margin: 0;}
+nav ul li {display: inline; padding-left: 7px; padding-right: 7px;}
+nav a {color: #fff;text-decoration: none;}
+nav a:hover {color: #ffff00;}
+nav .active a {color: #ffff00;}
+
+/* Selection des lieux */
+
+#barre_select_or_not {
+	position: absolute;
+	background-color:rgba(0,0,0,0.7);
+	height: 30px;
+	width: 635px;
+	top: 476px;
+	left: 635px;
+	cursor: pointer;
+}
+
+#select_or_not {
+	position: absolute;
+	left: 20px;
+}
+
+#select_or_not .active {color:#ffff00;}
+
+#select_or_not span {
+	position: relative;
+	display: inline;
+	padding-left: 5px;
+	padding-right: 5px;
+	top:5px;
+}
+
+/* Visualisations */
+
+#vue_topologie, #vue_typologie	{
+	position: absolute;
+	height: 470px;
+	width: 635px;
+	top: 35px;
+	border-top: 1px solid #666;
+	border-bottom: 1px solid #666;
+}
+#topologie, #typologie {position: absolute;}
+
+#zooms, #euclidien_zooms	{
+	position: absolute;
+	top: 15px;
+	left:588px;
+}
+
+#affichages, #typologie_choix_periode {
+	position: absolute;
+	background-color:rgba(0,0,0,0.7);
+	height: 30px;
+	width: 635px;
+	top: 440px;
+	padding-left: 15px;
+	cursor: pointer;
+}
+#affichages span, #typologie_choix_periode span {
+	position: relative;
+	display: inline;
+	padding-left: 5px;
+	padding-right: 5px;
+	top:5px;
+}
+#affichages .active, #typologie_choix_periode .active, .active {color:#ffff00;}
+
+#typologie_indicateurs {
+	position: absolute;
+	background-color:rgba(0,0,0,0.8);
+	height: 389px;
+	width: 635px;
+	top: 36px;
+	padding-top: 50px;
+	z-index: 2;
+}
+
+
+#typologie_choices {
+	position: absolute;
+	top: 25px;
+	left: 0px;
+}
+
+#typologie_choices span {
+	padding-left: 5px;
+	padding-right: 5px;
+	cursor: pointer;
+}
+
+#typologie_position {
+	position: absolute;
+	top: 15px;
+	left: 565px;
+}
+
+#typologie_position span {
+	cursor: pointer;
+}
+
+.typo_i_titre {
+	font-size: 15px; 
+	padding-top: 15px;
+	padding-bottom: 5px;
+	padding-left: 15px;
+}
+
+#typo_i_exit {
+	position: absolute;
+	top: 15px;
+	left:588px;
+	cursor: pointer;	
+}
+
+#typologie_indicateurs ul {list-style: none; display: inline; margin: 0;}
+#typologie_indicateurs ul li {
+	padding-left: 20px;
+	padding-right: 7px;
+	padding-top: 5px;	
+}
+
+.typologie_slider {
+	position: relative;
+	display: inline-block;
+	width: 80px;
+	font-size: 7px;
+	top:-1px;
+}
+
+
+#vue_euclidien {
+	position: relative;
+	height: 470px;
+	width: 635px;
+	top: 35px;
+	left: 635px;
+	border-top: 1px solid #666;
+	border-bottom: 1px solid #666;
+}
+
+
+#legend_map {
+	position: absolute;
+	top: 400px;
+	left:1200px;
+}
+
+/* Choix de la visualisation (SWITCH) */
+
+#switch {
+	position: absolute;
+	background-color:rgba(0,0,0,0.7);
+	height: 30px;
+	width: 140px;
+	top: 50px;
+	padding-left: 15px;
+	padding-right: 15px;
+	font-size: 15px;
+	cursor: pointer;
+}
+
+#switch_static {
+	position: absolute;
+	background-color:rgba(0,0,0,0.7);
+	height: 30px;
+	width: 1270px;
+	top: 50px;
+	padding-left: 15px;
+	font-size: 15px;
+	cursor: pointer;
+}
+
+#switch .active, #switch_static .active {color:#ffff00;}
+
+#switch span, #switch_static span {
+	position: relative;
+	display: inline;
+	padding-left: 0px;
+	padding-right: 10px;
+	top:5px;
+}
+
+/* Histogramme */
+
+#histogram {
+	position:absolute;
+	height: 118px;
+	width: 1270px;
+	top: 513px;
+}
+#histogram span {
+	position: relative;
+	left: 5px;
+	top:-85px;
+	opacity: 0.5;
+	cursor: default;
+}
+.histogram_line {
+	stroke-width:1;
+	stroke:#666;
+}
+
+#vue_chronologie {
+	position: absolute;
+	height: 10px;
+	width: 1270px;
+	top: 620px;
+	font-size: 7px;
+}
+
+#slider_time {}
+#slider_axe {
+	position: absolute;
+	top: 12px;
+}
+
+/* Contrôles */
+#controles {
+	position: absolute;
+	height: 35px;
+	width: 1270px;
+	top: 650px;
+}
+
+#controles > span, #controles > img, #zooms > img {
+	position: relative;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+#controles .controles_texte {top:-3px;}
+#controles .infos_texte {top:-3px; font-size: 15px;}
+
+#slider_step {
+	position: relative;
+	display: inline-block;
+	width: 80px;
+	font-size: 7px;
+	top:-3px;
+}
+
+#infos  {
+	position: relative;
+	float: right;
+	display: inline;
+}
+
+/* Contact */
+.infos_box{
+	position: absolute;
+	background-color:rgba(0,0,0,0.85);
+	font-size: 15px;
+	height: 366px;
+	width: 800px;
+	top: 90px;
+	left: 85px;
+	padding-top: 50px;
+	padding-right: 150px;
+	padding-left: 150px;
+	margin: 0;
+}
+
+#contact{text-align: center;}
+
+#contact a {text-decoration: none; color: #fff;}
+#contact a:hover {color: #ffff00;}
+
+#contact img, #about img {
+	position: absolute;
+	top: 15px;
+	left:1055px;
+	cursor: pointer;	
+}
+
+/* About */
+#about{text-align: left;}
+
+/* STATIC */
+
+.svg_static {
+	position: absolute;
+	height: 608px;
+	width: 1270px;
+	top: 80px;
+}
+
+#svg_histogramme {position: absolute; top: 300px;}
+#svg_timeline {position: absolute; top: 615px;}

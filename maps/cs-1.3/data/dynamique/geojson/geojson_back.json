@@ -1,0 +1,707 @@
+{"type": "FeatureCollection",
+ "features": [
+{"type": "Feature","id":"l47",
+"geometry": {"type": "Point", "coordinates": [6.57956,46.5375]},
+"properties": {"popupContent": "Renens"}
+},
+{"type": "Feature","id":"l86",
+"geometry": {"type": "Point", "coordinates": [6.60326,46.524]},
+"properties": {"popupContent": "Lausanne, Malley"}
+},
+{"type": "Feature","id":"l88",
+"geometry": {"type": "Point", "coordinates": [6.5582,46.5101]},
+"properties": {"popupContent": "St-Sulpice, centre"}
+},
+{"type": "Feature","id":"l135",
+"geometry": {"type": "Point", "coordinates": [6.58598,46.5404]},
+"properties": {"popupContent": "Renens, Avenue de la Poste 29"}
+},
+{"type": "Feature","id":"l45",
+"geometry": {"type": "Point", "coordinates": [6.62928,46.5173]},
+"properties": {"popupContent": "Lausanne"}
+},
+{"type": "Feature","id":"l174",
+"geometry": {"type": "Point", "coordinates": [6.60522,46.5277]},
+"properties": {"popupContent": "Lausanne, Avenue de Morges 90"}
+},
+{"type": "Feature","id":"l176",
+"geometry": {"type": "Point", "coordinates": [6.55214,46.5131]},
+"properties": {"popupContent": "Saint-Sulpice, Rue des Jordils 41"}
+},
+{"type": "Feature","id":"l87",
+"geometry": {"type": "Point", "coordinates": [6.62802,46.5119]},
+"properties": {"popupContent": "Lausanne, Délices"}
+},
+{"type": "Feature","id":"l133",
+"geometry": {"type": "Point", "coordinates": [6.62219,46.52]},
+"properties": {"popupContent": "Lausanne, Avenue Marc-Dufour 1"}
+},
+{"type": "Feature","id":"l8",
+"geometry": {"type": "Point", "coordinates": [6.62631,46.5067]},
+"properties": {"popupContent": "Lausanne, place de la navigation"}
+},
+{"type": "Feature","id":"l7",
+"geometry": {"type": "Point", "coordinates": [6.61322,46.5303]},
+"properties": {"popupContent": "Lausanne, Montétan"}
+},
+{"type": "Feature","id":"l54",
+"geometry": {"type": "Point", "coordinates": [6.52368,46.606]},
+"properties": {"popupContent": "Cossonay"}
+},
+{"type": "Feature","id":"l42",
+"geometry": {"type": "Point", "coordinates": [6.66146,46.5435]},
+"properties": {"popupContent": "Epalinges, Croisettes"}
+},
+{"type": "Feature","id":"l175",
+"geometry": {"type": "Point", "coordinates": [6.63505,46.5121]},
+"properties": {"popupContent": "Lausanne, Avenue de Montchoisi 39"}
+},
+{"type": "Feature","id":"l96",
+"geometry": {"type": "Point", "coordinates": [6.62139,46.5113]},
+"properties": {"popupContent": "Lausanne, Chemin de Bellerive 8"}
+},
+{"type": "Feature","id":"l75",
+"geometry": {"type": "Point", "coordinates": [6.60506,46.5447]},
+"properties": {"popupContent": "Cery-Fleur-de-Lys"}
+},
+{"type": "Feature","id":"l95",
+"geometry": {"type": "Point", "coordinates": [6.6147,46.5328]},
+"properties": {"popupContent": "Lausanne, Avenue de France 93 "}
+},
+{"type": "Feature","id":"l12",
+"geometry": {"type": "Point", "coordinates": [6.23576,46.3839]},
+"properties": {"popupContent": "Nyon"}
+},
+{"type": "Feature","id":"l11",
+"geometry": {"type": "Point", "coordinates": [6.26932,46.4205]},
+"properties": {"popupContent": "Gland"}
+},
+{"type": "Feature","id":"l48",
+"geometry": {"type": "Point", "coordinates": [6.60319,46.5624]},
+"properties": {"popupContent": "Romanel-sur-Lausanne"}
+},
+{"type": "Feature","id":"l142",
+"geometry": {"type": "Point", "coordinates": [6.52328,46.6094]},
+"properties": {"popupContent": "Penthalaz, Chemin de la Piscine 3"}
+},
+{"type": "Feature","id":"l64",
+"geometry": {"type": "Point", "coordinates": [6.84265,46.4629]},
+"properties": {"popupContent": "Vevey"}
+},
+{"type": "Feature","id":"l130",
+"geometry": {"type": "Point", "coordinates": [6.67047,46.542]},
+"properties": {"popupContent": "Epalinges, Chemin des Planches 46"}
+},
+{"type": "Feature","id":"l78",
+"geometry": {"type": "Point", "coordinates": [6.49178,46.5137]},
+"properties": {"popupContent": "Morges, La Tour"}
+},
+{"type": "Feature","id":"l52",
+"geometry": {"type": "Point", "coordinates": [6.33693,46.4566]},
+"properties": {"popupContent": "Rolle"}
+},
+{"type": "Feature","id":"l49",
+"geometry": {"type": "Point", "coordinates": [6.45627,46.4824]},
+"properties": {"popupContent": "Saint-Prex"}
+},
+{"type": "Feature","id":"l163",
+"geometry": {"type": "Point", "coordinates": [6.60409,46.5384]},
+"properties": {"popupContent": "Prilly, Chemin de la Possession 1"}
+},
+{"type": "Feature","id":"l44",
+"geometry": {"type": "Point", "coordinates": [6.66027,46.5101]},
+"properties": {"popupContent": "Pully"}
+},
+{"type": "Feature","id":"l100",
+"geometry": {"type": "Point", "coordinates": [6.23884,46.3789]},
+"properties": {"popupContent": "Nyon, Quai Louis Bonnard"}
+},
+{"type": "Feature","id":"l76",
+"geometry": {"type": "Point", "coordinates": [6.65138,46.5267]},
+"properties": {"popupContent": "Lausanne, Pont-de-Chailly"}
+},
+{"type": "Feature","id":"l99",
+"geometry": {"type": "Point", "coordinates": [6.26937,46.4253]},
+"properties": {"popupContent": "Gland, Chemin des Magnenets 19"}
+},
+{"type": "Feature","id":"l36",
+"geometry": {"type": "Point", "coordinates": [6.6409,46.7812]},
+"properties": {"popupContent": "Yverdon-les-Bains"}
+},
+{"type": "Feature","id":"l136",
+"geometry": {"type": "Point", "coordinates": [6.59943,46.5668]},
+"properties": {"popupContent": "Romanel-sur-Lausanne, Chemin des Esserpys 7"}
+},
+{"type": "Feature","id":"l152",
+"geometry": {"type": "Point", "coordinates": [6.83532,46.4619]},
+"properties": {"popupContent": "Vevey, Quai Ernest-Ansermet 2"}
+},
+{"type": "Feature","id":"l43",
+"geometry": {"type": "Point", "coordinates": [6.7269,46.4887]},
+"properties": {"popupContent": "Cully"}
+},
+{"type": "Feature","id":"l6",
+"geometry": {"type": "Point", "coordinates": [6.66718,46.5219]},
+"properties": {"popupContent": "Pully, Val-Vert"}
+},
+{"type": "Feature","id":"l166",
+"geometry": {"type": "Point", "coordinates": [6.49719,46.5185]},
+"properties": {"popupContent": "Morges, Résidences de la Côte 40"}
+},
+{"type": "Feature","id":"l72",
+"geometry": {"type": "Point", "coordinates": [6.14302,46.2102]},
+"properties": {"popupContent": "Genève"}
+},
+{"type": "Feature","id":"l140",
+"geometry": {"type": "Point", "coordinates": [6.34125,46.4666]},
+"properties": {"popupContent": "Mont-sur-Rolle, Chemin des Joncs 25"}
+},
+{"type": "Feature","id":"l137",
+"geometry": {"type": "Point", "coordinates": [6.45351,46.4873]},
+"properties": {"popupContent": "Saint-Prex, Chemin de Vegney"}
+},
+{"type": "Feature","id":"l132",
+"geometry": {"type": "Point", "coordinates": [6.65311,46.5088]},
+"properties": {"popupContent": "Pully, Chemin des Osches 75"}
+},
+{"type": "Feature","id":"l26",
+"geometry": {"type": "Point", "coordinates": [6.96421,46.3169]},
+"properties": {"popupContent": "Aigle"}
+},
+{"type": "Feature","id":"l164",
+"geometry": {"type": "Point", "coordinates": [6.65831,46.5274]},
+"properties": {"popupContent": "Lausanne, Chemin de Haute-Brise 1"}
+},
+{"type": "Feature","id":"l124",
+"geometry": {"type": "Point", "coordinates": [6.63935,46.7766]},
+"properties": {"popupContent": "Yverdon-les-Bains, Rue des Jordils 4"}
+},
+{"type": "Feature","id":"l46",
+"geometry": {"type": "Point", "coordinates": [6.63415,46.5631]},
+"properties": {"popupContent": "Le Mont-sur-Lausanne, Grand-Mont"}
+},
+{"type": "Feature","id":"l131",
+"geometry": {"type": "Point", "coordinates": [6.72315,46.4912]},
+"properties": {"popupContent": "Cully, Chemin des Colombaires 48"}
+},
+{"type": "Feature","id":"l94",
+"geometry": {"type": "Point", "coordinates": [6.6642,46.5259]},
+"properties": {"popupContent": "Pully, Chemin de la Bruyère 33"}
+},
+{"type": "Feature","id":"l30",
+"geometry": {"type": "Point", "coordinates": [6.85953,46.4553]},
+"properties": {"popupContent": "La-Tour-de-Peilz"}
+},
+{"type": "Feature","id":"l85",
+"geometry": {"type": "Point", "coordinates": [6.8771,46.4478]},
+"properties": {"popupContent": "Burier"}
+},
+{"type": "Feature","id":"l160",
+"geometry": {"type": "Point", "coordinates": [6.14889,46.2137]},
+"properties": {"popupContent": "Genève, Rue des Buis 5"}
+},
+{"type": "Feature","id":"l114",
+"geometry": {"type": "Point", "coordinates": [6.96015,46.3129]},
+"properties": {"popupContent": "Aigle, Chemin des Alouettes 4"}
+},
+{"type": "Feature","id":"l27",
+"geometry": {"type": "Point", "coordinates": [6.92624,46.3984]},
+"properties": {"popupContent": "Villeneuve"}
+},
+{"type": "Feature","id":"l134",
+"geometry": {"type": "Point", "coordinates": [6.62804,46.5603]},
+"properties": {"popupContent": "Le Mont-sur-Lausanne, Chemin de Pernessy 2"}
+},
+{"type": "Feature","id":"l14",
+"geometry": {"type": "Point", "coordinates": [6.13022,46.2013]},
+"properties": {"popupContent": "Genève, rond-point Jonction"}
+},
+{"type": "Feature","id":"l50",
+"geometry": {"type": "Point", "coordinates": [6.44574,46.5264]},
+"properties": {"popupContent": "Bussy-Chardonney"}
+},
+{"type": "Feature","id":"l77",
+"geometry": {"type": "Point", "coordinates": [6.67842,46.5195]},
+"properties": {"popupContent": "Belmont-sur-Lausanne"}
+},
+{"type": "Feature","id":"l118",
+"geometry": {"type": "Point", "coordinates": [6.85076,46.4581]},
+"properties": {"popupContent": "Vevey, Rue d'Italie 27"}
+},
+{"type": "Feature","id":"l53",
+"geometry": {"type": "Point", "coordinates": [6.42357,46.5511]},
+"properties": {"popupContent": "Apples"}
+},
+{"type": "Feature","id":"l15",
+"geometry": {"type": "Point", "coordinates": [6.16548,46.2806]},
+"properties": {"popupContent": "Versoix"}
+},
+{"type": "Feature","id":"l173",
+"geometry": {"type": "Point", "coordinates": [6.8814,46.451]},
+"properties": {"popupContent": "La Tour-De-Peilz, Chemin Du Vallon 116"}
+},
+{"type": "Feature","id":"l65",
+"geometry": {"type": "Point", "coordinates": [7.07911,46.1057]},
+"properties": {"popupContent": "Martigny"}
+},
+{"type": "Feature","id":"l3",
+"geometry": {"type": "Point", "coordinates": [6.14734,46.2424]},
+"properties": {"popupContent": "Chambésy"}
+},
+{"type": "Feature","id":"l9",
+"geometry": {"type": "Point", "coordinates": [6.14376,46.2014]},
+"properties": {"popupContent": "Genève, place de Neuve"}
+},
+{"type": "Feature","id":"l41",
+"geometry": {"type": "Point", "coordinates": [6.73169,46.5384]},
+"properties": {"popupContent": "Savigny"}
+},
+{"type": "Feature","id":"l115",
+"geometry": {"type": "Point", "coordinates": [6.92976,46.401]},
+"properties": {"popupContent": "Villeneuve, Route de Longefan 15"}
+},
+{"type": "Feature","id":"l102",
+"geometry": {"type": "Point", "coordinates": [6.1348,46.1966]},
+"properties": {"popupContent": "Genève, Rue des Bains"}
+},
+{"type": "Feature","id":"l83",
+"geometry": {"type": "Point", "coordinates": [6.87656,46.471]},
+"properties": {"popupContent": "St-Légier-Village"}
+},
+{"type": "Feature","id":"l138",
+"geometry": {"type": "Point", "coordinates": [6.44226,46.5225]},
+"properties": {"popupContent": "Bussy-Chardonney, Chemin de la Piaz 5"}
+},
+{"type": "Feature","id":"l17",
+"geometry": {"type": "Point", "coordinates": [6.09418,46.2211]},
+"properties": {"popupContent": "Cointrin"}
+},
+{"type": "Feature","id":"l165",
+"geometry": {"type": "Point", "coordinates": [6.67999,46.5243]},
+"properties": {"popupContent": "Belmont-sur-Lausanne, Route d'Arnier 40"}
+},
+{"type": "Feature","id":"l60",
+"geometry": {"type": "Point", "coordinates": [6.91223,46.6933]},
+"properties": {"popupContent": "Romont"}
+},
+{"type": "Feature","id":"l141",
+"geometry": {"type": "Point", "coordinates": [6.4332,46.5497]},
+"properties": {"popupContent": "Apples, En Crochet 1"}
+},
+{"type": "Feature","id":"l39",
+"geometry": {"type": "Point", "coordinates": [6.37087,46.7122]},
+"properties": {"popupContent": "Vallorbe"}
+},
+{"type": "Feature","id":"l103",
+"geometry": {"type": "Point", "coordinates": [6.16286,46.282]},
+"properties": {"popupContent": "Versoix, Chemin Louis-Dégallier 10"}
+},
+{"type": "Feature","id":"l10",
+"geometry": {"type": "Point", "coordinates": [6.12324,46.2337]},
+"properties": {"popupContent": "Grand-Saconnex"}
+},
+{"type": "Feature","id":"l153",
+"geometry": {"type": "Point", "coordinates": [7.08526,46.1111]},
+"properties": {"popupContent": "Martigny, Avenue des Grandes-Maresches"}
+},
+{"type": "Feature","id":"l31",
+"geometry": {"type": "Point", "coordinates": [6.89568,46.4656]},
+"properties": {"popupContent": "Blonay"}
+},
+{"type": "Feature","id":"l91",
+"geometry": {"type": "Point", "coordinates": [6.1494,46.2466]},
+"properties": {"popupContent": "Pregny-Chambésy, Chemin du Champ-de-Blé 31"}
+},
+{"type": "Feature","id":"l33",
+"geometry": {"type": "Point", "coordinates": [6.93388,46.9961]},
+"properties": {"popupContent": "Neuchâtel"}
+},
+{"type": "Feature","id":"l97",
+"geometry": {"type": "Point", "coordinates": [6.14837,46.1966]},
+"properties": {"popupContent": "Genève, Boulevard des Philosophes 24"}
+},
+{"type": "Feature","id":"l66",
+"geometry": {"type": "Point", "coordinates": [7.35849,46.2275]},
+"properties": {"popupContent": "Sion"}
+},
+{"type": "Feature","id":"l129",
+"geometry": {"type": "Point", "coordinates": [6.73378,46.5428]},
+"properties": {"popupContent": "Savigny, Route de Pré la Pierre 9"}
+},
+{"type": "Feature","id":"l57",
+"geometry": {"type": "Point", "coordinates": [7.14971,46.8029]},
+"properties": {"popupContent": "Fribourg"}
+},
+{"type": "Feature","id":"l171",
+"geometry": {"type": "Point", "coordinates": [6.87783,46.475]},
+"properties": {"popupContent": "Saint-Légier-La Chiésaz, Route du Tirage 37"}
+},
+{"type": "Feature","id":"l63",
+"geometry": {"type": "Point", "coordinates": [6.89856,46.5253]},
+"properties": {"popupContent": "Châtel-St-Denis"}
+},
+{"type": "Feature","id":"l105",
+"geometry": {"type": "Point", "coordinates": [6.0845,46.2235]},
+"properties": {"popupContent": "Meyrin, Rue Du Cardinal Journet 2"}
+},
+{"type": "Feature","id":"l13",
+"geometry": {"type": "Point", "coordinates": [6.10018,46.1835]},
+"properties": {"popupContent": "Onex"}
+},
+{"type": "Feature","id":"l148",
+"geometry": {"type": "Point", "coordinates": [6.91585,46.6942]},
+"properties": {"popupContent": "Romont, Route de la Belle-Croix 3"}
+},
+{"type": "Feature","id":"l51",
+"geometry": {"type": "Point", "coordinates": [6.38958,46.4927]},
+"properties": {"popupContent": "Aubonne"}
+},
+{"type": "Feature","id":"l127",
+"geometry": {"type": "Point", "coordinates": [6.36247,46.7092]},
+"properties": {"popupContent": "Vallorbe, Chemin du Toscane"}
+},
+{"type": "Feature","id":"l98",
+"geometry": {"type": "Point", "coordinates": [6.12996,46.2363]},
+"properties": {"popupContent": "Le Grand-Saconnex, Chemin des Manons 17"}
+},
+{"type": "Feature","id":"l84",
+"geometry": {"type": "Point", "coordinates": [6.77854,46.4811]},
+"properties": {"popupContent": "Chexbres-Village"}
+},
+{"type": "Feature","id":"l119",
+"geometry": {"type": "Point", "coordinates": [6.89799,46.4666]},
+"properties": {"popupContent": "Blonay, Route des Pléiades 19"}
+},
+{"type": "Feature","id":"l19",
+"geometry": {"type": "Point", "coordinates": [6.16566,46.2014]},
+"properties": {"popupContent": "Genève, gare Eaux-Vives"}
+},
+{"type": "Feature","id":"l35",
+"geometry": {"type": "Point", "coordinates": [6.64583,46.8093]},
+"properties": {"popupContent": "Grandson"}
+},
+{"type": "Feature","id":"l121",
+"geometry": {"type": "Point", "coordinates": [6.93556,46.9934]},
+"properties": {"popupContent": "Neuchâtel, Faubourg du Lac 31"}
+},
+{"type": "Feature","id":"l79",
+"geometry": {"type": "Point", "coordinates": [6.18973,46.1967]},
+"properties": {"popupContent": "Chêne-Bougeries"}
+},
+{"type": "Feature","id":"l154",
+"geometry": {"type": "Point", "coordinates": [7.36893,46.2289]},
+"properties": {"popupContent": "Sion, Rue De La Dixence 51"}
+},
+{"type": "Feature","id":"l145",
+"geometry": {"type": "Point", "coordinates": [7.14854,46.8051]},
+"properties": {"popupContent": "Fribourg, Avenue Jean-Gambach 20"}
+},
+{"type": "Feature","id":"l18",
+"geometry": {"type": "Point", "coordinates": [6.13939,46.1887]},
+"properties": {"popupContent": "Carouge, rue des Mouettes"}
+},
+{"type": "Feature","id":"l151",
+"geometry": {"type": "Point", "coordinates": [6.89964,46.5299]},
+"properties": {"popupContent": "Châtel-Saint-Denis, Route des Misets 40"}
+},
+{"type": "Feature","id":"l25",
+"geometry": {"type": "Point", "coordinates": [6.95472,46.2559]},
+"properties": {"popupContent": "Monthey"}
+},
+{"type": "Feature","id":"l101",
+"geometry": {"type": "Point", "coordinates": [6.10424,46.189]},
+"properties": {"popupContent": "Onex, Avenue du Gros-Chêne 30"}
+},
+{"type": "Feature","id":"l139",
+"geometry": {"type": "Point", "coordinates": [6.38883,46.4976]},
+"properties": {"popupContent": "Aubonne, Chemin des Philosophes 23"}
+},
+{"type": "Feature","id":"l5",
+"geometry": {"type": "Point", "coordinates": [6.55216,46.5498]},
+"properties": {"popupContent": "Bussigny-près-Lausanne, ch. du Grand-Record"}
+},
+{"type": "Feature","id":"l172",
+"geometry": {"type": "Point", "coordinates": [6.78392,46.4815]},
+"properties": {"popupContent": "Chexbres, Chemin du Champ Pâquis 33"}
+},
+{"type": "Feature","id":"l16",
+"geometry": {"type": "Point", "coordinates": [6.10778,46.2557]},
+"properties": {"popupContent": "Ferney-Voltaire, FR"}
+},
+{"type": "Feature","id":"l81",
+"geometry": {"type": "Point", "coordinates": [7.44015,46.9482]},
+"properties": {"popupContent": "Berne"}
+},
+{"type": "Feature","id":"l107",
+"geometry": {"type": "Point", "coordinates": [6.16131,46.2047]},
+"properties": {"popupContent": "Genève, Rue des Vollandes 21"}
+},
+{"type": "Feature","id":"l123",
+"geometry": {"type": "Point", "coordinates": [6.63534,46.8024]},
+"properties": {"popupContent": "Grandson, Port de Pécos"}
+},
+{"type": "Feature","id":"l167",
+"geometry": {"type": "Point", "coordinates": [6.18185,46.1956]},
+"properties": {"popupContent": "Chêne-Bougeries, Avenue Jacques-Martin 20"}
+},
+{"type": "Feature","id":"l4",
+"geometry": {"type": "Point", "coordinates": [6.31543,46.4661]},
+"properties": {"popupContent": "Tartegnin"}
+},
+{"type": "Feature","id":"l106",
+"geometry": {"type": "Point", "coordinates": [6.13595,46.1949]},
+"properties": {"popupContent": "Genève, Quai des Vernets"}
+},
+{"type": "Feature","id":"l113",
+"geometry": {"type": "Point", "coordinates": [6.95645,46.2608]},
+"properties": {"popupContent": "Monthey, Route des Aunaires 17"}
+},
+{"type": "Feature","id":"l37",
+"geometry": {"type": "Point", "coordinates": [6.24577,46.4887]},
+"properties": {"popupContent": "Marchissy, Village"}
+},
+{"type": "Feature","id":"l67",
+"geometry": {"type": "Point", "coordinates": [7.53266,46.2922]},
+"properties": {"popupContent": "Sierre"}
+},
+{"type": "Feature","id":"l59",
+"geometry": {"type": "Point", "coordinates": [7.18944,46.8502]},
+"properties": {"popupContent": "Düdingen"}
+},
+{"type": "Feature","id":"l56",
+"geometry": {"type": "Point", "coordinates": [6.94082,46.8208]},
+"properties": {"popupContent": "Payerne"}
+},
+{"type": "Feature","id":"l32",
+"geometry": {"type": "Point", "coordinates": [6.88402,46.9834]},
+"properties": {"popupContent": "Corcelles-Peseux"}
+},
+{"type": "Feature","id":"l21",
+"geometry": {"type": "Point", "coordinates": [6.20454,46.2538]},
+"properties": {"popupContent": "Collonge-Bellerive"}
+},
+{"type": "Feature","id":"l93",
+"geometry": {"type": "Point", "coordinates": [6.55942,46.5494]},
+"properties": {"popupContent": "Bussigny-près-Lausanne, Rue de Lausanne 93"}
+},
+{"type": "Feature","id":"l104",
+"geometry": {"type": "Point", "coordinates": [6.11177,46.2603]},
+"properties": {"popupContent": "Ferney-Voltaire, 3 Avenue des Sablonnières"}
+},
+{"type": "Feature","id":"l169",
+"geometry": {"type": "Point", "coordinates": [7.43373,46.9542]},
+"properties": {"popupContent": "Bern, Gesellschaftsstrasse 38"}
+},
+{"type": "Feature","id":"l92",
+"geometry": {"type": "Point", "coordinates": [6.31478,46.4687]},
+"properties": {"popupContent": "Tartegnin, Chemin de Chantemerle 2"}
+},
+{"type": "Feature","id":"l1",
+"geometry": {"type": "Point", "coordinates": [6.74675,46.8008]},
+"properties": {"popupContent": "Yvonand"}
+},
+{"type": "Feature","id":"l125",
+"geometry": {"type": "Point", "coordinates": [6.24207,46.4916]},
+"properties": {"popupContent": "Marchissy, Route des Montagnes 26"}
+},
+{"type": "Feature","id":"l155",
+"geometry": {"type": "Point", "coordinates": [7.53914,46.2928]},
+"properties": {"popupContent": "Sierre, Chemin des Collines 3"}
+},
+{"type": "Feature","id":"l147",
+"geometry": {"type": "Point", "coordinates": [7.19681,46.8544]},
+"properties": {"popupContent": "Düdingen, Riedlistrasse 43"}
+},
+{"type": "Feature","id":"l144",
+"geometry": {"type": "Point", "coordinates": [6.9409,46.8255]},
+"properties": {"popupContent": "Payerne, Avenue du Stade 25 "}
+},
+{"type": "Feature","id":"l120",
+"geometry": {"type": "Point", "coordinates": [6.89183,46.9851]},
+"properties": {"popupContent": "Peseux, Rue du Lac 16"}
+},
+{"type": "Feature","id":"l109",
+"geometry": {"type": "Point", "coordinates": [6.19736,46.2572]},
+"properties": {"popupContent": "Collonge-Bellerive, Chemin Château-de-Bellerive 56A"}
+},
+{"type": "Feature","id":"l74",
+"geometry": {"type": "Point", "coordinates": [6.17825,46.4087]},
+"properties": {"popupContent": "Gingins, poste"}
+},
+{"type": "Feature","id":"l58",
+"geometry": {"type": "Point", "coordinates": [7.15415,46.7791]},
+"properties": {"popupContent": "Marly"}
+},
+{"type": "Feature","id":"l89",
+"geometry": {"type": "Point", "coordinates": [6.74152,46.8042]},
+"properties": {"popupContent": "Yvonand, Ch. des pêcheurs 12"}
+},
+{"type": "Feature","id":"l2",
+"geometry": {"type": "Point", "coordinates": [6.05967,46.333]},
+"properties": {"popupContent": "Gex, FR"}
+},
+{"type": "Feature","id":"l82",
+"geometry": {"type": "Point", "coordinates": [6.18517,46.2193]},
+"properties": {"popupContent": "Cologny, mairie"}
+},
+{"type": "Feature","id":"l29",
+"geometry": {"type": "Point", "coordinates": [6.84856,46.5103]},
+"properties": {"popupContent": "Attalens, la Fin"}
+},
+{"type": "Feature","id":"l80",
+"geometry": {"type": "Point", "coordinates": [6.14504,46.164]},
+"properties": {"popupContent": "Troinex"}
+},
+{"type": "Feature","id":"l162",
+"geometry": {"type": "Point", "coordinates": [6.17634,46.4119]},
+"properties": {"popupContent": "Gingins, 9 La Vy-De-L'etraz"}
+},
+{"type": "Feature","id":"l146",
+"geometry": {"type": "Point", "coordinates": [7.14546,46.7787]},
+"properties": {"popupContent": "Marly, Route Ancienne Papeterie"}
+},
+{"type": "Feature","id":"l90",
+"geometry": {"type": "Point", "coordinates": [6.05689,46.3332]},
+"properties": {"popupContent": "Gex, 25 Passage de l'abondance"}
+},
+{"type": "Feature","id":"l61",
+"geometry": {"type": "Point", "coordinates": [7.0539,46.6193]},
+"properties": {"popupContent": "Bulle"}
+},
+{"type": "Feature","id":"l170",
+"geometry": {"type": "Point", "coordinates": [6.18838,46.2247]},
+"properties": {"popupContent": "Cologny, Chemin De Ruth 44"}
+},
+{"type": "Feature","id":"l117",
+"geometry": {"type": "Point", "coordinates": [6.85416,46.5075]},
+"properties": {"popupContent": "Attalens, Rue de la Jaqua 65"}
+},
+{"type": "Feature","id":"l168",
+"geometry": {"type": "Point", "coordinates": [6.1384,46.1553]},
+"properties": {"popupContent": "Bardonnex, Chemin d'Humilly 64"}
+},
+{"type": "Feature","id":"l69",
+"geometry": {"type": "Point", "coordinates": [6.59487,46.4014]},
+"properties": {"popupContent": "Evian-les-Bains, FR"}
+},
+{"type": "Feature","id":"l149",
+"geometry": {"type": "Point", "coordinates": [7.0622,46.6186]},
+"properties": {"popupContent": "Bulle, Rue de l'Ondine 20"}
+},
+{"type": "Feature","id":"l20",
+"geometry": {"type": "Point", "coordinates": [6.23888,46.1998]},
+"properties": {"popupContent": "Annemasse, FR"}
+},
+{"type": "Feature","id":"l157",
+"geometry": {"type": "Point", "coordinates": [6.58774,46.4003]},
+"properties": {"popupContent": "Évian-les-Bains, 86 Rue Nationale"}
+},
+{"type": "Feature","id":"l108",
+"geometry": {"type": "Point", "coordinates": [6.23695,46.1938]},
+"properties": {"popupContent": "Annemasse, 8 Rue Paul Bert"}
+},
+{"type": "Feature","id":"l70",
+"geometry": {"type": "Point", "coordinates": [6.48067,46.3688]},
+"properties": {"popupContent": "Thonon-les-Bains, FR"}
+},
+{"type": "Feature","id":"l28",
+"geometry": {"type": "Point", "coordinates": [6.91024,46.4357]},
+"properties": {"popupContent": "Montreux"}
+},
+{"type": "Feature","id":"l24",
+"geometry": {"type": "Point", "coordinates": [7.01447,46.2509]},
+"properties": {"popupContent": "Bex, place du marché"}
+},
+{"type": "Feature","id":"l38",
+"geometry": {"type": "Point", "coordinates": [6.2505,46.6245]},
+"properties": {"popupContent": "Le Rocheray"}
+},
+{"type": "Feature","id":"l158",
+"geometry": {"type": "Point", "coordinates": [6.47481,46.3727]},
+"properties": {"popupContent": "Thonon-les-Bains, 5 Boulevard de la Corniche "}
+},
+{"type": "Feature","id":"l116",
+"geometry": {"type": "Point", "coordinates": [6.90303,46.4398]},
+"properties": {"popupContent": "Montreux, Quai de Vernex"}
+},
+{"type": "Feature","id":"l73",
+"geometry": {"type": "Point", "coordinates": [6.13729,46.3536]},
+"properties": {"popupContent": "Divonne-les-Bains, FR"}
+},
+{"type": "Feature","id":"l112",
+"geometry": {"type": "Point", "coordinates": [7.0176,46.2539]},
+"properties": {"popupContent": "Bex, Chemin des Places 4"}
+},
+{"type": "Feature","id":"l62",
+"geometry": {"type": "Point", "coordinates": [7.07291,46.5829]},
+"properties": {"popupContent": "Gruyères"}
+},
+{"type": "Feature","id":"l126",
+"geometry": {"type": "Point", "coordinates": [6.24582,46.6199]},
+"properties": {"popupContent": "Le Chenit, Rue de l'Arcadie 32"}
+},
+{"type": "Feature","id":"l161",
+"geometry": {"type": "Point", "coordinates": [6.14185,46.3577]},
+"properties": {"popupContent": "Divonne-Les-Bains, Rue De La Fontaine 315"}
+},
+{"type": "Feature","id":"l150",
+"geometry": {"type": "Point", "coordinates": [7.07831,46.5783]},
+"properties": {"popupContent": "Gruyères, Route de Saussivue 47"}
+},
+{"type": "Feature","id":"l55",
+"geometry": {"type": "Point", "coordinates": [6.58342,46.6034]},
+"properties": {"popupContent": "Boussens"}
+},
+{"type": "Feature","id":"l68",
+"geometry": {"type": "Point", "coordinates": [6.80567,46.3922]},
+"properties": {"popupContent": "St-Gingolph, CH"}
+},
+{"type": "Feature","id":"l143",
+"geometry": {"type": "Point", "coordinates": [6.58812,46.6056]},
+"properties": {"popupContent": "Boussens, Chemin de la Chamberonne"}
+},
+{"type": "Feature","id":"l156",
+"geometry": {"type": "Point", "coordinates": [6.80288,46.3889]},
+"properties": {"popupContent": "Saint-Gingolph, Chemin de L'Herbette 23"}
+},
+{"type": "Feature","id":"l22",
+"geometry": {"type": "Point", "coordinates": [6.25759,46.3236]},
+"properties": {"popupContent": "Chens-sur-Léman-Tougues"}
+},
+{"type": "Feature","id":"l110",
+"geometry": {"type": "Point", "coordinates": [6.26292,46.3261]},
+"properties": {"popupContent": "Chens-sur-Léman, 667 Rue du Port"}
+},
+{"type": "Feature","id":"l40",
+"geometry": {"type": "Point", "coordinates": [6.75464,46.7037]},
+"properties": {"popupContent": "Thierrens, poste"}
+},
+{"type": "Feature","id":"l128",
+"geometry": {"type": "Point", "coordinates": [6.74321,46.7048]},
+"properties": {"popupContent": "Thierrens (Moudon), Vers La Scie 2"}
+},
+{"type": "Feature","id":"l23",
+"geometry": {"type": "Point", "coordinates": [6.89928,46.381]},
+"properties": {"popupContent": "Noville, poste"}
+},
+{"type": "Feature","id":"l111",
+"geometry": {"type": "Point", "coordinates": [6.90937,46.3835]},
+"properties": {"popupContent": "Noville, Route d'Evian 23"}
+},
+{"type": "Feature","id":"l34",
+"geometry": {"type": "Point", "coordinates": [6.58857,46.808]},
+"properties": {"popupContent": "Orges, Village"}
+},
+{"type": "Feature","id":"l122",
+"geometry": {"type": "Point", "coordinates": [6.58258,46.8042]},
+"properties": {"popupContent": "Orges, Mornens 1"}
+},
+{"type": "Feature","id":"l71",
+"geometry": {"type": "Point", "coordinates": [6.32459,46.3708]},
+"properties": {"popupContent": "Yvoire, FR"}
+},
+{"type": "Feature","id":"l159",
+"geometry": {"type": "Point", "coordinates": [6.31925,46.369]},
+"properties": {"popupContent": "Yvoire, chemin des marguerets"}
+}]
+}

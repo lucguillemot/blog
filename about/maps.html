@@ -1,0 +1,97 @@
+---
+layout: post
+title: Maps
+---
+<script>
+
+$(function() {
+    $(".nav-map > p >span").click(function(){
+        var id = $( this ).attr("id");
+        $(".nav-map #map-png").attr("src", "{{ site.baseurl }}/maps/france/"+id+".png");
+    })
+
+    $(".nav-map-pr > p >span").click(function(){
+        var id = $( this ).attr("id");
+        $(".nav-map-pr #map-png").attr("src", "{{ site.baseurl }}/maps/presidentielle/PRES2012-"+id+".png");
+    })
+    
+});
+</script>
+
+
+<p>On this page are a few past projects I did with the team at <a href="http://choros.epfl.ch/">Chôros Lab (EPFL)</a> in Lausanne. A map is the formalization of a space, a complex reality, into a human-readable image. The selective process of its construction implies the creation of a graphic story. I am specifically interested in making readable the urban pattern of political spaces. </p>
+
+<h4>The Urban Pattern in France</h4>
+<p>Socio-spatial characteristics of French population reveals levels of urbanity. Socio-spatial indicators are mapped at the communal level using a population cartogram. Most indicators make obvious the urban pattern covering the entire territory of France. City centers almost always contrast with their suburbs and hinterlands. The use of cartograms make their specific urbanity readable.
+
+These maps have been published in Jacques Lévy's <i><a href="http://www.amazon.fr/R%C3%A9inventer-France-Trente-nouvelle-g%C3%A9ographie/dp/2213671974/ref=sr_1_1?ie=UTF8&qid=1450072574&sr=8-1&keywords=r%C3%A9inventer+la+france">Réinventer la France</a></i>.</p>
+<div class="nav-map">
+	<p><span class="index-map" id="01">Wealth</span>
+	<span class="index-map" id="02">Education</span>
+	<span class="index-map" id="03">Laborers</span>
+	<span class="index-map" id="04">Active Population</span>
+	<span class="index-map" id="05">Tourism</span>
+	<span class="index-map" id="06">Gender equality</span>
+	<span class="index-map" id="07">Bachelors</span>
+	<span class="index-map" id="08">Car-free households</span>
+	<span class="index-map" id="09">Urban zoning</span></p>
+
+	<img id="map-png" src="{{ site.baseurl }}/maps/france/01.png" alt="Urban France">
+</div>
+
+<h4>2012 US Election</h4>
+<p>This map is part of an analysis of US 2012 general election that depicts the urban network of Barack Obama electoral body: city centers lean more democratic than their outskirts and suburbs.</p>
+<a href="{{ site.baseurl }}/maps/us2012.pdf"><img src="{{ site.baseurl }}/maps/us2012.png"></a>
+<p>Spatial characteristics are more relevant than socio-economic features to distinguish Romney and Obama’s electoral bodies. A cartographic representation at county level that uses a population cartogram as a base map makes the opposition between both geographies obvious. As in 2008, big cities and other places interfacing with the outside world favored Barack Obama, whereas outskirts and small cities primarily voted for Mitt Romney. </p>
+<p>This spatial dichotomy is not surprising considering the parties’ opposing views on the idea of society: whilst the Democrats support the idea of a society of individuals linked by solidarity, the Republicans remain based on the idea of communal groups knit by conservative norms. Obama’s geography, as well as the reforms he carried out as president, show that he is the candidate for those who reject the moral order supported by the Republicans and those who want to establish post-communitarianism in the United States of America.</p>
+<p>This article has been written with Jacques Lévy and has been published in the journal <a target="_blank" href="http://www.espacestemps.net/en/articles/lespace-obama-2/">espaces-temps.net</a>.
+
+
+<h4>A Dynamic Mapping of Time Accessibility</h4>
+<p><a target="_blank" href="{{ site.baseurl }}/maps/cs-1.3/">Commuting Scales</a> is an interactive map depicting the commuters space of Lausanne University Campus, using several metrics.</p>
+<img class="img-responsive" src="{{ site.baseurl }}/maps/cs-1.3/cs.png" alt="Commuting Scales">
+<p>
+Visualization tools are crucial to facilitate access to complex spatial phenomenon. This is what the application “Commuting Scales” aims at demonstrating. As an example of such a complex phenomenon, the addressed question is that of the commuters’ space of the university campus of Lausanne, Switzerland. Dealing with traveling times and mobility choices through a day, the application aims at defining which are the scales and metrics of the space that the many users of the campus cover every day.</p>
+<p>To reach this purpose, two main geographic metrics are used : that of the euclidean space and that of the time space. The produced images display an objective piece of information : time travel between two places. They are meant to set off a discussion on more complex and subjective features of mobility, such as perceived time, wellbeing, travel costs, etc. By changing the content of the cartographic analogy, it aims at giving to the map its inherent heuristic power, which consists in making readable a complex space, and giving a space to look at, in order to understand the role of topologic transportation systems, the role of distance or the motivations of users.</p>
+<p>Public policies regarding mobility emphasize the need of a modal shift from car transportation to public transit. Campus commuters use significantly more public transportation than car, which constitutes a first unordinary situation in Switzerland.</p>
+<p>The application Commuting Scales shows that, considering travel times, there is a huge gap between the two transportation means, in favour of car transportation, which constitutes a second paradoxical situation. This gap is mainly due to public transit’s low frequencies. Changing the content of the cartographic analogy allows different visualizations to facilitate the depiction of these issues, and raises the idea that mapping a space participate to its creation by emphasizing its paradox. The cartographic application gives a new base ground for debate on mobility. It raises in particular the idea that mobility is not just about travel time but faces other challenges.</p>
+<p>The “modal shift” towards pubic transit is already accomplished for the biggest part of commuters, despite the advantage of car transportation. The majority of these commuters may be students, who are not the richest part of the population. But here is a hiatus that should be the starting point of public policies design. The idea that car is still rooted in young swiss citizens lifestyles is outdated. Public policies are ambiguous because they encourage people to use a less efficient mobility mean, when they should acknowledge  the fact that this “modal shift” is accomplished and should improve the efficiency of public transportation to prevent students from returning to car transportation.</p>
+<p>This application is a common work with Boris beaude. The application is powered with <a target="_blank" href="http://d3js.org/">d3.js</a>, <a target="_blank" href="http://www.mapbox.com/">Mapbox</a>, <a target="_blank" href="http://jquery.com/">JQuery</a> and <a target="_blank" href="http://jqueryui.com/">JQueryUI</a>. It can be viewed <a target="_blank" href="{{ site.baseurl }}/maps/cs-1.3/">here</a>. Data have been crawled from the CFF (Swiss federal railway agency) and TomTom websites.</p>  
+
+<h4>2012 Presidential Election in France</h4>
+<a href="{{ site.baseurl }}/maps/presidentielle/120425-LeMonde.pdf"><img width="300px" src="{{ site.baseurl }}/maps/presidentielle/120425-LeMonde.png"></a>
+<a href="{{ site.baseurl }}/maps/presidentielle/120426-LeMonde.pdf"><img width="300px" src="{{ site.baseurl }}/maps/presidentielle/120426-LeMonde.png"></a>
+<p>Vote casts in 2012 French presidential election follow an urban pattern. The map of the far-right party “Front national” (Marine Le Pen) emphacizes the prevalence of suburbs in the contribution to its good results. The immigration rate at the municipal level is spatially non correlated to municipalities where the National Front scores: city centers have the greatest immigration rate and the lowest far-right votes, Paris in particular. This observation is also valid regarding the “blank votes” map that underlines the prevalence of suburbs in the expression of an anti-establishment vote.</p>
+<p>Some of these maps have been published in the newspaper <i>Le Monde</i> the day after the election.</p>
+<p>These maps have been realized with Chôros Lab. cartographic Center (Elsa Chavinier, Jacques Lévy, Boris Beaude and Manouk Borzakian).</p>  
+<div class="nav-map-pr">
+	<p>First round : 
+	<span class="index-map" id="01">Marine Le Pen</span>
+	<span class="index-map" id="02">Migrants</span>
+	Second round : 
+	<span class="index-map" id="03">François Hollande</span>
+	<span class="index-map" id="04">Nicolas Sarkozy</span>
+	<span class="index-map" id="05">Abstention</span>
+	<span class="index-map" id="06">Blank Votes</span>
+	</p>  	
+  	<img id="map-png" src="{{ site.baseurl }}/maps/presidentielle/PRES2012-01.png" alt="French 2012 presidential election">
+</div>
+
+<h4>Little Big City</h4>
+<p>These panels are part of an exhibition performed at the 2010 Biennale for Architecture, Design and Urbanism in Bordeaux, France. Millionnaire cities and their role in globalization were the addressed questions. I produced this exhibition together with Elsa Chavinier, Jacques Lévy and Boris Beaude and the architecture bureau <a href="http://www.laucparis.com/">l'AUC</a>.</p>
+<img src="{{ site.baseurl }}/maps/littlebigcity/LBC_PANO.jpg" alt="Little Big City">
+<a href="{{ site.baseurl }}/maps/littlebigcity/LBC1.pdf"><img src="{{ site.baseurl }}/maps/littlebigcity/LBC1.jpg" alt="Little Big City"></a>
+<a href="{{ site.baseurl }}/maps/littlebigcity/LBC2.pdf"><img src="{{ site.baseurl }}/maps/littlebigcity/LBC2.jpg" alt="Little Big City"></a>
+<a href="{{ site.baseurl }}/maps/littlebigcity/LBC3.pdf"><img src="{{ site.baseurl }}/maps/littlebigcity/LBC3.jpg" alt="Little Big City"></a>
+<a href="{{ site.baseurl }}/maps/littlebigcity/LBC4.pdf"><img src="{{ site.baseurl }}/maps/littlebigcity/LBC4.jpg" alt="Little Big City"></a>
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,209 @@
+
+<!DOCTYPE html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="description" content="Content" />
+	<meta name="keywords" content="keywords" />
+	<title>Commuting Scales 1.3</title>
+	<style>
+		body { margin:0; padding:0; }
+		#map { position:absolute; top:0; bottom:0; width:100%; }
+  	</style>
+	<link type="text/css" href="js/jquery-ui/css/smooth/jquery-ui-1.8.17.custom.css" rel="stylesheet" />
+	<link href='css/styles.css' rel='stylesheet' type='text/css' />
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,700' rel='stylesheet' type='text/css'>
+    <script type="text/javascript" src="js/polymaps/polymaps.min.js"></script>
+	<script type="text/javascript" src="js/jquery-ui/js/jquery-1.7.1.min.js"></script>
+	<script type="text/javascript" src="js/jquery-ui/js/jquery-ui-1.8.17.custom.min.js"></script>
+	<script src='https://api.tiles.mapbox.com/mapbox.js/v2.1.4/mapbox.js'></script>
+	<link href='https://api.tiles.mapbox.com/mapbox.js/v2.1.4/mapbox.css' rel='stylesheet' />
+  	<script src='http://d3js.org/queue.v1.min.js'></script>
+	<script type="text/javascript" src="js/d3/d3.min.js"></script>
+	<script type="text/javascript" src="js/d3/d3.time.js"></script>
+	
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script src="http://d3js.org/topojson.v1.min.js"></script>
+
+	<script type="text/javascript" src="js_cs/variables.js"></script>
+	<script type="text/javascript" src="js_cs/draw.js"></script>
+	<script type="text/javascript" src="js_cs/draw_map.js"></script>
+	<script type="text/javascript" src="js_cs/draw_typology.js"></script>
+	<script type="text/javascript" src="js_cs/draw_histogram.js"></script>
+	<script type="text/javascript" src="js_cs/interface.js"></script>
+	<script type="text/javascript" src="js_cs/interface_typology.js"></script>
+	<script type="text/javascript" src="js_cs/interface_topology.js"></script>
+	<script type="text/javascript" src="js_cs/interface_map.js"></script>
+	<script type="text/javascript" src="js_cs/functions.js"></script>
+	<script type="text/javascript" src="js_cs/functions_topology.js"></script>
+	<script type="text/javascript" src="js_cs/functions_typology.js"></script>
+	
+	<script type="text/javascript">
+
+	$(function() {
+		
+			draw_map();
+			setTimeout(draw, 2000);
+			draw_histogram();
+		
+    		$("#CS").show();
+     }); 
+
+	</script>
+</head>
+<body>
+    
+	<div id="wrapper">
+		<div id="header">
+			<div id="modes_options">
+				<!-- Choix du mode de transport -->
+				<img src="images/tp.png"/><span class="modes_texte choix_mode active" id="tp" value="tp" >Public Transportation</span>
+				<img src="images/voiture.png"/><span class="modes_texte choix_mode" id="voit" value="voiture">Car</span>
+				<img src="images/min.png"/><span class="modes_texte choix_mode" id="minimum" value="minimum">Lowest Time</span>
+				<span id="park_box">
+					<span class="modes_texte" id="tps_parking">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Parking time &nbsp;&nbsp;&nbsp;</span>
+					<span id="slider_park"></span>
+					<span class="modes_texte parking_texte" value="5" id="park_txt">&nbsp;&nbsp;&nbsp;5 minutes</span>
+				</span>
+			</div>
+			<nav>
+				<ul>
+					<li id="li_to_dynamic" class="active"><a id="to_dynamic" href="#">Dynamic</a></li>
+					<li id="li_to_static" ><a id="to_static" href="static.php">Static</a></li>
+					<li id="li_to_about" ><a id="to_about" href="#">About</a></li>
+					<li id="li_to_contact" ><a id="to_contact" href="#">Contact</a></li>
+				</ul>
+			</nav>
+		</div> 	
+		
+		<div id="vue_topologie">
+			<svg id="topologie" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="635" height="470" viewbox="0 0 635 470"></svg>
+			<span id="zooms">
+				<img src="icones/white/sq_plus_icon&16.png" alt="+" id='zoomPlus' value='zoomPlus'>
+				<img src="icones/white/sq_minus_icon&16.png" alt="+" id='zoomMoins' value='zoomMoins'>
+			</span>
+			<span id="affichages">
+				<span id="drawSortedWheel" value="sortedWheel">Increasing Order</span>
+				<span id="drawGeoWheel" value="geoWheel" class="active">Cardinal Order</span>
+				<span id="drawLine" value="drawLine">Linear</span>
+			</span>
+		</div>
+		
+		<div id="vue_typologie">
+			<svg id="typologie" xmlns="http://www.w3.org/2000/svg" width="640" height="600"></svg>
+			<span id="typologie_choix_periode">
+				<span id="work" value="work" class="active">Working Time</span>
+				<span id="day" value="day">Day Time</span>
+				<span id="all" value="all">All Day</span>
+				<span id="weighting" value="weighting"><b>Weighting</b></span>
+			</span>
+		</div>
+		
+		<div id="typologie_indicateurs">
+			<img id="typo_i_exit" src="icones/white/round_delete_icon&16.png" alt="exit">
+			<span id="typologie_choices">
+				<span id="tc_car">Car</span>
+				<span id="tc_tp">PT</span>
+				<span id="tc_both" class="active">Both</span>
+				<span id="tc_separate">-</span>
+				<span id="tc_delta">MSDA</span>
+				<span id="tc_d_15">15mn</span>
+				<span id="tc_d_30">30 mn</span>
+				<span id="tc_d_60">60 mn</span>
+				<span id="tc_all" class="active">all</span>
+			</span>
+			<span id="typologie_position">
+				<span id="t_left">Left</span>
+				<span id="t_right">Right</span>
+			</span>
+			<div class="typo_i_titre">Distance-related Indicators</div>
+			<ul id="typo_i_distance">
+				<li class="typo_i_label"><span class="typologie_slider" id="slider_km"></span>&nbsp;&nbsp;&nbsp;kilometers</li>
+				<li class="typo_i_label"><span class="typologie_slider" id="slider_tps_moy_tp"></span>&nbsp;&nbsp;&nbsp;Average Time Using Public Transportation</li>
+				<li class="typo_i_label"><span class="typologie_slider" id="slider_tps_moy_v"></span>&nbsp;&nbsp;&nbsp;Average Time Using Private Car</li>
+			</ul>
+				
+			<div class="typo_i_titre">Regularity-related Indicators</div>  <!-- Fréquence des transports publics + embouteillages -->
+			<ul>
+				<li class="typo_i_label"><span class="typologie_slider" id="slider_ectyp_tp"></span>&nbsp;&nbsp;&nbsp;Public Transportation's Travel Time Standard Deviation</li>
+				<li class="typo_i_label"><span class="typologie_slider" id="slider_ectyp_v"></span>&nbsp;&nbsp;&nbsp;Car's Travel Time Standard Deviation</li>
+				<li class="typo_i_label"><span class="typologie_slider" id="slider_amplitude_tp"></span>&nbsp;&nbsp;&nbsp;Public Transportation's Travel Time Range</li>
+				<li class="typo_i_label"><span class="typologie_slider" id="slider_amplitude_v"></span>&nbsp;&nbsp;&nbsp;Car's Travel Time Range</li>
+				<li class="typo_i_label"><span class="typologie_slider" id="slider_moy_ectypmob_tp_1h"></span>&nbsp;&nbsp;&nbsp;Moving Standard Deviation Average (1hour) PT</li>
+				<li class="typo_i_label"><span class="typologie_slider" id="slider_moy_ectypmob_tp_30m"></span>&nbsp;&nbsp;&nbsp;Moving Standard Deviation Average (30 minutes) PT</li>
+				<li class="typo_i_label"><span class="typologie_slider" id="slider_moy_ectypmob_tp_15m"></span>&nbsp;&nbsp;&nbsp;Moving Standard Deviation Average (15 minutes) PT</li>
+				<li class="typo_i_label"><span class="typologie_slider" id="slider_moy_ectypmob_v_1h"></span>&nbsp;&nbsp;&nbsp;Moving Standard Deviation Average (1 hour) - Car</li>
+				<li class="typo_i_label"><span class="typologie_slider" id="slider_moy_ectypmob_v_30m"></span>&nbsp;&nbsp;&nbsp;Moving Standard Deviation Average (30 minutes) - Car</li>
+				<li class="typo_i_label"><span class="typologie_slider" id="slider_moy_ectypmob_v_15m"></span>&nbsp;&nbsp;&nbsp;Moving Standard Deviation Average (15 minutes) - Car</li>
+			</ul>
+		</div>
+		
+		<div id="switch">
+			<span id="switch_typologie">Typology</span><span id="switch_topologie" class="active">Topology</span>
+		</div>
+			
+		<div id="vue_euclidien">
+			<div id="map"></div>
+		<!--
+<span id="euclidien_zooms">
+				<img src="icones/white/sq_plus_icon&16.png" alt="+" id='e_zoomPlus' value='zoomPlus'>
+				<img src="icones/white/sq_minus_icon&16.png" alt="+" id='e_zoomMoins' value='zoomMoins'>
+			</span>
+-->
+		</div>
+
+		<div id="legend_map">
+			<img src="images/gradient_tp.png" id="gradient_tp">
+			<img src="images/gradient_voiture.png" id="gradient_voiture">
+			<img src="images/gradient_mini.png" id="gradient_mini">
+		</div>
+
+		<div id="barre_select_or_not">
+			<div id="select_or_not">
+				<span id="to_selected_place">Place Selected</span>
+				<span id="to_all_places" class="active">All Places</span>
+			</div>
+		</div>
+		
+		<div id="histogram">
+			<svg id="svg_histogram" xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink" width="1270" height="118" viewbox="0 0 1270 118">
+			</svg>
+		</div>
+	
+		<div id="vue_chronologie">
+			<div id="slider_time"></div>
+			<svg id="slider_axe" xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink" width="1270" height="10" viewbox="0 0 1270 10"></svg>
+		</div>
+
+		<div id="controles">
+			<span id="controles_dynamique">
+				<span id="play_stop">
+					<img id="b_play" border="0" src="icones/white/playback_play_icon&16.png" alt="Play">
+					<img id="b_stop" border="0" src="icones/white/playback_pause_icon&16.png" alt="Stop">
+				</span>
+				<span id="step" class="controles_texte">Step &nbsp;&nbsp;&nbsp;</span>
+				<span id="slider_step"></span>
+				<span value="5" id="step_txt" class="controles_texte">&nbsp;&nbsp;&nbsp;5 minutes</span>
+			</span>
+			<span id="infos">
+				<span id="affichage_lieu" class="infos_texte">All places</span>
+				<span id="h_txt" class="infos_texte"></span>
+				<span id="duree_courante" class="infos_texte">0</span><span class="infos_texte">minutes</span>
+			</span>
+		</div>
+		
+		<span id="about" class="infos_box">
+			<img id="close_about" src="icones/white/round_delete_icon&16.png" alt="exit">
+			<p>Visualization tools can facilitate access to complex spatial phenomenon. This access is what the application to be presented aims at. </p>
+<p>As a case study to such a complex phenomenon, the addressed question is that of the commuters' space of the Swiss federal institute of technologies (EPFL). Dealing with traveling times and mobility choices over a week day, the application aims at defining which is the scale of this space: the space that the many users of EPFL cover every day.</p>
+<p>To reach this purpose, two main cartographic metrics are used : that of the euclidean space and that of the time space. The multiplication of different ways of visualizing the same set of data intends to show the complexity of this phenomenon that can be summarized in ''commuters' space'' but that is actually very complex, as the maps and dynamic visualizations produced attempt to depict. By changing the content of the cartographic analogy, they aim at giving to the map its inherent heuristic power, which consists in making readable a complex space, and giving a space to look at, in order to understand the role of topologic transportation systems, the role of distance and the motivations of users.</p>
+		</span>
+		
+		<span id="contact" class="infos_box">
+			<img id="close_contact" src="icones/white/round_delete_icon&16.png" alt="exit">
+			<p><b><a href="http://people.epfl.ch/boris.beaude">Boris Beaude</a></b><br>boris.beaude[at]epfl.ch</p>
+			<p><b><a href="http://people.epfl.ch/luc.guillemot">Luc Guillemot</a></b><br>luc.guillemot[at]epfl.ch</p>
+			<p><b><a href="http://choros.epfl.ch/">Chôros Lab</a></b>, EPFL, Lausanne</p>
+		</span>    	
+	</div>	
+</body>
+</html>

@@ -1,0 +1,110 @@
+body {
+	background-color: white;
+	margin: 0; 
+    padding: 0; 
+    padding-top: 10px;
+    text-align: center; 
+    color:black;
+    display: inline;
+}
+
+#wrapper
+{ 
+ width: 1280px;
+ text-align: left;
+ border: 0px;
+ padding: 0;  
+ margin: 0 auto; 
+} 
+
+
+button {
+  font: 14px Helvetica Neue;
+  background-color: #222;
+  background-image: -moz-linear-gradient(top, rgba(255,255,255,.25), rgba(255,255,255,.11));
+  background-image: -webkit-gradient(linear,left top,left bottom,color-stop(0, rgba(255,255,255,.25)),color-stop(1, rgba(255,255,255,.11)));
+  background-image: -webkit-linear-gradient(rgba(255,255,255,.25), rgba(255,255,255,.11));
+  color: #fff;
+  text-rendering: optimizeLegibility;
+  text-shadow: 0 -1px 1px #222;
+  padding: 6px 10px 6px 10px;
+  border: 0;
+  border-radius: 0;
+  border-bottom: 1px solid #222;
+  margin: 0;
+  -moz-box-shadow: 0 1px 3px #999;
+  -webkit-box-shadow: 0 1px 3px #999;
+}
+
+button.first {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+button.last {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+
+button.active {
+  background-color: rgb(65,102,133);
+}
+
+button:hover {
+  background-color: steelblue;
+}
+
+
+.bullet { font: 10px sans-serif; }
+.bullet .marker { stroke: #000; stroke-width: 2px; }
+.bullet .tick line { stroke: #666; stroke-width: .5px; }
+.bullet .range.s0 { fill: #eee; }
+.bullet .range.s1 { fill: #ddd; }
+.bullet .range.s2 { fill: #ccc; }
+.bullet .measure.s0 { fill: lightsteelblue; }
+.bullet .measure.s1 { fill: steelblue; }
+.bullet .title { font-size: 14px; font-weight: bold; }
+.bullet .subtitle { fill: #999; }
+
+
+
+.rule line.axis {
+  stroke: #fff;
+}
+
+.line {
+  fill: none;
+  stroke: #bbb;
+  opacity: 0.4;
+  stroke-width: 1px;
+  z-index: 1;
+}
+
+.line_tt {
+  fill: none;
+  stroke: #bbb;
+  stroke-width: 3px;
+}
+
+.circle {
+	cursor: pointer;
+	z-index: 2;
+}
+
+.abcisse {
+  fill: none;
+  stroke: #333;
+  stroke-width: 2px;
+}
+
+text  {
+	font-size: 7px;
+	font-family: sans-serif;
+	color: #000;
+
+}
+
+.title {
+	color: #fff;
+}
+
