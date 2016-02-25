@@ -4,18 +4,365 @@ title: San Francisco Ballot Propositions Maps
 img: sf2015
 ---
 <!DOCTYPE html>
-<html>
-<body>
+<meta charset="utf-8">
+<style type="text/css">
+  @font-face {
+    font-family: 'cmu_typewriter_textregular';
+    src: url('{{ site.baseurl }}/css/font/cmuntt-webfont.eot');
+    src: url('{{ site.baseurl }}/css/font/cmuntt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('{{ site.baseurl }}/css/font/cmuntt-webfont.woff2') format('woff2'),
+         url('{{ site.baseurl }}/css/font/cmuntt-webfont.woff') format('woff'),
+         url('{{ site.baseurl }}/css/font/cmuntt-webfont.ttf') format('truetype'),
+         url('{{ site.baseurl }}/css/font/cmuntt-webfont.svg#cmu_typewriter_textregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+  }
+/*  body {
+    font-family: "cmu_typewriter_textregular";
+    font-size: 12px;
+  }*/
 
-<iframe src="http://bl.ocks.org/lucguillemot/raw/cb0a483b5bc0c42184a5/" marginwidth="0" marginheight="0" scrolling="no" frameBorder="0" width="660" height="450"></iframe>
+  svg {
+    position: relative;
+    font-family: "cmu_typewriter_textregular";
+  }
+
+  .ballotDescription {
+    position:relative;
+    width: 200px;
+    top:110px;
+    left:438px;
+    font-size: 13px;
+  }
+  .hoods {
+    fill:none;
+    stroke-width:.3px;
+    stroke:#fff;
+  }
+  .legend > text {
+    dominant-baseline:central;
+    text-anchor:middle;
+    font-size: 11px;
+  }
+
+  .propSelection > text {
+    font-size: 15px;
+    cursor: pointer;
+  }
+  .propSelection > text:hover {
+    fill:#a7a7a7;
+  }
+
+  .PrctDistCircle {
+    fill-opacity:.2;
+   /* stroke:#000;
+    stroke-width:.1px;*/
+  }
+
+</style>
+<body>
+<script>
+$(function(){
+  var width = 660,
+      height = 450,
+      legend_width = 200,
+      divisions = 100,
+      SelectedBallot = "A",
+      ballotsDescr = {"A":"<b>Proposition A:</b> </br>City of San Francisco Housing Bond Issue","B":"<b>Proposition B:</b> </br>City of San Francisco Paid Parental Leave for City Employees","C":"<b>Proposition C:</b> </br>City of San Francisco Registration Fee and Monthly Reports for Expenditure Lobbyists","D":"<b>Proposition D:</b> </br>City of San Francisco Mission Rock Development Initiative","E":"<b>Proposition E:</b> </br>City of San Francisco Requirements For Public Meetings of Local Policy Bodies Initiative","F":"<b>Proposition F:</b> </br>City of San Francisco Initiative to Restrict Short-Term Rentals","G":"<b>Proposition G:</b> </br>City of San Francisco \"Disclosures Regarding Renewable Energy\" Initiative","H":"<b>Proposition H:</b> </br>City of San Francisco Referred Measure Defining \"Clean, Green and Renewable Energy\"","I":"<b>Proposition I:</b> </br>City of San Francisco Mission District Housing Moratorium Initiative","J":"<b>Proposition J:</b> </br>City of San Francisco Legacy Business Historic Preservation Fund","K":"<b>Proposition K:</b> </br>City of San Francisco Housing Development on Surplus Public Lands"};
+
+  var svg = d3.select("#map").append("svg").attr("width", width).attr("height", height),
+      legend = svg.append("g").attr("class", "legend").attr("transform", "translate(430,300)"),
+      prop = svg.append("g").attr("class", "propSelection").attr("transform", "translate(430,30)");
+ var projection = d3.geo.mercator()
+        .center([-122.3871, 37.7729])
+        .scale(140000)
+        .translate([width/2, height/2]);
+
+  var EqualColor = "#f7f7f7",
+      YesColorMax = "#2d004b",
+      NoColorMin = "#673006";
+  // var EqualColor = "#f7f7f7",
+  //     YesColorMax = "#276419",
+  //     NoColorMin = "#8e0152";
+
+  var path = d3.geo.path().projection(projection);
+
+  queue()
+      .defer(d3.json, "{{ site.baseurl }}/geo/SF2015/SFprecincts.json")
+      .defer(d3.json, "{{ site.baseurl }}/geo/SF2015/SFhoods.json")
+      .defer(d3.csv, "{{ site.baseurl }}/geo/SF2015/prop"+SelectedBallot+".csv")
+      .await(ready);
+
+  function ready(error, map, hoods, data) {
+    var PercById = {},
+        WinnerById = {};
+
+    data.forEach(function(d) {
+        PercById[d.PrecinctID] = +d.Perc;
+        WinnerById[d.PrecinctID]=d.Win;
+    });
+
+    // I use the same maximum value for 'Yes' and 'No' to have an equal color scale on both sides
+    var YesNoMax = d3.max(data, function(d){return d.Perc;});
+
+    var YesColor = d3.scale.linear()
+        .range([EqualColor, YesColorMax])
+        .domain([0.5,YesNoMax])
+        .interpolate(d3.interpolateLab);
+    var NoColor = d3.scale.linear()
+        .range([EqualColor, NoColorMin])
+        .domain([0.5,YesNoMax])
+        .interpolate(d3.interpolateLab);
+
+    svg.append("g")
+        .attr("class", "precinct")
+        .selectAll("path")
+        .data(topojson.feature(map, map.objects.precincts).features)
+        .enter().append("path")
+        .attr("d", path)
+        .style("fill", function(d) {
+          if (WinnerById[d.properties.Pid]=="Yes"){
+            return YesColor(PercById[d.properties.Pid]); 
+          }
+          else {
+            return NoColor(PercById[d.properties.Pid]); 
+          }
+        });
+
+    svg.append("g")
+        .attr("class", "hoods")
+        .selectAll("path")
+        .data(topojson.feature(hoods, hoods.objects.hoods).features)
+        .enter().append("path")
+        .attr("d", path);
+
+    // LEGEND //////////////////////////////////////////////
+    var fakeData = [];
+    var rectWidth = Math.floor(legend_width / divisions);
+
+    for (var i=0; i < legend_width/2; i+= rectWidth ) {
+        fakeData.push(i);
+    }
+
+    var YesColorScaleLegend = d3.scale.linear()
+          .domain([0, fakeData.length-1])
+          .interpolate(d3.interpolateLab)
+          .range([EqualColor, YesColorMax]);
+    var NoColorScaleLegend = d3.scale.linear()
+          .domain([fakeData.length-1,0])
+          .interpolate(d3.interpolateLab)
+          .range([EqualColor, NoColorMin]);
+    var PrctDistScale = d3.scale.linear()
+          .domain([0.5,YesNoMax])
+          .range([0,legend_width/2]);
+
+    var YesLegend = legend.append("g").attr("class", "YesLegend").attr("transform", "translate("+(legend_width/2)+",0)"),
+        NoLegend = legend.append("g").attr("class", "NoLegend"),
+        PrctDist = legend.append("g").attr("class", "NoLegend"); // Chart with the distribution of precincts.
+
+    YesLegend.selectAll("rect")
+        .data(fakeData)
+        .enter()
+        .append("rect")
+            .attr("x", function(d) { return d; })
+            .attr("y", 10)
+            .attr("height", 10)
+            .attr("width", rectWidth)
+            .attr("fill", function(d, i) { return YesColorScaleLegend(i)});
+    
+    NoLegend.selectAll("rect")
+        .data(fakeData)
+        .enter()
+        .append("rect")
+            .attr("x", function(d) { return d; })
+            .attr("y", 10)
+            .attr("height", 10)
+            .attr("width", rectWidth)
+            .attr("fill", function(d, i) { return NoColorScaleLegend(i)});
+
+    legend.append("text").text("YES").attr("transform", "translate("+(legend_width)+",-13)");
+    legend.append("text").text("NO").attr("transform", "translate(0,-10)");
+    legend.append("text").text(function(){return (0.5*100).toFixed(0);}).attr("transform","translate("+(legend_width/2)+",30)");
+    legend.append("text").attr("class", "YesNoMax1").text(function(){return (YesNoMax*100).toFixed(0);}).attr("transform","translate(0,30)");
+    legend.append("text").attr("class", "YesNoMax2").text(function(){return (YesNoMax*100).toFixed(0)+"%";}).attr("transform","translate("+(legend_width)+",30)");
+
+    
+
+    // Distribution chart
+    PrctDist.selectAll("circle")
+        .data(data)
+        .enter()
+        .append("circle")
+            .attr("class", "PrctDistCircle")
+            .attr("cx",function(d){
+                if (d.Win=="Yes"){
+                  return legend_width/2+PrctDistScale(d.Perc); 
+                }
+                else {
+                  return legend_width/2-PrctDistScale(d.Perc); 
+                }
+            })
+            .attr("cy",0)
+            .attr("r", 2)
+            .style("fill", function(d){
+                if (d.Win=="Yes"){
+                  return YesColor(d.Perc); 
+                }
+                else {
+                  return NoColor(d.Perc); 
+                }
+            });
+  };
+
+  function update_map(propLetter) {    
+      queue()
+      .defer(d3.json, "{{ site.baseurl }}/geo/SF2015/SFprecincts.json")
+      .defer(d3.json, "{{ site.baseurl }}/geo/SF2015/SFhoods.json")
+      .defer(d3.csv, "{{ site.baseurl }}/geo/SF2015/prop"+propLetter+".csv")
+          .await(readyTransition);
+  };
+
+  function readyTransition(error, map, hoods, data) {
+    var PercById = {},
+        WinnerById = {};
+
+    data.forEach(function(d) {
+        PercById[d.PrecinctID] = +d.Perc;
+        WinnerById[d.PrecinctID]=d.Win;
+    });
+
+    var YesNoMax = d3.max(data, function(d){return d.Perc;});
+
+    var YesColor = d3.scale.linear()
+        .range([EqualColor, YesColorMax])
+        .domain([0.5,YesNoMax])
+        .interpolate(d3.interpolateLab);
+    var NoColor = d3.scale.linear()
+        .range([EqualColor, NoColorMin])
+        .domain([0.5,YesNoMax])
+        .interpolate(d3.interpolateLab);
+    var PrctDistScale = d3.scale.linear()
+          .domain([0.5,YesNoMax])
+          .range([0,legend_width/2]);
+
+    svg.selectAll("path")
+        .data(topojson.feature(map, map.objects.precincts).features)
+        .transition()
+        .duration(100)
+        //.attr("d", path)
+        .style("fill", function(d) {
+          if (WinnerById[d.properties.Pid]=="Yes"){
+            return YesColor(PercById[d.properties.Pid]); 
+          }
+          else {
+            return NoColor(PercById[d.properties.Pid]); 
+          }
+        });
+    // LEGEND UPDATE //////////////////////////////////////////////
+    legend.select(".YesNoMax1").text(function(){return (YesNoMax*100).toFixed(0);});
+    legend.select(".YesNoMax2").text(function(){return (YesNoMax*100).toFixed(0)+"%";});
+
+    svg.selectAll(".PrctDistCircle")
+        .data(data)
+        .transition()
+        .duration(100)
+            .attr("cx",function(d){
+                if (d.Win=="Yes"){
+                  return legend_width/2+PrctDistScale(d.Perc); 
+                }
+                else {
+                  return legend_width/2-PrctDistScale(d.Perc); 
+                }
+            })
+            .style("fill", function(d){
+                if (d.Win=="Yes"){
+                  return YesColor(d.Perc); 
+                }
+                else {
+                  return NoColor(d.Perc); 
+                }
+            });
+  };
+
+  //Taken from http://bl.ocks.org/mbostock/7555321
+  //Wraps SVG text  
+  function wrap(text, width) {
+    text.each(function() {
+    var text = d3.select(this),
+      words = text.text().split(/\s+/).reverse(),
+      word,
+      line = [],
+      lineNumber = 0,
+      lineHeight = 1.4, // ems
+      y = text.attr("y"),
+      x = text.attr("x"),
+      dy = parseFloat(text.attr("dy")),
+      tspan = text.text(null).append("tspan").attr("x", x).attr("y", y).attr("dy", dy + "em").style("fill", "black");
+      
+    while (word = words.pop()) {
+      line.push(word);
+      tspan.text(line.join(" "));
+      if (tspan.node().getComputedTextLength() > width) {
+      line.pop();
+      tspan.text(line.join(" "));
+      line = [word];
+      tspan = text.append("tspan").attr("x", x).attr("y", y).attr("dy", ++lineNumber * lineHeight + dy + "em").text(word).style("fill", "black");
+      }
+    }
+    });
+  }//wrap 
+
+  // Proposition selection
+  function updateDescr(ballot) {
+    d3.select(".ballotDescription > text")
+    /*.transition()
+    .duration(1)*/
+    .html(ballotsDescr[ballot])
+    .call(wrap, 200);
+  }
+  var ballots = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K"];
+  var ballotWidth = Math.floor(legend_width/ballots.length);
+
+  descr = svg.append("g")
+    .attr("width", 200)
+    .attr("class", "ballotDescription")
+    .attr("transform", "translate(430,130)");
+  descr.append("text")
+    .attr("dy", "0.35em")
+    .attr("x", 0)
+    .attr("y", 0)
+    .html("Proposition A: </br>City of San Francisco Housing Bond Issue")
+    .call(wrap, 200);
+
+  svg.append("text")
+    .text("Select a proposition:")
+    .attr("transform", "translate(430,75)");
+  prop.selectAll("text")
+    .data(ballots)
+    .enter()
+    .append("text")
+      .attr("x", function(d,i){return 17*i;})
+      .attr("y", 70)
+      .text(function(d,i){return d;})
+        .on("click", function(d){
+          update_map(d);
+          updateDescr(d);
+        });
+});
+
+</script>
+</body>
+<div id="map">
+<!-- <p class="ballotDescription"><b>Proposition A:</b> </br>City of San Francisco Housing Bond Issue</p> -->
+</div>
+</p>
+
 <div>
 	<p>The <a href="http://www.sfelections.org/results/20151103/#english_detail">final report of 2015 San Francisco ballot propositions</a> has been published last Friday. I mapped the outcome of each proposition at the precinct level.</p>
-	<p>As often in San Francisco, the <a href="http://www.dailykos.com/story/2012/11/19/1160963/-A-crash-course-in-San-Francisco-politics">'conservative C'</a> frames the more progressive central Districts 5, 6, 8 and 9. The most contentious propositions F and I illustrate this pattern, but even in more consensual issues like the City housing bond (Prop A), the same pattern applies.</p>
+	<p>As often in San Francisco, the <a href="http://www.dailykos.com/story/2012/11/19/1160963/-A-crash-course-in-San-Francisco-politics">"conservative C"</a> frames the more progressive central Districts 5, 6, 8 and 9. The most contentious propositions F and I illustrate this pattern, but even in more consensual issues like the City housing bond (Prop A), the same pattern applies.</p>
 	<p>The San Francisco Department of elections offers <a href="http://www.sfelections.org/results/20151103/">synthetic datasets</a>. The datasets used here are <a href="https://github.com/lucguillemot/SF2015-Ballot">on Github</a> and the code to make the maps in a <a href="http://bl.ocks.org/lucguillemot/cb0a483b5bc0c42184a5">bl.ock</a>.</p>
 </p>
 </div>
 
-</body>
-</html>
 </body>
 </html>

@@ -9,6 +9,7 @@ baseurl: "/blog"
 url: "http://lucguillemot.github.io/" # the base hostname & protocol for your site
 twitter_username: lucguillemot
 github_username:  lucguillemot
-
 # Build settings
 markdown: kramdown
+kramdown:
+    smart_quotes:  ["rdquo", "rsquo", "ldquo", "rdquo"]
